@@ -1,0 +1,3057 @@
+{
+ "name": "Daily Span — US pack",
+ "version": 1,
+ "updated": "2026-08-19",
+ "questions": [
+  {
+   "id": "ec-win",
+   "q": "How many electoral votes are needed to win the presidency?",
+   "a": 270,
+   "unit": "votes",
+   "min": 0,
+   "max": 400,
+   "note": "270 of 538 — a majority.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "ec-total",
+   "q": "How many electors are in the Electoral College?",
+   "a": 538,
+   "unit": "electors",
+   "min": 0,
+   "max": 700,
+   "note": "435 House seats, 100 senators, plus 3 for the District of Columbia.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "house-seats",
+   "q": "How many voting members are in the US House of Representatives?",
+   "a": 435,
+   "unit": "members",
+   "min": 0,
+   "max": 700,
+   "note": "Fixed at 435 by the Permanent Apportionment Act of 1929.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "amendments",
+   "q": "How many amendments have been made to the US Constitution?",
+   "a": 27,
+   "unit": "amendments",
+   "min": 0,
+   "max": 70,
+   "note": "The 27th, on congressional pay, was ratified in 1992 — 202 years after it was proposed.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "bill-rights",
+   "q": "In which year was the Bill of Rights ratified?",
+   "a": 1791,
+   "unit": "",
+   "min": 1680,
+   "max": 1830,
+   "note": "December 1791.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "constitution-signed",
+   "q": "In which year was the US Constitution signed in Philadelphia?",
+   "a": 1787,
+   "unit": "",
+   "min": 1760,
+   "max": 1850,
+   "note": "17 September 1787.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "dec-signers",
+   "q": "How many men signed the Declaration of Independence?",
+   "a": 56,
+   "unit": "signers",
+   "min": 5,
+   "max": 200,
+   "note": "56 delegates, most signing on 2 August 1776.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "convention-signers",
+   "q": "How many delegates signed the Constitution at the Constitutional Convention?",
+   "a": 39,
+   "unit": "delegates",
+   "min": 0,
+   "max": 60,
+   "note": "39 of the 55 who attended.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "amend-states",
+   "q": "How many states must ratify a constitutional amendment for it to take effect?",
+   "a": 38,
+   "unit": "states",
+   "min": 0,
+   "max": 150,
+   "note": "Three quarters of the 50 states.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "veto-senate",
+   "q": "How many Senate votes are needed to override a presidential veto?",
+   "a": 67,
+   "unit": "votes",
+   "min": 0,
+   "max": 90,
+   "note": "Two thirds of those present and voting — 67 when the full Senate votes.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "scotus-size",
+   "q": "How many justices sit on the Supreme Court?",
+   "a": 9,
+   "unit": "justices",
+   "min": 0,
+   "max": 15,
+   "note": "Set by the Judiciary Act of 1869.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "scotus-longest",
+   "q": "For how many years did Justice William O. Douglas serve on the Supreme Court?",
+   "a": 36,
+   "unit": "years",
+   "min": 0,
+   "max": 100,
+   "note": "36 years and 209 days, from 1939 to 1975.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "court-packing",
+   "q": "How many additional justices did FDR's 1937 court-packing plan propose adding?",
+   "a": 6,
+   "unit": "justices",
+   "min": 0,
+   "max": 10,
+   "note": "Up to six, which would have taken the bench to 15. The bill failed.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "22nd",
+   "q": "In which year was the 22nd Amendment, limiting presidents to two terms, ratified?",
+   "a": 1951,
+   "unit": "",
+   "min": 1910,
+   "max": 2060,
+   "note": "1951, prompted by FDR's four election wins.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "19th",
+   "q": "In which year did the 19th Amendment give women the vote nationwide?",
+   "a": 1920,
+   "unit": "",
+   "min": 1890,
+   "max": 1980,
+   "note": "Ratified 18 August 1920.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "26th",
+   "q": "In which year did the 26th Amendment lower the voting age to 18?",
+   "a": 1971,
+   "unit": "",
+   "min": 1920,
+   "max": 2050,
+   "note": "1971 — ratified in just over three months, the fastest in US history.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "23rd",
+   "q": "In which year did the 23rd Amendment give the District of Columbia electoral votes?",
+   "a": 1961,
+   "unit": "",
+   "min": 1870,
+   "max": 2010,
+   "note": "1961. DC gets three.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "13th",
+   "q": "In which year was the 13th Amendment, abolishing slavery, ratified?",
+   "a": 1865,
+   "unit": "",
+   "min": 1830,
+   "max": 1940,
+   "note": "December 1865.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "civil-rights-act",
+   "q": "In which year was the Civil Rights Act outlawing segregation in public accommodations signed?",
+   "a": 1964,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "note": "Signed by Lyndon Johnson on 2 July 1964.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "voting-rights-act",
+   "q": "In which year was the Voting Rights Act signed into law?",
+   "a": 1965,
+   "unit": "",
+   "min": 1930,
+   "max": 2040,
+   "note": "6 August 1965.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "fdr-terms",
+   "q": "How many presidential elections did Franklin D. Roosevelt win?",
+   "a": 4,
+   "unit": "elections",
+   "min": 0.7,
+   "max": 15,
+   "note": "1932, 1936, 1940 and 1944.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "fdr-vetoes",
+   "q": "How many bills did Franklin D. Roosevelt veto — more than any other president?",
+   "a": 635,
+   "unit": "vetoes",
+   "min": 0,
+   "max": 900,
+   "note": "635, of which only nine were overridden.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "presidents-died",
+   "q": "How many US presidents have died in office?",
+   "a": 8,
+   "unit": "presidents",
+   "min": 1.5,
+   "max": 30,
+   "note": "Four assassinated, four from natural causes.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "presidents-assassinated",
+   "q": "How many US presidents have been assassinated?",
+   "a": 4,
+   "unit": "presidents",
+   "min": 0,
+   "max": 6,
+   "note": "Lincoln, Garfield, McKinley and Kennedy.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "impeached",
+   "q": "How many times has the House voted to impeach a US president?",
+   "a": 4,
+   "unit": "times",
+   "min": 0,
+   "max": 10,
+   "note": "Four: Andrew Johnson, Bill Clinton, and Donald Trump twice. The Senate convicted none of them.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "jfk-age",
+   "q": "How old was John F. Kennedy when he was inaugurated?",
+   "a": 43,
+   "unit": "years old",
+   "min": 0,
+   "max": 70,
+   "note": "43 — the youngest man ever elected president.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "tr-age",
+   "q": "How old was Theodore Roosevelt when he became president?",
+   "a": 42,
+   "unit": "years old",
+   "min": 15,
+   "max": 150,
+   "note": "42, the youngest ever to hold the office, after McKinley's assassination.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "reagan-age",
+   "q": "How old was Ronald Reagan at his first inauguration?",
+   "a": 69,
+   "unit": "years old",
+   "min": 15,
+   "max": 200,
+   "note": "69, then the oldest man to take the oath.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "reagan-84-ec",
+   "q": "How many electoral votes did Ronald Reagan win in 1984?",
+   "a": 525,
+   "unit": "votes",
+   "min": 70,
+   "max": 1500,
+   "note": "525 of 538 — the largest electoral college total ever.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "reagan-84-states",
+   "q": "How many states did Ronald Reagan carry in 1984?",
+   "a": 49,
+   "unit": "states",
+   "min": 0,
+   "max": 200,
+   "note": "All but Minnesota, Walter Mondale's home state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "nixon-72-ec",
+   "q": "How many electoral votes did Richard Nixon win in 1972?",
+   "a": 520,
+   "unit": "votes",
+   "min": 0,
+   "max": 700,
+   "note": "520, carrying 49 states.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "shutdown",
+   "q": "How many days did the longest US government shutdown last?",
+   "a": 43,
+   "unit": "days",
+   "min": 0,
+   "max": 150,
+   "note": "43 days, from 1 October to 12 November 2025, breaking the 35-day record set in 2018-19.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "filibuster",
+   "q": "How many hours did Strom Thurmond speak in his 1957 filibuster?",
+   "a": 24,
+   "unit": "hours",
+   "min": 0,
+   "max": 40,
+   "note": "24 hours and 18 minutes, against the Civil Rights Act of 1957.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "cabinet",
+   "q": "How many executive departments are there in the federal government?",
+   "a": 15,
+   "unit": "departments",
+   "min": 3,
+   "max": 60,
+   "note": "Fifteen, from State, the oldest, to Homeland Security, created in 2002.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "potus-salary",
+   "q": "What is the annual salary of the US president, in dollars?",
+   "a": 400000,
+   "unit": "$",
+   "min": 5000,
+   "max": 1500000,
+   "note": "$400,000, set in 2001. It was $200,000 for the three decades before that.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "fed-year",
+   "q": "In which year was the Federal Reserve created?",
+   "a": 1913,
+   "unit": "",
+   "min": 1840,
+   "max": 1930,
+   "note": "The Federal Reserve Act was signed in December 1913.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wh-rooms",
+   "q": "How many rooms are there in the White House?",
+   "a": 132,
+   "unit": "rooms",
+   "min": 40,
+   "max": 400,
+   "note": "132 rooms, including 35 bathrooms.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wh-occupied",
+   "q": "In which year did a president first live in the White House?",
+   "a": 1800,
+   "unit": "",
+   "min": 1740,
+   "max": 1880,
+   "note": "John Adams moved in during November 1800.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "alaska-state",
+   "q": "In which year did Alaska become a state?",
+   "a": 1959,
+   "unit": "",
+   "min": 1880,
+   "max": 1990,
+   "note": "3 January 1959, the 49th state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "hawaii-state",
+   "q": "In which year did Hawaii become a state?",
+   "a": 1959,
+   "unit": "",
+   "min": 1880,
+   "max": 2000,
+   "note": "21 August 1959, the 50th state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "prohibition-start",
+   "q": "In which year did national Prohibition take effect?",
+   "a": 1920,
+   "unit": "",
+   "min": 1860,
+   "max": 2000,
+   "note": "January 1920, under the 18th Amendment.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "prohibition-end",
+   "q": "In which year was Prohibition repealed?",
+   "a": 1933,
+   "unit": "",
+   "min": 1850,
+   "max": 1960,
+   "note": "The 21st Amendment, December 1933.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "reagan-shot",
+   "q": "In which year was Ronald Reagan shot outside the Washington Hilton?",
+   "a": 1981,
+   "unit": "",
+   "min": 1870,
+   "max": 2030,
+   "note": "30 March 1981, 69 days into his presidency.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "senate-term",
+   "q": "How many years is a full term for a US senator?",
+   "a": 6,
+   "unit": "years",
+   "min": 0,
+   "max": 9,
+   "note": "Six, with a third of the Senate up for election every two years.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "2020-votes",
+   "q": "How many votes were cast for president in the 2020 election, in millions?",
+   "a": 158,
+   "unit": "million",
+   "min": 10,
+   "max": 600,
+   "note": "About 158.4 million votes for president, the highest raw total in US history.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "2020-turnout",
+   "q": "What percentage of eligible voters turned out in the 2020 presidential election?",
+   "a": 67,
+   "unit": "%",
+   "min": 0,
+   "max": 100,
+   "note": "About 66.8%, the highest rate since 1900.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "ca-electors",
+   "q": "How many electoral votes did California have in the 2024 election?",
+   "a": 54,
+   "unit": "votes",
+   "min": 7,
+   "max": 200,
+   "note": "54 — the largest of any state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wy-electors",
+   "q": "How many electoral votes does Wyoming have — the minimum any state can hold?",
+   "a": 3,
+   "unit": "votes",
+   "min": 0.3,
+   "max": 15,
+   "note": "Three: one for each senator and one for its single House seat.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "scotus-marshall",
+   "q": "John Marshall was the longest-serving Chief Justice. How many years did he lead the Court?",
+   "a": 34,
+   "unit": "years",
+   "min": 0,
+   "max": 90,
+   "note": "34 years, from 1801 to 1835.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "congress-first",
+   "q": "In which year did the first US Congress convene?",
+   "a": 1789,
+   "unit": "",
+   "min": 1720,
+   "max": 1830,
+   "note": "March 1789, in New York City.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "colonies",
+   "q": "How many original colonies formed the United States?",
+   "a": 13,
+   "unit": "colonies",
+   "min": 1,
+   "max": 50,
+   "note": "Thirteen, from New Hampshire to Georgia.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "jamestown",
+   "q": "In which year was Jamestown founded?",
+   "a": 1607,
+   "unit": "",
+   "min": 1560,
+   "max": 1690,
+   "note": "1607 — the first permanent English settlement in America.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mayflower",
+   "q": "In which year did the Mayflower reach Cape Cod?",
+   "a": 1620,
+   "unit": "",
+   "min": 1590,
+   "max": 1690,
+   "note": "November 1620, after 66 days at sea.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mayflower-pax",
+   "q": "How many passengers sailed on the Mayflower?",
+   "a": 102,
+   "unit": "passengers",
+   "min": 10,
+   "max": 300,
+   "note": "102 passengers and roughly 30 crew.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "salem",
+   "q": "In which year did the Salem witch trials take place?",
+   "a": 1692,
+   "unit": "",
+   "min": 1650,
+   "max": 1800,
+   "note": "1692, in colonial Massachusetts.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "salem-executed",
+   "q": "How many people were executed in the Salem witch trials?",
+   "a": 20,
+   "unit": "people",
+   "min": 5,
+   "max": 60,
+   "note": "Nineteen hanged and one pressed to death.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "boston-tea",
+   "q": "In which year was the Boston Tea Party?",
+   "a": 1773,
+   "unit": "",
+   "min": 1720,
+   "max": 1850,
+   "note": "16 December 1773.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "tea-chests",
+   "q": "How many chests of tea were thrown into Boston Harbor?",
+   "a": 342,
+   "unit": "chests",
+   "min": 0,
+   "max": 600,
+   "note": "342 chests, worth about £10,000 at the time.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "revere",
+   "q": "In which year did Paul Revere make his midnight ride?",
+   "a": 1775,
+   "unit": "",
+   "min": 1660,
+   "max": 1820,
+   "note": "18 April 1775, the night before Lexington and Concord.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "declaration",
+   "q": "In which year was the Declaration of Independence adopted?",
+   "a": 1776,
+   "unit": "",
+   "min": 1740,
+   "max": 1850,
+   "note": "4 July 1776.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "yorktown",
+   "q": "In which year did Cornwallis surrender at Yorktown?",
+   "a": 1781,
+   "unit": "",
+   "min": 1700,
+   "max": 1820,
+   "note": "October 1781, effectively ending the fighting.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "paris-treaty",
+   "q": "In which year did the Treaty of Paris formally end the Revolutionary War?",
+   "a": 1783,
+   "unit": "",
+   "min": 1680,
+   "max": 1830,
+   "note": "September 1783.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "louisiana-year",
+   "q": "In which year was the Louisiana Purchase agreed?",
+   "a": 1803,
+   "unit": "",
+   "min": 1700,
+   "max": 1850,
+   "note": "1803, doubling the size of the country.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "louisiana-price",
+   "q": "How much did the United States pay for the Louisiana Purchase, in millions of dollars?",
+   "a": 15,
+   "unit": "million $",
+   "min": 0,
+   "max": 30,
+   "note": "$15 million — roughly three cents an acre.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "lewis-pacific",
+   "q": "In which year did Lewis and Clark first reach the Pacific Ocean?",
+   "a": 1805,
+   "unit": "",
+   "min": 1760,
+   "max": 1880,
+   "note": "November 1805, after 18 months on the trail.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alaska-price",
+   "q": "How much did the United States pay Russia for Alaska, in millions of dollars?",
+   "a": 7.2,
+   "dp": 1,
+   "unit": "million $",
+   "min": 0,
+   "max": 15,
+   "note": "$7.2 million in 1867 — about two cents an acre.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "texas-union",
+   "q": "In which year did Texas join the Union?",
+   "a": 1845,
+   "unit": "",
+   "min": 1730,
+   "max": 1890,
+   "note": "December 1845, as the 28th state.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "gold-rush",
+   "q": "In which year was gold discovered at Sutter's Mill?",
+   "a": 1848,
+   "unit": "",
+   "min": 1730,
+   "max": 1890,
+   "note": "January 1848, touching off the California Gold Rush.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "erie-canal",
+   "q": "In which year did the Erie Canal open?",
+   "a": 1825,
+   "unit": "",
+   "min": 1760,
+   "max": 1860,
+   "note": "1825, linking the Hudson River to the Great Lakes.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "erie-length",
+   "q": "How long is the Erie Canal, in miles?",
+   "a": 363,
+   "unit": "miles",
+   "min": 80,
+   "max": 1000,
+   "note": "363 miles from Albany to Buffalo.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "pony-express",
+   "q": "How many months did the Pony Express operate?",
+   "a": 18,
+   "unit": "months",
+   "min": 0,
+   "max": 25,
+   "note": "Just 18 months — the telegraph put it out of business.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "oregon-trail",
+   "q": "In which year did the 'Great Migration' wagon train set out on the Oregon Trail?",
+   "a": 1843,
+   "unit": "",
+   "min": 1740,
+   "max": 1890,
+   "note": "1843, when about 1,000 settlers made the crossing in a single train.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "trail-of-tears",
+   "q": "In which year did the Cherokee removal known as the Trail of Tears begin?",
+   "a": 1838,
+   "unit": "",
+   "min": 1790,
+   "max": 1910,
+   "note": "1838. Thousands died on the march west to Indian Territory.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alamo",
+   "q": "How many days did the siege of the Alamo last?",
+   "a": 13,
+   "unit": "days",
+   "min": 4,
+   "max": 40,
+   "note": "Thirteen days, ending on 6 March 1836.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "civil-war-start",
+   "q": "In which year did the Civil War begin at Fort Sumter?",
+   "a": 1861,
+   "unit": "",
+   "min": 1800,
+   "max": 1910,
+   "note": "April 1861.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "confederate-states",
+   "q": "How many states seceded to form the Confederacy?",
+   "a": 11,
+   "unit": "states",
+   "min": 0,
+   "max": 20,
+   "note": "Eleven seceded, though the Confederate flag carried 13 stars.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "railroad",
+   "q": "In which year was the transcontinental railroad completed at Promontory Summit?",
+   "a": 1869,
+   "unit": "",
+   "min": 1820,
+   "max": 1940,
+   "note": "10 May 1869, with a golden spike.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "wounded-knee",
+   "q": "In which year was the Wounded Knee massacre?",
+   "a": 1890,
+   "unit": "",
+   "min": 1850,
+   "max": 2000,
+   "note": "December 1890.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "liberty-year",
+   "q": "In which year was the Statue of Liberty dedicated?",
+   "a": 1886,
+   "unit": "",
+   "min": 1820,
+   "max": 1930,
+   "note": "28 October 1886, a gift from France.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "liberty-height",
+   "q": "How tall is the Statue of Liberty from ground to torch, in feet?",
+   "a": 305,
+   "unit": "feet",
+   "min": 0,
+   "max": 500,
+   "note": "305 feet including the pedestal; the statue alone is 151 feet.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "brooklyn-bridge",
+   "q": "In which year was the Brooklyn Bridge completed?",
+   "a": 1883,
+   "unit": "",
+   "min": 1840,
+   "max": 1960,
+   "note": "1883 — the longest suspension bridge in the world at the time.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "ellis-open",
+   "q": "In which year did Ellis Island open as an immigration station?",
+   "a": 1892,
+   "unit": "",
+   "min": 1840,
+   "max": 2000,
+   "note": "1892. It processed arrivals until 1954.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "ellis-millions",
+   "q": "How many immigrants passed through Ellis Island, in millions?",
+   "a": 12,
+   "unit": "million",
+   "min": 0,
+   "max": 20,
+   "note": "About 12 million over 62 years.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "wright",
+   "q": "In which year did the Wright brothers make their first powered flight?",
+   "a": 1903,
+   "unit": "",
+   "min": 1830,
+   "max": 1930,
+   "note": "17 December 1903, at Kitty Hawk.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "wright-feet",
+   "q": "How long was the Wright brothers' first flight, in feet?",
+   "a": 120,
+   "unit": "feet",
+   "min": 25,
+   "max": 400,
+   "note": "120 feet in 12 seconds.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "model-t",
+   "q": "In which year was the Ford Model T introduced?",
+   "a": 1908,
+   "unit": "",
+   "min": 1860,
+   "max": 1980,
+   "note": "1908. Fifteen million were built.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "model-t-price",
+   "q": "What did the cheapest Ford Model T body style cost in 1925, in dollars?",
+   "a": 260,
+   "unit": "$",
+   "min": 40,
+   "max": 800,
+   "note": "$260 for the Runabout — down from $850 at launch.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "panama",
+   "q": "In which year did the Panama Canal open?",
+   "a": 1914,
+   "unit": "",
+   "min": 1860,
+   "max": 2000,
+   "note": "August 1914, after a decade of American construction.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "crash",
+   "q": "In which year did the Wall Street Crash begin?",
+   "a": 1929,
+   "unit": "",
+   "min": 1850,
+   "max": 1960,
+   "note": "October 1929.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "depression-unemployment",
+   "q": "What was the peak unemployment rate during the Great Depression?",
+   "a": 25,
+   "unit": "%",
+   "min": 0,
+   "max": 100,
+   "note": "About 25% in 1933.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "empire-state",
+   "q": "In which year did the Empire State Building open?",
+   "a": 1931,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "note": "1931, built in just 410 days.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "empire-height",
+   "q": "How tall is the Empire State Building to the tip, in feet?",
+   "a": 1454,
+   "unit": "feet",
+   "min": 0,
+   "max": 4000,
+   "note": "1,454 feet including the spire; 1,250 feet to the roof.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "hoover-dam",
+   "q": "In which year did President Roosevelt dedicate the Hoover Dam?",
+   "a": 1935,
+   "unit": "",
+   "min": 1870,
+   "max": 2010,
+   "note": "September 1935. The last concrete had been poured that May.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "golden-gate",
+   "q": "In which year did the Golden Gate Bridge open?",
+   "a": 1937,
+   "unit": "",
+   "min": 1840,
+   "max": 1980,
+   "note": "May 1937.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "golden-gate-span",
+   "q": "How long is the Golden Gate Bridge's main span, in feet?",
+   "a": 4200,
+   "unit": "feet",
+   "min": 800,
+   "max": 15000,
+   "note": "4,200 feet — the longest suspension span in the world until 1964.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "route-66",
+   "q": "In which year was Route 66 established?",
+   "a": 1926,
+   "unit": "",
+   "min": 1880,
+   "max": 2000,
+   "note": "1926, running Chicago to Santa Monica.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "route-66-miles",
+   "q": "How long was Route 66, in miles?",
+   "a": 2448,
+   "unit": "miles",
+   "min": 0,
+   "max": 5000,
+   "note": "2,448 miles across eight states.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "interstate",
+   "q": "In which year did construction of the Interstate Highway System begin?",
+   "a": 1956,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "note": "1956, under the Federal-Aid Highway Act.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "assembly-line",
+   "q": "In which year did Ford introduce the moving assembly line?",
+   "a": 1913,
+   "unit": "",
+   "min": 1810,
+   "max": 1950,
+   "note": "1913 at Highland Park. It cut Model T assembly from 12 hours to about 90 minutes.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "washington-monument",
+   "q": "How tall is the Washington Monument, in feet?",
+   "a": 555,
+   "unit": "feet",
+   "min": 50,
+   "max": 2500,
+   "note": "555 feet — the tallest structure in the world when finished in 1884.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "pearl-year",
+   "q": "In which year was Pearl Harbor attacked?",
+   "a": 1941,
+   "unit": "",
+   "min": 1890,
+   "max": 2050,
+   "note": "7 December 1941.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "pearl-deaths",
+   "q": "How many Americans were killed at Pearl Harbor?",
+   "a": 2403,
+   "unit": "killed",
+   "min": 0,
+   "max": 7000,
+   "note": "2,403 dead, nearly half of them aboard the USS Arizona.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "arizona-dead",
+   "q": "How many men died aboard the USS Arizona at Pearl Harbor?",
+   "a": 1177,
+   "unit": "men",
+   "min": 0,
+   "max": 2000,
+   "note": "1,177 — most still entombed in the wreck.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "dday-year",
+   "q": "In which year did the D-Day landings take place?",
+   "a": 1944,
+   "unit": "",
+   "min": 1890,
+   "max": 2020,
+   "note": "6 June 1944.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "dday-troops",
+   "q": "About how many Allied troops landed in Normandy on D-Day, by sea and air?",
+   "a": 156000,
+   "unit": "troops",
+   "min": 20000,
+   "max": 500000,
+   "note": "About 156,000. Estimates vary; roughly 132,000 came by sea and the rest by air.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ww2-us-deaths",
+   "q": "According to the Department of Veterans Affairs, how many Americans in uniform died in the Second World War?",
+   "a": 405399,
+   "unit": "deaths",
+   "min": 0,
+   "max": 700000,
+   "note": "405,399 — 291,557 in battle and 113,842 from other causes.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ww1-us-deaths",
+   "q": "How many American service members died in the First World War?",
+   "a": 116516,
+   "unit": "deaths",
+   "min": 200,
+   "max": 500000,
+   "note": "116,516, over half from disease.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "korea-armistice",
+   "q": "In which year was the Korean War armistice signed?",
+   "a": 1953,
+   "unit": "",
+   "min": 1920,
+   "max": 2020,
+   "note": "27 July 1953, at Panmunjom. No peace treaty has ever followed.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "vietnam-deaths",
+   "q": "How many American service members died in the Vietnam War?",
+   "a": 58220,
+   "unit": "deaths",
+   "min": 0,
+   "max": 200000,
+   "note": "58,220 US military deaths. The Wall in Washington carries 58,281 names.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "vietnam-peak",
+   "q": "How many US troops were in Vietnam at the peak in 1969?",
+   "a": 543000,
+   "unit": "troops",
+   "min": 40000,
+   "max": 2000000,
+   "note": "About 543,000 in April 1969.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "bulge-days",
+   "q": "How many days did the Battle of the Bulge last?",
+   "a": 41,
+   "unit": "days",
+   "min": 0,
+   "max": 70,
+   "note": "16 December 1944 to 25 January 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "iwo-days",
+   "q": "How many days did the Battle of Iwo Jima last?",
+   "a": 36,
+   "unit": "days",
+   "min": 0,
+   "max": 70,
+   "note": "36 days of fighting in early 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "iwo-deaths",
+   "q": "How many Americans were killed at Iwo Jima?",
+   "a": 6821,
+   "unit": "killed",
+   "min": 0,
+   "max": 15000,
+   "note": "6,821 killed and nearly 20,000 wounded.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "midway-year",
+   "q": "In which year was the Battle of Midway?",
+   "a": 1942,
+   "unit": "",
+   "min": 1880,
+   "max": 1970,
+   "note": "June 1942, the turning point in the Pacific.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "midway-carriers",
+   "q": "How many Japanese aircraft carriers were sunk at Midway?",
+   "a": 4,
+   "unit": "carriers",
+   "min": 0,
+   "max": 6,
+   "note": "Four of the six carriers that had struck Pearl Harbor were sunk in a single day.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "antietam",
+   "q": "How many casualties were suffered at Antietam, the bloodiest single day in American history?",
+   "a": 22700,
+   "unit": "casualties",
+   "min": 0,
+   "max": 40000,
+   "note": "About 22,700 killed, wounded or missing on 17 September 1862.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "gettysburg-year",
+   "q": "In which year was the Battle of Gettysburg?",
+   "a": 1863,
+   "unit": "",
+   "min": 1800,
+   "max": 1940,
+   "note": "1–3 July 1863.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "gettysburg-casualties",
+   "q": "How many casualties were suffered at Gettysburg over three days?",
+   "a": 51000,
+   "unit": "casualties",
+   "min": 0,
+   "max": 70000,
+   "note": "About 51,000 across both armies.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "little-bighorn",
+   "q": "In which year was the Battle of the Little Bighorn?",
+   "a": 1876,
+   "unit": "",
+   "min": 1850,
+   "max": 1940,
+   "note": "25 June 1876.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "custer-dead",
+   "q": "How many men of the 7th Cavalry were killed at the Little Bighorn?",
+   "a": 268,
+   "unit": "men",
+   "min": 0,
+   "max": 400,
+   "note": "268 killed across the regiment; Custer's own battalion of about 210 was wiped out.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "valley-forge",
+   "q": "How many Continental soldiers encamped at Valley Forge?",
+   "a": 12000,
+   "unit": "soldiers",
+   "min": 0,
+   "max": 20000,
+   "note": "About 12,000. Roughly 2,000 died over the winter of 1777–78.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "constitution-launch",
+   "q": "In which year was the USS Constitution launched?",
+   "a": 1797,
+   "unit": "",
+   "min": 1730,
+   "max": 1840,
+   "note": "1797. She is still a commissioned Navy ship.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "marines-founded",
+   "q": "In which year was the US Marine Corps founded?",
+   "a": 1775,
+   "unit": "",
+   "min": 1700,
+   "max": 1800,
+   "note": "10 November 1775, at Tun Tavern in Philadelphia.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "westpoint",
+   "q": "In which year was West Point established as a military academy?",
+   "a": 1802,
+   "unit": "",
+   "min": 1700,
+   "max": 1850,
+   "note": "1802, under Thomas Jefferson.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "annapolis",
+   "q": "In which year was the US Naval Academy founded at Annapolis?",
+   "a": 1845,
+   "unit": "",
+   "min": 1730,
+   "max": 1890,
+   "note": "1845.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "pentagon-year",
+   "q": "In which year was the Pentagon completed?",
+   "a": 1943,
+   "unit": "",
+   "min": 1890,
+   "max": 2020,
+   "note": "January 1943, after just 16 months of construction.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "pentagon-corridors",
+   "q": "How many miles of corridors are inside the Pentagon?",
+   "a": 17.5,
+   "dp": 1,
+   "unit": "miles",
+   "min": 0,
+   "max": 70,
+   "note": "17.5 miles, yet no two points are more than a seven-minute walk apart.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "moh-ww2",
+   "q": "How many Medals of Honor were awarded for the Second World War?",
+   "a": 472,
+   "unit": "medals",
+   "min": 0,
+   "max": 700,
+   "note": "472, well over half of them posthumously.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "moh-civil-war",
+   "q": "How many Medals of Honor were awarded for the Civil War?",
+   "a": 1523,
+   "unit": "medals",
+   "min": 0,
+   "max": 3000,
+   "note": "1,523 — by far the most of any conflict.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "manhattan-cost",
+   "q": "What did the Manhattan Project cost, in billions of 1945 dollars?",
+   "a": 2,
+   "unit": "billion $",
+   "min": 0.25,
+   "max": 6,
+   "note": "About $2 billion, roughly $30 billion today.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "hiroshima-yield",
+   "q": "What was the yield of the Hiroshima bomb, in kilotons?",
+   "a": 15,
+   "unit": "kilotons",
+   "min": 5,
+   "max": 40,
+   "note": "About 15 kilotons of TNT equivalent.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "berlin-airlift",
+   "q": "How many days did the Berlin Airlift last?",
+   "a": 462,
+   "unit": "days",
+   "min": 100,
+   "max": 1500,
+   "note": "462 days, from 26 June 1948 to 30 September 1949, delivering over two million tons of supplies.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "desert-storm-ground",
+   "q": "How many hours did the Desert Storm ground war last?",
+   "a": 100,
+   "unit": "hours",
+   "min": 0,
+   "max": 200,
+   "note": "100 hours before the ceasefire.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "gulf-war",
+   "q": "In which year did Operation Desert Storm begin?",
+   "a": 1991,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "note": "January 1991. The wider Gulf War had begun with Iraq's invasion of Kuwait in August 1990.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b17-built",
+   "q": "How many B-17 Flying Fortresses were built?",
+   "a": 12731,
+   "unit": "aircraft",
+   "min": 0,
+   "max": 20000,
+   "note": "12,731 between 1936 and 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b17-crew",
+   "q": "How many crew flew in a B-17 Flying Fortress?",
+   "a": 10,
+   "unit": "crew",
+   "min": 0,
+   "max": 30,
+   "note": "Ten men manning thirteen .50 calibre machine guns.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "p51-built",
+   "q": "How many P-51 Mustangs were built?",
+   "a": 15586,
+   "unit": "aircraft",
+   "min": 0,
+   "max": 25000,
+   "note": "15,586.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "sherman-built",
+   "q": "How many M4 Sherman tanks were built?",
+   "a": 49234,
+   "unit": "tanks",
+   "min": 0,
+   "max": 70000,
+   "note": "49,234 — the most-produced American tank of the war.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "liberty-ships",
+   "q": "How many Liberty ships were built during the Second World War?",
+   "a": 2710,
+   "unit": "ships",
+   "min": 0,
+   "max": 4000,
+   "note": "2,710. At the peak, one was launched roughly every day.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "sr71-speed",
+   "q": "What was the SR-71 Blackbird's official top speed, in mph?",
+   "a": 2193,
+   "unit": "mph",
+   "min": 0,
+   "max": 4000,
+   "note": "2,193 mph — a record it still holds for a manned air-breathing aircraft.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "u2-ceiling",
+   "q": "What is the U-2's service ceiling, in feet?",
+   "a": 70000,
+   "unit": "feet",
+   "min": 0,
+   "max": 100000,
+   "note": "Above 70,000 feet, at the edge of space.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b52-range",
+   "q": "What is the B-52's unrefuelled range, in miles?",
+   "a": 8800,
+   "unit": "miles",
+   "min": 0,
+   "max": 15000,
+   "note": "About 8,800 miles.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b52-service",
+   "q": "In which year did the B-52 enter service?",
+   "a": 1955,
+   "unit": "",
+   "min": 1840,
+   "max": 2000,
+   "note": "1955 — and it is expected to fly into the 2050s.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b2-cost",
+   "q": "According to the US Air Force, what does a B-2 Spirit cost, in millions of 1998 dollars?",
+   "a": 1157,
+   "unit": "million $",
+   "min": 70,
+   "max": 4000,
+   "note": "$1.157 billion apiece in constant 1998 dollars. Counting development, the programme average was nearer $2 billion.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b2-built",
+   "q": "How many B-2 Spirit bombers were built?",
+   "a": 21,
+   "unit": "aircraft",
+   "min": 0,
+   "max": 30,
+   "note": "21, of which one was lost in a crash in 2008.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nimitz-length",
+   "q": "How long is a Nimitz-class aircraft carrier, in feet?",
+   "a": 1092,
+   "unit": "feet",
+   "min": 100,
+   "max": 5000,
+   "note": "1,092 feet — nearly a quarter of a mile.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nimitz-commissioned",
+   "q": "In which year was the USS Nimitz commissioned?",
+   "a": 1975,
+   "unit": "",
+   "min": 1910,
+   "max": 2050,
+   "note": "1975. She was still serving half a century later.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "abrams-weight",
+   "q": "How much does an M1A2 SEPv3 Abrams weigh, in short tons?",
+   "a": 73.6,
+   "dp": 1,
+   "unit": "tons",
+   "min": 0,
+   "max": 100,
+   "note": "73.6 short tons — the tank has gained over ten tons since the original M1.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "f16-speed",
+   "q": "What is the F-16's top speed, in mph?",
+   "a": 1500,
+   "unit": "mph",
+   "min": 0,
+   "max": 2000,
+   "note": "About 1,500 mph — Mach 2 at altitude, per the USAF fact sheet.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "f16-service",
+   "q": "In which year was the first production F-16 delivered to the US Air Force?",
+   "a": 1978,
+   "unit": "",
+   "min": 1880,
+   "max": 2020,
+   "note": "August 1978. The first operational wing stood up the following January.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nfl-teams",
+   "q": "How many teams are in the NFL?",
+   "a": 32,
+   "unit": "teams",
+   "min": 0,
+   "max": 50,
+   "note": "32, split evenly between the AFC and NFC.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-games",
+   "q": "How many games are in an NFL regular season?",
+   "a": 17,
+   "unit": "games",
+   "min": 0.8,
+   "max": 50,
+   "note": "17 since 2021, up from 16.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-roster",
+   "q": "How many players are on an NFL active roster?",
+   "a": 53,
+   "unit": "players",
+   "min": 10,
+   "max": 200,
+   "note": "53 on the roster, with 48 active on game day.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-founded",
+   "q": "In which year was the NFL founded?",
+   "a": 1920,
+   "unit": "",
+   "min": 1880,
+   "max": 1990,
+   "note": "1920, as the American Professional Football Association.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "merger",
+   "q": "In which year was the AFL-NFL merger completed?",
+   "a": 1970,
+   "unit": "",
+   "min": 1930,
+   "max": 2030,
+   "note": "1970, creating the AFC and NFC.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "first-superbowl",
+   "q": "In which year was the first Super Bowl played?",
+   "a": 1967,
+   "unit": "",
+   "min": 1940,
+   "max": 2030,
+   "note": "January 1967, Packers over Chiefs.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "field-length",
+   "q": "How long is a football field including both end zones, in yards?",
+   "a": 120,
+   "unit": "yards",
+   "min": 0,
+   "max": 200,
+   "note": "100 yards of playing field plus two 10-yard end zones.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "field-width",
+   "q": "How wide is an NFL field, in feet?",
+   "a": 160,
+   "unit": "feet",
+   "min": 0,
+   "max": 300,
+   "note": "160 feet, or 53⅓ yards.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "crossbar",
+   "q": "How high is the crossbar on an NFL goalpost, in feet?",
+   "a": 10,
+   "unit": "feet",
+   "min": 0,
+   "max": 20,
+   "note": "Ten feet above the ground.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "uprights",
+   "q": "How far apart are NFL goalpost uprights, in feet?",
+   "a": 18.5,
+   "dp": 1,
+   "unit": "feet",
+   "min": 2.5,
+   "max": 60,
+   "note": "18 feet 6 inches — college posts are wider.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "play-clock",
+   "q": "How many seconds are on the NFL play clock?",
+   "a": 40,
+   "unit": "seconds",
+   "min": 0,
+   "max": 70,
+   "note": "40 seconds from the end of the previous play.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "quarter",
+   "q": "How many minutes are in an NFL quarter?",
+   "a": 15,
+   "unit": "minutes",
+   "min": 4,
+   "max": 40,
+   "note": "Fifteen, for 60 minutes of game clock.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "officials",
+   "q": "How many officials are on an NFL officiating crew?",
+   "a": 7,
+   "unit": "officials",
+   "min": 0,
+   "max": 20,
+   "note": "Seven, led by the referee.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "ball-weight",
+   "q": "What is the maximum weight of an NFL football, in ounces?",
+   "a": 15,
+   "unit": "ounces",
+   "min": 2,
+   "max": 50,
+   "note": "The rulebook allows 14 to 15 ounces.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "playoff-teams",
+   "q": "How many teams make the NFL playoffs?",
+   "a": 14,
+   "unit": "teams",
+   "min": 0,
+   "max": 40,
+   "note": "Fourteen — seven from each conference.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "draft-rounds",
+   "q": "How many rounds are in the NFL draft?",
+   "a": 7,
+   "unit": "rounds",
+   "min": 0,
+   "max": 15,
+   "note": "Seven, down from 12 as recently as 1992.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-rings",
+   "q": "How many Super Bowls did Tom Brady win?",
+   "a": 7,
+   "unit": "titles",
+   "min": 0,
+   "max": 20,
+   "note": "Seven — more than any single franchise.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-yards",
+   "q": "How many regular-season passing yards did Tom Brady finish his career with?",
+   "a": 89214,
+   "unit": "yards",
+   "min": 9000,
+   "max": 250000,
+   "note": "89,214 in the regular season, the all-time record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-tds",
+   "q": "How many regular-season touchdown passes did Tom Brady throw?",
+   "a": 649,
+   "unit": "touchdowns",
+   "min": 0,
+   "max": 2000,
+   "note": "649 in the regular season.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-mvps",
+   "q": "How many Super Bowl MVP awards did Tom Brady win?",
+   "a": 5,
+   "unit": "awards",
+   "min": 0,
+   "max": 8,
+   "note": "Five, the most by any player.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "patriots-sb",
+   "q": "How many Super Bowls have the New England Patriots won?",
+   "a": 6,
+   "unit": "titles",
+   "min": 0,
+   "max": 20,
+   "note": "Six, all with Brady and Belichick.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "steelers-sb",
+   "q": "How many Super Bowls have the Pittsburgh Steelers won?",
+   "a": 6,
+   "unit": "titles",
+   "min": 0,
+   "max": 10,
+   "note": "Six, tied for the most in NFL history.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "cowboys-sb",
+   "q": "How many Super Bowls have the Dallas Cowboys won?",
+   "a": 5,
+   "unit": "titles",
+   "min": 0,
+   "max": 15,
+   "note": "Five, the last in the 1995 season.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "patriots-appearances",
+   "q": "How many Super Bowls have the Patriots appeared in?",
+   "a": 12,
+   "unit": "appearances",
+   "min": 4,
+   "max": 40,
+   "verify_by": "2027-03-01",
+   "note": "Twelve — the most of any franchise, after losing Super Bowl LX in February 2026.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "emmitt",
+   "q": "How many regular-season rushing yards did Emmitt Smith finish his career with?",
+   "a": 18355,
+   "unit": "yards",
+   "min": 3000,
+   "max": 60000,
+   "note": "18,355 — still the NFL record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "emmitt-tds",
+   "q": "How many regular-season rushing touchdowns did Emmitt Smith score?",
+   "a": 164,
+   "unit": "touchdowns",
+   "min": 40,
+   "max": 500,
+   "note": "164, the all-time record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rice-yards",
+   "q": "How many regular-season receiving yards did Jerry Rice finish his career with?",
+   "a": 22895,
+   "unit": "yards",
+   "min": 0,
+   "max": 30000,
+   "note": "22,895 — more than 5,400 clear of Larry Fitzgerald in second.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rice-catches",
+   "q": "How many regular-season receptions did Jerry Rice finish his career with?",
+   "a": 1549,
+   "unit": "catches",
+   "min": 0,
+   "max": 2500,
+   "note": "1,549.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rice-tds",
+   "q": "How many regular-season receiving touchdowns did Jerry Rice score?",
+   "a": 197,
+   "unit": "touchdowns",
+   "min": 0,
+   "max": 300,
+   "note": "197, and 208 touchdowns in total.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "bruce-smith",
+   "q": "How many regular-season sacks did Bruce Smith record?",
+   "a": 200,
+   "unit": "sacks",
+   "min": 0,
+   "max": 400,
+   "note": "200 exactly — the all-time record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "vinatieri",
+   "q": "How many regular-season points did Adam Vinatieri score, the most in NFL history?",
+   "a": 2673,
+   "unit": "points",
+   "min": 0,
+   "max": 4000,
+   "note": "2,673 over 24 seasons.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "favre-starts",
+   "q": "How many consecutive regular-season starts did Brett Favre make?",
+   "a": 297,
+   "unit": "starts",
+   "min": 100,
+   "max": 800,
+   "note": "297 — 321 including the playoffs.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "marino-1984",
+   "q": "How many passing yards did Dan Marino throw for in 1984?",
+   "a": 5084,
+   "unit": "yards",
+   "min": 0,
+   "max": 8000,
+   "note": "5,084 — a record that stood for 27 years.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "manning-tds",
+   "q": "How many touchdown passes did Peyton Manning throw in 2013?",
+   "a": 55,
+   "unit": "touchdowns",
+   "min": 0,
+   "max": 150,
+   "note": "55, the single-season record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "dickerson",
+   "q": "How many rushing yards did Eric Dickerson gain in 1984?",
+   "a": 2105,
+   "unit": "yards",
+   "min": 500,
+   "max": 6000,
+   "note": "2,105, still the single-season record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "peterson-game",
+   "q": "How many rushing yards did Adrian Peterson gain in a single game in 2007?",
+   "a": 296,
+   "unit": "yards",
+   "min": 0,
+   "max": 500,
+   "note": "296 against the Chargers — the single-game record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-fg",
+   "q": "How long is the longest field goal in NFL history, in yards?",
+   "a": 68,
+   "unit": "yards",
+   "min": 0.04,
+   "max": 300,
+   "verify_by": "2027-03-01",
+   "note": "68 yards, by Cam Little of Jacksonville in November 2025.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "most-points-game",
+   "q": "What is the most points scored by one team in an NFL game?",
+   "a": 72,
+   "unit": "points",
+   "min": 0,
+   "max": 200,
+   "note": "72, by Washington against the Giants in 1966.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-game",
+   "q": "To the nearest minute, how many minutes of playing time did the longest NFL game last?",
+   "a": 83,
+   "unit": "minutes",
+   "min": 0,
+   "max": 150,
+   "note": "82 minutes 40 seconds — Dolphins beat Chiefs on Christmas Day 1971.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "dolphins-72",
+   "q": "How many games did the undefeated 1972 Miami Dolphins win, including the playoffs?",
+   "a": 17,
+   "unit": "wins",
+   "min": 0,
+   "max": 30,
+   "note": "17–0, the only perfect season in NFL history.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "bears-85",
+   "q": "How many regular-season games did the 1985 Chicago Bears win?",
+   "a": 15,
+   "unit": "wins",
+   "min": 0,
+   "max": 25,
+   "note": "15–1, losing only to Miami.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "lombardi-height",
+   "q": "How tall is the Vince Lombardi Trophy, in inches?",
+   "a": 22,
+   "unit": "inches",
+   "min": 1,
+   "max": 90,
+   "note": "22 inches of sterling silver, made by Tiffany & Co.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "lombardi-weight",
+   "q": "How much does the Vince Lombardi Trophy weigh, in pounds?",
+   "a": 7,
+   "unit": "pounds",
+   "min": 0,
+   "max": 15,
+   "note": "About seven pounds.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "forward-pass",
+   "q": "In which year was the forward pass legalized in American football?",
+   "a": 1906,
+   "unit": "",
+   "min": 1830,
+   "max": 1950,
+   "note": "1906, to make the game less lethal.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "att-stadium",
+   "q": "What is the standard seating capacity of AT&T Stadium, home of the Cowboys?",
+   "a": 80000,
+   "unit": "seats",
+   "min": 0,
+   "max": 150000,
+   "note": "About 80,000, expandable past 100,000.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "combine-40",
+   "q": "What is the fastest 40-yard dash ever recorded at the NFL Combine, in seconds?",
+   "a": 4.21,
+   "dp": 2,
+   "unit": "seconds",
+   "min": 1,
+   "max": 15,
+   "verify_by": "2027-01-01",
+   "note": "4.21 by Xavier Worthy in 2024.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "superbowl-ad",
+   "q": "What did a 30-second Super Bowl advert cost in 2024, in millions of dollars?",
+   "a": 7,
+   "unit": "million $",
+   "min": 0,
+   "max": 10,
+   "verify_by": "2027-01-01",
+   "note": "About $7 million.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "heisman-first",
+   "q": "In which year was the trophy now known as the Heisman first awarded?",
+   "a": 1935,
+   "unit": "",
+   "min": 1900,
+   "max": 2000,
+   "note": "1935, to Jay Berwanger. It was called the DAC Trophy until Heisman died the following year.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rose-bowl",
+   "q": "In which year was the first Rose Bowl game played?",
+   "a": 1902,
+   "unit": "",
+   "min": 1860,
+   "max": 2020,
+   "note": "1902, making it the oldest bowl game.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-overtime",
+   "q": "How many minutes long is an NFL regular-season overtime period?",
+   "a": 10,
+   "unit": "minutes",
+   "min": 1.5,
+   "max": 30,
+   "note": "Ten minutes, reduced from 15 in 2017.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "2a-year",
+   "q": "In which year was the Second Amendment ratified?",
+   "a": 1791,
+   "unit": "",
+   "min": 1690,
+   "max": 1840,
+   "note": "1791, as part of the Bill of Rights.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "2a-words",
+   "q": "How many words are in the Second Amendment?",
+   "a": 27,
+   "unit": "words",
+   "min": 0,
+   "max": 40,
+   "note": "27 words, and lawyers have argued about the commas ever since.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "nfa",
+   "q": "In which year was the National Firearms Act passed?",
+   "a": 1934,
+   "unit": "",
+   "min": 1850,
+   "max": 1980,
+   "note": "1934, taxing and registering machine guns and short-barrelled weapons.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "gca",
+   "q": "In which year was the Gun Control Act passed?",
+   "a": 1968,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "note": "1968.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "heller",
+   "q": "In which year was District of Columbia v. Heller decided?",
+   "a": 2008,
+   "unit": "",
+   "min": 1960,
+   "max": 2080,
+   "note": "2008 — the Court's first ruling squarely on the individual right.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "brady-act",
+   "q": "In which year did the Brady Handgun Violence Prevention Act take effect?",
+   "a": 1994,
+   "unit": "",
+   "min": 1890,
+   "max": 2040,
+   "note": "February 1994, creating the waiting period that became NICS.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "colt-founded",
+   "q": "In which year was Colt's Patent Fire-Arms Manufacturing Company founded?",
+   "a": 1855,
+   "unit": "",
+   "min": 1820,
+   "max": 1970,
+   "note": "1855 in Hartford, Connecticut.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "sw-founded",
+   "q": "In which year did Smith & Wesson begin operations in Springfield, Massachusetts?",
+   "a": 1856,
+   "unit": "",
+   "min": 1820,
+   "max": 1920,
+   "note": "1856. An earlier 1852 partnership became Volcanic Repeating Arms.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "remington-founded",
+   "q": "In which year was Remington founded?",
+   "a": 1816,
+   "unit": "",
+   "min": 1740,
+   "max": 1840,
+   "note": "1816 — the oldest American gunmaker, though the business passed through bankruptcy in 2020.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-founded",
+   "q": "In which year was the Winchester Repeating Arms Company founded?",
+   "a": 1866,
+   "unit": "",
+   "min": 1830,
+   "max": 1930,
+   "note": "1866, out of the old New Haven Arms Company.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ruger-founded",
+   "q": "In which year was Sturm, Ruger & Co. founded?",
+   "a": 1949,
+   "unit": "",
+   "min": 1880,
+   "max": 1990,
+   "note": "1949, in a rented machine shop.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "saa-year",
+   "q": "In which year was the Colt Single Action Army introduced?",
+   "a": 1873,
+   "unit": "",
+   "min": 1790,
+   "max": 1920,
+   "note": "1873 — 'the gun that won the West'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "saa-first-gen",
+   "q": "How many first-generation Colt Single Action Army revolvers were produced?",
+   "a": 357859,
+   "unit": "revolvers",
+   "min": 0,
+   "max": 500000,
+   "note": "357,859 between 1873 and 1940.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "henry-year",
+   "q": "In which year was the Henry rifle introduced?",
+   "a": 1860,
+   "unit": "",
+   "min": 1820,
+   "max": 1980,
+   "note": "1860. Confederates called it 'that damned Yankee rifle you load on Sunday and shoot all week'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "henry-capacity",
+   "q": "How many rounds did the original Henry rifle's magazine hold?",
+   "a": 15,
+   "unit": "rounds",
+   "min": 0,
+   "max": 25,
+   "note": "Fifteen in the magazine, sixteen with one in the chamber.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-94",
+   "q": "In which year was the Winchester Model 1894 introduced?",
+   "a": 1894,
+   "unit": "",
+   "min": 1860,
+   "max": 1960,
+   "note": "1894, designed by John Browning.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-94-made",
+   "q": "In which year did US production of the Winchester Model 1894 end?",
+   "a": 2006,
+   "dp": 1,
+   "unit": "",
+   "min": 1960,
+   "max": 2090,
+   "note": "March 2006, when the New Haven plant closed after 112 years.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "gatling",
+   "q": "In which year was the Gatling gun patented?",
+   "a": 1862,
+   "unit": "",
+   "min": 1820,
+   "max": 1940,
+   "note": "1862, by Richard Gatling.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "gatling-rpm",
+   "q": "What was the rate of fire of the original Gatling gun, in rounds per minute?",
+   "a": 200,
+   "unit": "rpm",
+   "min": 40,
+   "max": 600,
+   "note": "About 200 rounds per minute by hand crank.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "springfield-1903",
+   "q": "In which year was the Springfield M1903 rifle adopted?",
+   "a": 1903,
+   "unit": "",
+   "min": 1830,
+   "max": 1930,
+   "note": "1903, and it stayed in service through the Second World War.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1911-year",
+   "q": "In which year was the M1911 pistol adopted by the US Army?",
+   "a": 1911,
+   "unit": "",
+   "min": 1830,
+   "max": 1960,
+   "note": "1911, designed by John Browning.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1911-capacity",
+   "q": "How many rounds does a standard M1911 magazine hold?",
+   "a": 7,
+   "unit": "rounds",
+   "min": 1,
+   "max": 30,
+   "note": "Seven rounds of .45 ACP.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m9-year",
+   "q": "In which year did the Beretta M9 replace the M1911 as the US service pistol?",
+   "a": 1985,
+   "unit": "",
+   "min": 1930,
+   "max": 2070,
+   "note": "1985.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m9-capacity",
+   "q": "How many rounds does a standard Beretta M9 magazine hold?",
+   "a": 15,
+   "unit": "rounds",
+   "min": 0,
+   "max": 25,
+   "note": "Fifteen rounds of 9mm.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "garand-year",
+   "q": "In which year was the M1 Garand adopted?",
+   "a": 1936,
+   "unit": "",
+   "min": 1850,
+   "max": 1960,
+   "note": "1936. Patton called it 'the greatest battle implement ever devised'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "garand-clip",
+   "q": "How many rounds are in an M1 Garand en bloc clip?",
+   "a": 8,
+   "unit": "rounds",
+   "min": 1,
+   "max": 25,
+   "note": "Eight — and the clip ejects with an audible ping.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "garand-weight",
+   "q": "How much does an M1 Garand weigh, in pounds?",
+   "a": 9.5,
+   "dp": 1,
+   "unit": "pounds",
+   "min": 3,
+   "max": 30,
+   "note": "About 9.5 pounds unloaded.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "garand-made",
+   "q": "How many M1 Garands were produced in total between 1937 and 1957, in millions?",
+   "a": 5.5,
+   "dp": 1,
+   "unit": "million",
+   "min": 0,
+   "max": 8,
+   "note": "About 5,468,000 in total.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "thompson-year",
+   "q": "In which year did the Thompson submachine gun enter production?",
+   "a": 1921,
+   "unit": "",
+   "min": 1880,
+   "max": 2000,
+   "note": "1921. The Army bought it, but Prohibition made it famous.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "thompson-rpm",
+   "q": "What is the rate of fire of the M1921 Thompson, in rounds per minute?",
+   "a": 800,
+   "unit": "rpm",
+   "min": 30,
+   "max": 2500,
+   "note": "About 800 rounds per minute. Later M1928 and M1 variants were slowed to around 600.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "browning-m2-year",
+   "q": "In which year was the M2 Browning heavy machine gun adopted?",
+   "a": 1933,
+   "unit": "",
+   "min": 1880,
+   "max": 2010,
+   "note": "1933 — and it is still in front-line service.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "browning-m2-rpm",
+   "q": "How much does an M2 Browning machine gun weigh without its tripod, in pounds?",
+   "a": 84,
+   "unit": "pounds",
+   "min": 20,
+   "max": 400,
+   "note": "84 pounds for the M2HB — the tripod adds another 44.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "browning-m2-range",
+   "q": "What is the M2 Browning's effective range, in yards?",
+   "a": 2000,
+   "unit": "yards",
+   "min": 90,
+   "max": 6000,
+   "note": "About 2,000 yards.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "bar-weight",
+   "q": "How much does the M1918 Browning Automatic Rifle weigh, in pounds?",
+   "a": 16,
+   "unit": "pounds",
+   "min": 0,
+   "max": 50,
+   "note": "About 16 pounds — the reason BAR men were chosen for their size.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ar15-year",
+   "q": "In which year did ArmaLite sell the AR-15 design to Colt?",
+   "a": 1959,
+   "unit": "",
+   "min": 1860,
+   "max": 2000,
+   "note": "1959. ArmaLite had developed the rifle from 1956.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m16-year",
+   "q": "In which year was the M16A1 standardized as the US Army's service rifle?",
+   "a": 1967,
+   "unit": "",
+   "min": 1940,
+   "max": 2030,
+   "note": "1967. The Air Force had adopted an earlier version in 1964.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m16-weight",
+   "q": "How much does an M16A2 weigh without magazine or sling, in pounds?",
+   "a": 7.8,
+   "dp": 1,
+   "unit": "pounds",
+   "min": 0,
+   "max": 15,
+   "note": "7.78 pounds per the Army field manual; 8.79 pounds with a loaded 30-round magazine.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ar15-mag",
+   "q": "How many rounds does a standard AR-15 magazine hold?",
+   "a": 30,
+   "unit": "rounds",
+   "min": 0,
+   "max": 40,
+   "note": "Thirty, though 20-round magazines came first.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "556-velocity",
+   "q": "What is the muzzle velocity of 5.56mm M193 ball from a 20-inch barrel, in feet per second?",
+   "a": 3250,
+   "unit": "fps",
+   "min": 500,
+   "max": 10000,
+   "note": "About 3,250 fps. From a 14.5-inch M4 barrel the same round drops to roughly 3,000.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "3006-velocity",
+   "q": "What is the published muzzle velocity of a commercial 150-grain .30-06 load, in feet per second?",
+   "a": 2910,
+   "unit": "fps",
+   "min": 0,
+   "max": 5000,
+   "note": "About 2,910 fps. Military M2 ball ran nearer 2,740 fps.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "308-energy",
+   "q": "What is the muzzle energy of a 150-grain .308 Winchester load, in foot-pounds?",
+   "a": 2650,
+   "unit": "ft-lb",
+   "min": 700,
+   "max": 8000,
+   "note": "About 2,650 foot-pounds.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "22lr-velocity",
+   "q": "What is the typical muzzle velocity of a high-velocity .22 Long Rifle round, in feet per second?",
+   "a": 1250,
+   "unit": "fps",
+   "min": 0,
+   "max": 4000,
+   "note": "Around 1,250 fps. Standard-velocity loads run closer to 1,120.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "50bmg-velocity",
+   "q": "What is the muzzle velocity of a .50 BMG round, in feet per second?",
+   "a": 2900,
+   "unit": "fps",
+   "min": 0,
+   "max": 5000,
+   "note": "About 2,900 fps.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ak47-year",
+   "q": "In which year was the AK-47 adopted by the Soviet Army?",
+   "a": 1949,
+   "unit": "",
+   "min": 1850,
+   "max": 2000,
+   "note": "1949.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ak-made",
+   "q": "How old was Mikhail Kalashnikov when he died in 2013?",
+   "a": 94,
+   "unit": "years old",
+   "min": 25,
+   "max": 300,
+   "note": "94. Late in life he said he wished he had invented a lawnmower instead.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "762x39-velocity",
+   "q": "What is the muzzle velocity of a 7.62x39mm round, in feet per second?",
+   "a": 2350,
+   "unit": "fps",
+   "min": 0,
+   "max": 4000,
+   "note": "About 2,350 fps.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "glock17-year",
+   "q": "In which year was the Glock 17 introduced?",
+   "a": 1982,
+   "unit": "",
+   "min": 1920,
+   "max": 2060,
+   "note": "1982, when it won the Austrian army pistol contract.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "glock17-capacity",
+   "q": "How many rounds does a standard Glock 17 magazine hold?",
+   "a": 17,
+   "unit": "rounds",
+   "min": 0,
+   "max": 30,
+   "note": "Seventeen rounds of 9mm in the standard magazine.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "870-made",
+   "q": "In which year did Remington build its 10 millionth Model 870 shotgun?",
+   "a": 2009,
+   "unit": "",
+   "min": 1940,
+   "max": 2030,
+   "note": "April 2009 — the best-selling shotgun ever made.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "1022-year",
+   "q": "In which year was the Ruger 10/22 introduced?",
+   "a": 1964,
+   "unit": "",
+   "min": 1900,
+   "max": 2010,
+   "note": "1964, and it has been in continuous production ever since.",
+   "tags": [
+    "guns"
+   ]
+  }
+ ],
+ "packs": [
+  {
+   "id": "politics",
+   "name": "US Politics",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "history",
+   "name": "American History",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "military",
+   "name": "Military History",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "football",
+   "name": "American Football",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "guns",
+   "name": "Guns",
+   "tags": [
+    "guns"
+   ]
+  }
+ ]
+}
