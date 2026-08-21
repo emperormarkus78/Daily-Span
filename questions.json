@@ -1,7 +1,7 @@
 {
  "name": "Daily Span — US pack",
- "version": 1,
- "updated": "2026-08-19",
+ "version": 8,
+ "updated": "2026-08-21",
  "questions": [
   {
    "id": "ec-win",
@@ -10,6 +10,7 @@
    "unit": "votes",
    "min": 0,
    "max": 400,
+   "source": "US National Archives",
    "note": "270 of 538 — a majority.",
    "tags": [
     "politics"
@@ -22,6 +23,7 @@
    "unit": "electors",
    "min": 0,
    "max": 700,
+   "source": "US National Archives",
    "note": "435 House seats, 100 senators, plus 3 for the District of Columbia.",
    "tags": [
     "politics"
@@ -34,6 +36,7 @@
    "unit": "members",
    "min": 0,
    "max": 700,
+   "source": "US National Archives",
    "note": "Fixed at 435 by the Permanent Apportionment Act of 1929.",
    "tags": [
     "politics"
@@ -46,6 +49,7 @@
    "unit": "amendments",
    "min": 0,
    "max": 70,
+   "source": "US National Archives",
    "note": "The 27th, on congressional pay, was ratified in 1992 — 202 years after it was proposed.",
    "tags": [
     "politics"
@@ -58,6 +62,7 @@
    "unit": "",
    "min": 1680,
    "max": 1830,
+   "source": "US National Archives",
    "note": "December 1791.",
    "tags": [
     "politics"
@@ -70,6 +75,7 @@
    "unit": "",
    "min": 1760,
    "max": 1850,
+   "source": "US National Archives",
    "note": "17 September 1787.",
    "tags": [
     "politics"
@@ -82,6 +88,7 @@
    "unit": "signers",
    "min": 5,
    "max": 200,
+   "source": "US National Archives",
    "note": "56 delegates, most signing on 2 August 1776.",
    "tags": [
     "politics"
@@ -94,6 +101,7 @@
    "unit": "delegates",
    "min": 0,
    "max": 60,
+   "source": "US National Archives",
    "note": "39 of the 55 who attended.",
    "tags": [
     "politics"
@@ -106,6 +114,7 @@
    "unit": "states",
    "min": 0,
    "max": 150,
+   "source": "US National Archives",
    "note": "Three quarters of the 50 states.",
    "tags": [
     "politics"
@@ -118,6 +127,7 @@
    "unit": "votes",
    "min": 0,
    "max": 90,
+   "source": "US Senate Historical Office",
    "note": "Two thirds of those present and voting — 67 when the full Senate votes.",
    "tags": [
     "politics"
@@ -130,6 +140,7 @@
    "unit": "justices",
    "min": 0,
    "max": 15,
+   "source": "Supreme Court of the United States",
    "note": "Set by the Judiciary Act of 1869.",
    "tags": [
     "politics"
@@ -142,6 +153,7 @@
    "unit": "years",
    "min": 0,
    "max": 100,
+   "source": "Supreme Court of the United States",
    "note": "36 years and 209 days, from 1939 to 1975.",
    "tags": [
     "politics"
@@ -154,6 +166,7 @@
    "unit": "justices",
    "min": 0,
    "max": 10,
+   "source": "Supreme Court of the United States",
    "note": "Up to six, which would have taken the bench to 15. The bill failed.",
    "tags": [
     "politics"
@@ -166,6 +179,7 @@
    "unit": "",
    "min": 1910,
    "max": 2060,
+   "source": "US National Archives",
    "note": "1951, prompted by FDR's four election wins.",
    "tags": [
     "politics"
@@ -178,6 +192,7 @@
    "unit": "",
    "min": 1890,
    "max": 1980,
+   "source": "US National Archives",
    "note": "Ratified 18 August 1920.",
    "tags": [
     "politics"
@@ -190,6 +205,7 @@
    "unit": "",
    "min": 1920,
    "max": 2050,
+   "source": "US National Archives",
    "note": "1971 — ratified in just over three months, the fastest in US history.",
    "tags": [
     "politics"
@@ -202,6 +218,7 @@
    "unit": "",
    "min": 1870,
    "max": 2010,
+   "source": "US National Archives",
    "note": "1961. DC gets three.",
    "tags": [
     "politics"
@@ -214,6 +231,7 @@
    "unit": "",
    "min": 1830,
    "max": 1940,
+   "source": "US National Archives",
    "note": "December 1865.",
    "tags": [
     "politics"
@@ -226,6 +244,7 @@
    "unit": "",
    "min": 1900,
    "max": 2040,
+   "source": "US National Archives",
    "note": "Signed by Lyndon Johnson on 2 July 1964.",
    "tags": [
     "politics"
@@ -238,6 +257,7 @@
    "unit": "",
    "min": 1930,
    "max": 2040,
+   "source": "US National Archives",
    "note": "6 August 1965.",
    "tags": [
     "politics"
@@ -250,6 +270,7 @@
    "unit": "elections",
    "min": 0.7,
    "max": 15,
+   "source": "US National Archives",
    "note": "1932, 1936, 1940 and 1944.",
    "tags": [
     "politics"
@@ -262,6 +283,7 @@
    "unit": "vetoes",
    "min": 0,
    "max": 900,
+   "source": "US Senate Historical Office",
    "note": "635, of which only nine were overridden.",
    "tags": [
     "politics"
@@ -274,6 +296,7 @@
    "unit": "presidents",
    "min": 1.5,
    "max": 30,
+   "source": "US National Archives",
    "note": "Four assassinated, four from natural causes.",
    "tags": [
     "politics"
@@ -286,6 +309,7 @@
    "unit": "presidents",
    "min": 0,
    "max": 6,
+   "source": "US National Archives",
    "note": "Lincoln, Garfield, McKinley and Kennedy.",
    "tags": [
     "politics"
@@ -298,6 +322,7 @@
    "unit": "times",
    "min": 0,
    "max": 10,
+   "source": "US Senate Historical Office",
    "note": "Four: Andrew Johnson, Bill Clinton, and Donald Trump twice. The Senate convicted none of them.",
    "tags": [
     "politics"
@@ -310,6 +335,7 @@
    "unit": "years old",
    "min": 0,
    "max": 70,
+   "source": "US National Archives",
    "note": "43 — the youngest man ever elected president.",
    "tags": [
     "politics"
@@ -322,6 +348,7 @@
    "unit": "years old",
    "min": 15,
    "max": 150,
+   "source": "US National Archives",
    "note": "42, the youngest ever to hold the office, after McKinley's assassination.",
    "tags": [
     "politics"
@@ -334,6 +361,7 @@
    "unit": "years old",
    "min": 15,
    "max": 200,
+   "source": "US National Archives",
    "note": "69, then the oldest man to take the oath.",
    "tags": [
     "politics"
@@ -346,6 +374,7 @@
    "unit": "votes",
    "min": 70,
    "max": 1500,
+   "source": "US National Archives",
    "note": "525 of 538 — the largest electoral college total ever.",
    "tags": [
     "politics"
@@ -358,6 +387,7 @@
    "unit": "states",
    "min": 0,
    "max": 200,
+   "source": "US National Archives",
    "note": "All but Minnesota, Walter Mondale's home state.",
    "tags": [
     "politics"
@@ -370,6 +400,7 @@
    "unit": "votes",
    "min": 0,
    "max": 700,
+   "source": "US National Archives",
    "note": "520, carrying 49 states.",
    "tags": [
     "politics"
@@ -382,6 +413,7 @@
    "unit": "days",
    "min": 0,
    "max": 150,
+   "source": "US National Archives",
    "note": "43 days, from 1 October to 12 November 2025, breaking the 35-day record set in 2018-19.",
    "tags": [
     "politics"
@@ -394,6 +426,7 @@
    "unit": "hours",
    "min": 0,
    "max": 40,
+   "source": "US Senate Historical Office",
    "note": "24 hours and 18 minutes, against the Civil Rights Act of 1957.",
    "tags": [
     "politics"
@@ -406,6 +439,7 @@
    "unit": "departments",
    "min": 3,
    "max": 60,
+   "source": "US National Archives",
    "note": "Fifteen, from State, the oldest, to Homeland Security, created in 2002.",
    "tags": [
     "politics"
@@ -418,6 +452,7 @@
    "unit": "$",
    "min": 5000,
    "max": 1500000,
+   "source": "White House Historical Association",
    "note": "$400,000, set in 2001. It was $200,000 for the three decades before that.",
    "tags": [
     "politics"
@@ -430,6 +465,7 @@
    "unit": "",
    "min": 1840,
    "max": 1930,
+   "source": "US National Archives",
    "note": "The Federal Reserve Act was signed in December 1913.",
    "tags": [
     "politics"
@@ -442,6 +478,7 @@
    "unit": "rooms",
    "min": 40,
    "max": 400,
+   "source": "White House Historical Association",
    "note": "132 rooms, including 35 bathrooms.",
    "tags": [
     "politics"
@@ -454,6 +491,7 @@
    "unit": "",
    "min": 1740,
    "max": 1880,
+   "source": "White House Historical Association",
    "note": "John Adams moved in during November 1800.",
    "tags": [
     "politics"
@@ -466,6 +504,7 @@
    "unit": "",
    "min": 1880,
    "max": 1990,
+   "source": "US National Archives",
    "note": "3 January 1959, the 49th state.",
    "tags": [
     "politics"
@@ -478,6 +517,7 @@
    "unit": "",
    "min": 1880,
    "max": 2000,
+   "source": "US National Archives",
    "note": "21 August 1959, the 50th state.",
    "tags": [
     "politics"
@@ -490,6 +530,7 @@
    "unit": "",
    "min": 1860,
    "max": 2000,
+   "source": "US National Archives",
    "note": "January 1920, under the 18th Amendment.",
    "tags": [
     "politics"
@@ -502,6 +543,7 @@
    "unit": "",
    "min": 1850,
    "max": 1960,
+   "source": "US National Archives",
    "note": "The 21st Amendment, December 1933.",
    "tags": [
     "politics"
@@ -514,6 +556,7 @@
    "unit": "",
    "min": 1870,
    "max": 2030,
+   "source": "White House Historical Association",
    "note": "30 March 1981, 69 days into his presidency.",
    "tags": [
     "politics"
@@ -526,6 +569,7 @@
    "unit": "years",
    "min": 0,
    "max": 9,
+   "source": "US Senate Historical Office",
    "note": "Six, with a third of the Senate up for election every two years.",
    "tags": [
     "politics"
@@ -538,6 +582,7 @@
    "unit": "million",
    "min": 10,
    "max": 600,
+   "source": "US National Archives",
    "note": "About 158.4 million votes for president, the highest raw total in US history.",
    "tags": [
     "politics"
@@ -550,6 +595,7 @@
    "unit": "%",
    "min": 0,
    "max": 100,
+   "source": "US National Archives",
    "note": "About 66.8%, the highest rate since 1900.",
    "tags": [
     "politics"
@@ -562,6 +608,7 @@
    "unit": "votes",
    "min": 7,
    "max": 200,
+   "source": "US National Archives",
    "note": "54 — the largest of any state.",
    "tags": [
     "politics"
@@ -574,6 +621,7 @@
    "unit": "votes",
    "min": 0.3,
    "max": 15,
+   "source": "US National Archives",
    "note": "Three: one for each senator and one for its single House seat.",
    "tags": [
     "politics"
@@ -586,6 +634,7 @@
    "unit": "years",
    "min": 0,
    "max": 90,
+   "source": "Supreme Court of the United States",
    "note": "34 years, from 1801 to 1835.",
    "tags": [
     "politics"
@@ -598,6 +647,7 @@
    "unit": "",
    "min": 1720,
    "max": 1830,
+   "source": "US Senate Historical Office",
    "note": "March 1789, in New York City.",
    "tags": [
     "politics"
@@ -610,6 +660,7 @@
    "unit": "colonies",
    "min": 1,
    "max": 50,
+   "source": "Library of Congress",
    "note": "Thirteen, from New Hampshire to Georgia.",
    "tags": [
     "history"
@@ -622,6 +673,7 @@
    "unit": "",
    "min": 1560,
    "max": 1690,
+   "source": "US National Park Service",
    "note": "1607 — the first permanent English settlement in America.",
    "tags": [
     "history"
@@ -634,6 +686,7 @@
    "unit": "",
    "min": 1590,
    "max": 1690,
+   "source": "Library of Congress",
    "note": "November 1620, after 66 days at sea.",
    "tags": [
     "history"
@@ -646,6 +699,7 @@
    "unit": "passengers",
    "min": 10,
    "max": 300,
+   "source": "Library of Congress",
    "note": "102 passengers and roughly 30 crew.",
    "tags": [
     "history"
@@ -658,6 +712,7 @@
    "unit": "",
    "min": 1650,
    "max": 1800,
+   "source": "US National Park Service",
    "note": "1692, in colonial Massachusetts.",
    "tags": [
     "history"
@@ -670,6 +725,7 @@
    "unit": "people",
    "min": 5,
    "max": 60,
+   "source": "US National Park Service",
    "note": "Nineteen hanged and one pressed to death.",
    "tags": [
     "history"
@@ -682,6 +738,7 @@
    "unit": "",
    "min": 1720,
    "max": 1850,
+   "source": "Library of Congress",
    "note": "16 December 1773.",
    "tags": [
     "history"
@@ -694,6 +751,7 @@
    "unit": "chests",
    "min": 0,
    "max": 600,
+   "source": "Library of Congress",
    "note": "342 chests, worth about £10,000 at the time.",
    "tags": [
     "history"
@@ -706,6 +764,7 @@
    "unit": "",
    "min": 1660,
    "max": 1820,
+   "source": "Library of Congress",
    "note": "18 April 1775, the night before Lexington and Concord.",
    "tags": [
     "history"
@@ -718,6 +777,7 @@
    "unit": "",
    "min": 1740,
    "max": 1850,
+   "source": "Library of Congress",
    "note": "4 July 1776.",
    "tags": [
     "history"
@@ -730,6 +790,7 @@
    "unit": "",
    "min": 1700,
    "max": 1820,
+   "source": "Library of Congress",
    "note": "October 1781, effectively ending the fighting.",
    "tags": [
     "history"
@@ -742,6 +803,7 @@
    "unit": "",
    "min": 1680,
    "max": 1830,
+   "source": "Library of Congress",
    "note": "September 1783.",
    "tags": [
     "history"
@@ -754,6 +816,7 @@
    "unit": "",
    "min": 1700,
    "max": 1850,
+   "source": "Library of Congress",
    "note": "1803, doubling the size of the country.",
    "tags": [
     "history"
@@ -766,6 +829,7 @@
    "unit": "million $",
    "min": 0,
    "max": 30,
+   "source": "Pro Football Hall of Fame",
    "note": "$15 million — roughly three cents an acre.",
    "tags": [
     "history"
@@ -778,6 +842,7 @@
    "unit": "",
    "min": 1760,
    "max": 1880,
+   "source": "Library of Congress",
    "note": "November 1805, after 18 months on the trail.",
    "tags": [
     "history"
@@ -791,6 +856,7 @@
    "unit": "million $",
    "min": 0,
    "max": 15,
+   "source": "Pro Football Hall of Fame",
    "note": "$7.2 million in 1867 — about two cents an acre.",
    "tags": [
     "history"
@@ -803,6 +869,7 @@
    "unit": "",
    "min": 1730,
    "max": 1890,
+   "source": "Library of Congress",
    "note": "December 1845, as the 28th state.",
    "tags": [
     "history"
@@ -815,6 +882,7 @@
    "unit": "",
    "min": 1730,
    "max": 1890,
+   "source": "Library of Congress",
    "note": "January 1848, touching off the California Gold Rush.",
    "tags": [
     "history"
@@ -827,6 +895,7 @@
    "unit": "",
    "min": 1760,
    "max": 1860,
+   "source": "Library of Congress",
    "note": "1825, linking the Hudson River to the Great Lakes.",
    "tags": [
     "history"
@@ -839,6 +908,7 @@
    "unit": "miles",
    "min": 80,
    "max": 1000,
+   "source": "Library of Congress",
    "note": "363 miles from Albany to Buffalo.",
    "tags": [
     "history"
@@ -851,6 +921,7 @@
    "unit": "months",
    "min": 0,
    "max": 25,
+   "source": "Library of Congress",
    "note": "Just 18 months — the telegraph put it out of business.",
    "tags": [
     "history"
@@ -863,6 +934,7 @@
    "unit": "",
    "min": 1740,
    "max": 1890,
+   "source": "US National Park Service",
    "note": "1843, when about 1,000 settlers made the crossing in a single train.",
    "tags": [
     "history"
@@ -875,6 +947,7 @@
    "unit": "",
    "min": 1790,
    "max": 1910,
+   "source": "US National Park Service",
    "note": "1838. Thousands died on the march west to Indian Territory.",
    "tags": [
     "history"
@@ -887,6 +960,7 @@
    "unit": "days",
    "min": 4,
    "max": 40,
+   "source": "US National Park Service",
    "note": "Thirteen days, ending on 6 March 1836.",
    "tags": [
     "history"
@@ -899,6 +973,7 @@
    "unit": "",
    "min": 1800,
    "max": 1910,
+   "source": "Library of Congress",
    "note": "April 1861.",
    "tags": [
     "history"
@@ -911,6 +986,7 @@
    "unit": "states",
    "min": 0,
    "max": 20,
+   "source": "Library of Congress",
    "note": "Eleven seceded, though the Confederate flag carried 13 stars.",
    "tags": [
     "history"
@@ -923,6 +999,7 @@
    "unit": "",
    "min": 1820,
    "max": 1940,
+   "source": "Library of Congress",
    "note": "10 May 1869, with a golden spike.",
    "tags": [
     "history"
@@ -935,6 +1012,7 @@
    "unit": "",
    "min": 1850,
    "max": 2000,
+   "source": "US National Park Service",
    "note": "December 1890.",
    "tags": [
     "history"
@@ -947,6 +1025,7 @@
    "unit": "",
    "min": 1820,
    "max": 1930,
+   "source": "US National Park Service",
    "note": "28 October 1886, a gift from France.",
    "tags": [
     "history"
@@ -959,6 +1038,7 @@
    "unit": "feet",
    "min": 0,
    "max": 500,
+   "source": "US National Park Service",
    "note": "305 feet including the pedestal; the statue alone is 151 feet.",
    "tags": [
     "history"
@@ -971,6 +1051,7 @@
    "unit": "",
    "min": 1840,
    "max": 1960,
+   "source": "Library of Congress",
    "note": "1883 — the longest suspension bridge in the world at the time.",
    "tags": [
     "history"
@@ -983,6 +1064,7 @@
    "unit": "",
    "min": 1840,
    "max": 2000,
+   "source": "US National Park Service",
    "note": "1892. It processed arrivals until 1954.",
    "tags": [
     "history"
@@ -995,6 +1077,7 @@
    "unit": "million",
    "min": 0,
    "max": 20,
+   "source": "US National Park Service",
    "note": "About 12 million over 62 years.",
    "tags": [
     "history"
@@ -1007,6 +1090,7 @@
    "unit": "",
    "min": 1830,
    "max": 1930,
+   "source": "Library of Congress",
    "note": "17 December 1903, at Kitty Hawk.",
    "tags": [
     "history"
@@ -1019,6 +1103,7 @@
    "unit": "feet",
    "min": 25,
    "max": 400,
+   "source": "Library of Congress",
    "note": "120 feet in 12 seconds.",
    "tags": [
     "history"
@@ -1031,6 +1116,7 @@
    "unit": "",
    "min": 1860,
    "max": 1980,
+   "source": "Library of Congress",
    "note": "1908. Fifteen million were built.",
    "tags": [
     "history"
@@ -1043,6 +1129,7 @@
    "unit": "$",
    "min": 40,
    "max": 800,
+   "source": "Pro Football Hall of Fame",
    "note": "$260 for the Runabout — down from $850 at launch.",
    "tags": [
     "history"
@@ -1055,6 +1142,7 @@
    "unit": "",
    "min": 1860,
    "max": 2000,
+   "source": "Library of Congress",
    "note": "August 1914, after a decade of American construction.",
    "tags": [
     "history"
@@ -1067,6 +1155,7 @@
    "unit": "",
    "min": 1850,
    "max": 1960,
+   "source": "Library of Congress",
    "note": "October 1929.",
    "tags": [
     "history"
@@ -1079,6 +1168,7 @@
    "unit": "%",
    "min": 0,
    "max": 100,
+   "source": "Library of Congress",
    "note": "About 25% in 1933.",
    "tags": [
     "history"
@@ -1091,6 +1181,7 @@
    "unit": "",
    "min": 1890,
    "max": 2000,
+   "source": "Library of Congress",
    "note": "1931, built in just 410 days.",
    "tags": [
     "history"
@@ -1103,6 +1194,7 @@
    "unit": "feet",
    "min": 0,
    "max": 4000,
+   "source": "Library of Congress",
    "note": "1,454 feet including the spire; 1,250 feet to the roof.",
    "tags": [
     "history"
@@ -1115,6 +1207,7 @@
    "unit": "",
    "min": 1870,
    "max": 2010,
+   "source": "Library of Congress",
    "note": "September 1935. The last concrete had been poured that May.",
    "tags": [
     "history"
@@ -1127,6 +1220,7 @@
    "unit": "",
    "min": 1840,
    "max": 1980,
+   "source": "Library of Congress",
    "note": "May 1937.",
    "tags": [
     "history"
@@ -1139,6 +1233,7 @@
    "unit": "feet",
    "min": 800,
    "max": 15000,
+   "source": "Library of Congress",
    "note": "4,200 feet — the longest suspension span in the world until 1964.",
    "tags": [
     "history"
@@ -1151,6 +1246,7 @@
    "unit": "",
    "min": 1880,
    "max": 2000,
+   "source": "Library of Congress",
    "note": "1926, running Chicago to Santa Monica.",
    "tags": [
     "history"
@@ -1163,6 +1259,7 @@
    "unit": "miles",
    "min": 0,
    "max": 5000,
+   "source": "Library of Congress",
    "note": "2,448 miles across eight states.",
    "tags": [
     "history"
@@ -1175,6 +1272,7 @@
    "unit": "",
    "min": 1890,
    "max": 2000,
+   "source": "Library of Congress",
    "note": "1956, under the Federal-Aid Highway Act.",
    "tags": [
     "history"
@@ -1187,6 +1285,7 @@
    "unit": "",
    "min": 1810,
    "max": 1950,
+   "source": "Library of Congress",
    "note": "1913 at Highland Park. It cut Model T assembly from 12 hours to about 90 minutes.",
    "tags": [
     "history"
@@ -1199,6 +1298,7 @@
    "unit": "feet",
    "min": 50,
    "max": 2500,
+   "source": "Library of Congress",
    "note": "555 feet — the tallest structure in the world when finished in 1884.",
    "tags": [
     "history"
@@ -1211,6 +1311,7 @@
    "unit": "",
    "min": 1890,
    "max": 2050,
+   "source": "Naval History and Heritage Command",
    "note": "7 December 1941.",
    "tags": [
     "military"
@@ -1223,6 +1324,7 @@
    "unit": "killed",
    "min": 0,
    "max": 7000,
+   "source": "Naval History and Heritage Command",
    "note": "2,403 dead, nearly half of them aboard the USS Arizona.",
    "tags": [
     "military"
@@ -1235,6 +1337,7 @@
    "unit": "men",
    "min": 0,
    "max": 2000,
+   "source": "Naval History and Heritage Command",
    "note": "1,177 — most still entombed in the wreck.",
    "tags": [
     "military"
@@ -1247,6 +1350,7 @@
    "unit": "",
    "min": 1890,
    "max": 2020,
+   "source": "US Army Center of Military History",
    "note": "6 June 1944.",
    "tags": [
     "military"
@@ -1259,6 +1363,7 @@
    "unit": "troops",
    "min": 20000,
    "max": 500000,
+   "source": "US Army Center of Military History",
    "note": "About 156,000. Estimates vary; roughly 132,000 came by sea and the rest by air.",
    "tags": [
     "military"
@@ -1271,6 +1376,7 @@
    "unit": "deaths",
    "min": 0,
    "max": 700000,
+   "source": "US Army Center of Military History",
    "note": "405,399 — 291,557 in battle and 113,842 from other causes.",
    "tags": [
     "military"
@@ -1283,6 +1389,7 @@
    "unit": "deaths",
    "min": 200,
    "max": 500000,
+   "source": "US Army Center of Military History",
    "note": "116,516, over half from disease.",
    "tags": [
     "military"
@@ -1295,6 +1402,7 @@
    "unit": "",
    "min": 1920,
    "max": 2020,
+   "source": "US Army Center of Military History",
    "note": "27 July 1953, at Panmunjom. No peace treaty has ever followed.",
    "tags": [
     "military"
@@ -1307,6 +1415,7 @@
    "unit": "deaths",
    "min": 0,
    "max": 200000,
+   "source": "US Army Center of Military History",
    "note": "58,220 US military deaths. The Wall in Washington carries 58,281 names.",
    "tags": [
     "military"
@@ -1319,6 +1428,7 @@
    "unit": "troops",
    "min": 40000,
    "max": 2000000,
+   "source": "NRA Museums",
    "note": "About 543,000 in April 1969.",
    "tags": [
     "military"
@@ -1331,6 +1441,7 @@
    "unit": "days",
    "min": 0,
    "max": 70,
+   "source": "US Army Center of Military History",
    "note": "16 December 1944 to 25 January 1945.",
    "tags": [
     "military"
@@ -1343,6 +1454,7 @@
    "unit": "days",
    "min": 0,
    "max": 70,
+   "source": "US Army Center of Military History",
    "note": "36 days of fighting in early 1945.",
    "tags": [
     "military"
@@ -1355,6 +1467,7 @@
    "unit": "killed",
    "min": 0,
    "max": 15000,
+   "source": "US Army Center of Military History",
    "note": "6,821 killed and nearly 20,000 wounded.",
    "tags": [
     "military"
@@ -1367,6 +1480,7 @@
    "unit": "",
    "min": 1880,
    "max": 1970,
+   "source": "Naval History and Heritage Command",
    "note": "June 1942, the turning point in the Pacific.",
    "tags": [
     "military"
@@ -1379,6 +1493,7 @@
    "unit": "carriers",
    "min": 0,
    "max": 6,
+   "source": "Naval History and Heritage Command",
    "note": "Four of the six carriers that had struck Pearl Harbor were sunk in a single day.",
    "tags": [
     "military"
@@ -1391,6 +1506,7 @@
    "unit": "casualties",
    "min": 0,
    "max": 40000,
+   "source": "US Army Center of Military History",
    "note": "About 22,700 killed, wounded or missing on 17 September 1862.",
    "tags": [
     "military"
@@ -1403,6 +1519,7 @@
    "unit": "",
    "min": 1800,
    "max": 1940,
+   "source": "US National Park Service",
    "note": "1–3 July 1863.",
    "tags": [
     "military"
@@ -1415,6 +1532,7 @@
    "unit": "casualties",
    "min": 0,
    "max": 70000,
+   "source": "US Army Center of Military History",
    "note": "About 51,000 across both armies.",
    "tags": [
     "military"
@@ -1427,6 +1545,7 @@
    "unit": "",
    "min": 1850,
    "max": 1940,
+   "source": "US National Park Service",
    "note": "25 June 1876.",
    "tags": [
     "military"
@@ -1439,6 +1558,7 @@
    "unit": "men",
    "min": 0,
    "max": 400,
+   "source": "US Army Center of Military History",
    "note": "268 killed across the regiment; Custer's own battalion of about 210 was wiped out.",
    "tags": [
     "military"
@@ -1451,6 +1571,7 @@
    "unit": "soldiers",
    "min": 0,
    "max": 20000,
+   "source": "US Army Center of Military History",
    "note": "About 12,000. Roughly 2,000 died over the winter of 1777–78.",
    "tags": [
     "military"
@@ -1463,6 +1584,7 @@
    "unit": "",
    "min": 1730,
    "max": 1840,
+   "source": "Naval History and Heritage Command",
    "note": "1797. She is still a commissioned Navy ship.",
    "tags": [
     "military"
@@ -1475,6 +1597,7 @@
    "unit": "",
    "min": 1700,
    "max": 1800,
+   "source": "US Army Center of Military History",
    "note": "10 November 1775, at Tun Tavern in Philadelphia.",
    "tags": [
     "military"
@@ -1487,6 +1610,7 @@
    "unit": "",
    "min": 1700,
    "max": 1850,
+   "source": "US Army Center of Military History",
    "note": "1802, under Thomas Jefferson.",
    "tags": [
     "military"
@@ -1499,6 +1623,7 @@
    "unit": "",
    "min": 1730,
    "max": 1890,
+   "source": "US Army Center of Military History",
    "note": "1845.",
    "tags": [
     "military"
@@ -1511,6 +1636,7 @@
    "unit": "",
    "min": 1890,
    "max": 2020,
+   "source": "US Army Center of Military History",
    "note": "January 1943, after just 16 months of construction.",
    "tags": [
     "military"
@@ -1524,6 +1650,7 @@
    "unit": "miles",
    "min": 0,
    "max": 70,
+   "source": "US Army Center of Military History",
    "note": "17.5 miles, yet no two points are more than a seven-minute walk apart.",
    "tags": [
     "military"
@@ -1536,6 +1663,7 @@
    "unit": "medals",
    "min": 0,
    "max": 700,
+   "source": "US Army Center of Military History",
    "note": "472, well over half of them posthumously.",
    "tags": [
     "military"
@@ -1548,6 +1676,7 @@
    "unit": "medals",
    "min": 0,
    "max": 3000,
+   "source": "US Army Center of Military History",
    "note": "1,523 — by far the most of any conflict.",
    "tags": [
     "military"
@@ -1560,6 +1689,7 @@
    "unit": "billion $",
    "min": 0.25,
    "max": 6,
+   "source": "US Army Center of Military History",
    "note": "About $2 billion, roughly $30 billion today.",
    "tags": [
     "military"
@@ -1572,6 +1702,7 @@
    "unit": "kilotons",
    "min": 5,
    "max": 40,
+   "source": "US Army Center of Military History",
    "note": "About 15 kilotons of TNT equivalent.",
    "tags": [
     "military"
@@ -1584,6 +1715,7 @@
    "unit": "days",
    "min": 100,
    "max": 1500,
+   "source": "US Army Center of Military History",
    "note": "462 days, from 26 June 1948 to 30 September 1949, delivering over two million tons of supplies.",
    "tags": [
     "military"
@@ -1596,6 +1728,7 @@
    "unit": "hours",
    "min": 0,
    "max": 200,
+   "source": "US Army Center of Military History",
    "note": "100 hours before the ceasefire.",
    "tags": [
     "military"
@@ -1608,6 +1741,7 @@
    "unit": "",
    "min": 1900,
    "max": 2040,
+   "source": "US Army Center of Military History",
    "note": "January 1991. The wider Gulf War had begun with Iraq's invasion of Kuwait in August 1990.",
    "tags": [
     "military"
@@ -1620,6 +1754,7 @@
    "unit": "aircraft",
    "min": 0,
    "max": 20000,
+   "source": "US Air Force fact sheet",
    "note": "12,731 between 1936 and 1945.",
    "tags": [
     "military"
@@ -1632,6 +1767,7 @@
    "unit": "crew",
    "min": 0,
    "max": 30,
+   "source": "US Air Force fact sheet",
    "note": "Ten men manning thirteen .50 calibre machine guns.",
    "tags": [
     "military"
@@ -1644,6 +1780,7 @@
    "unit": "aircraft",
    "min": 0,
    "max": 25000,
+   "source": "US Army Center of Military History",
    "note": "15,586.",
    "tags": [
     "military"
@@ -1656,6 +1793,7 @@
    "unit": "tanks",
    "min": 0,
    "max": 70000,
+   "source": "US Army Center of Military History",
    "note": "49,234 — the most-produced American tank of the war.",
    "tags": [
     "military"
@@ -1668,6 +1806,7 @@
    "unit": "ships",
    "min": 0,
    "max": 4000,
+   "source": "US National Park Service",
    "note": "2,710. At the peak, one was launched roughly every day.",
    "tags": [
     "military"
@@ -1680,6 +1819,7 @@
    "unit": "mph",
    "min": 0,
    "max": 4000,
+   "source": "US Air Force fact sheet",
    "note": "2,193 mph — a record it still holds for a manned air-breathing aircraft.",
    "tags": [
     "military"
@@ -1692,6 +1832,7 @@
    "unit": "feet",
    "min": 0,
    "max": 100000,
+   "source": "US Air Force fact sheet",
    "note": "Above 70,000 feet, at the edge of space.",
    "tags": [
     "military"
@@ -1704,6 +1845,7 @@
    "unit": "miles",
    "min": 0,
    "max": 15000,
+   "source": "US Air Force fact sheet",
    "note": "About 8,800 miles.",
    "tags": [
     "military"
@@ -1716,6 +1858,7 @@
    "unit": "",
    "min": 1840,
    "max": 2000,
+   "source": "US Air Force fact sheet",
    "note": "1955 — and it is expected to fly into the 2050s.",
    "tags": [
     "military"
@@ -1728,6 +1871,7 @@
    "unit": "million $",
    "min": 70,
    "max": 4000,
+   "source": "US Air Force fact sheet",
    "note": "$1.157 billion apiece in constant 1998 dollars. Counting development, the programme average was nearer $2 billion.",
    "tags": [
     "military"
@@ -1740,6 +1884,7 @@
    "unit": "aircraft",
    "min": 0,
    "max": 30,
+   "source": "US Air Force fact sheet",
    "note": "21, of which one was lost in a crash in 2008.",
    "tags": [
     "military"
@@ -1752,6 +1897,7 @@
    "unit": "feet",
    "min": 100,
    "max": 5000,
+   "source": "Naval History and Heritage Command",
    "note": "1,092 feet — nearly a quarter of a mile.",
    "tags": [
     "military"
@@ -1764,6 +1910,7 @@
    "unit": "",
    "min": 1910,
    "max": 2050,
+   "source": "Naval History and Heritage Command",
    "note": "1975. She was still serving half a century later.",
    "tags": [
     "military"
@@ -1777,6 +1924,7 @@
    "unit": "tons",
    "min": 0,
    "max": 100,
+   "source": "US Army Center of Military History",
    "note": "73.6 short tons — the tank has gained over ten tons since the original M1.",
    "tags": [
     "military"
@@ -1789,6 +1937,7 @@
    "unit": "mph",
    "min": 0,
    "max": 2000,
+   "source": "US Air Force fact sheet",
    "note": "About 1,500 mph — Mach 2 at altitude, per the USAF fact sheet.",
    "tags": [
     "military"
@@ -1801,6 +1950,7 @@
    "unit": "",
    "min": 1880,
    "max": 2020,
+   "source": "US Air Force fact sheet",
    "note": "August 1978. The first operational wing stood up the following January.",
    "tags": [
     "military"
@@ -1813,6 +1963,7 @@
    "unit": "teams",
    "min": 0,
    "max": 50,
+   "source": "NFL Record & Fact Book",
    "note": "32, split evenly between the AFC and NFC.",
    "tags": [
     "football"
@@ -1825,6 +1976,7 @@
    "unit": "games",
    "min": 0.8,
    "max": 50,
+   "source": "NFL Record & Fact Book",
    "note": "17 since 2021, up from 16.",
    "tags": [
     "football"
@@ -1837,6 +1989,7 @@
    "unit": "players",
    "min": 10,
    "max": 200,
+   "source": "NFL Record & Fact Book",
    "note": "53 on the roster, with 48 active on game day.",
    "tags": [
     "football"
@@ -1849,6 +2002,7 @@
    "unit": "",
    "min": 1880,
    "max": 1990,
+   "source": "NFL Record & Fact Book",
    "note": "1920, as the American Professional Football Association.",
    "tags": [
     "football"
@@ -1861,6 +2015,7 @@
    "unit": "",
    "min": 1930,
    "max": 2030,
+   "source": "NFL Record & Fact Book",
    "note": "1970, creating the AFC and NFC.",
    "tags": [
     "football"
@@ -1873,6 +2028,7 @@
    "unit": "",
    "min": 1940,
    "max": 2030,
+   "source": "NFL Record & Fact Book",
    "note": "January 1967, Packers over Chiefs.",
    "tags": [
     "football"
@@ -1885,6 +2041,7 @@
    "unit": "yards",
    "min": 0,
    "max": 200,
+   "source": "NFL Record & Fact Book",
    "note": "100 yards of playing field plus two 10-yard end zones.",
    "tags": [
     "football"
@@ -1897,6 +2054,7 @@
    "unit": "feet",
    "min": 0,
    "max": 300,
+   "source": "NFL Record & Fact Book",
    "note": "160 feet, or 53⅓ yards.",
    "tags": [
     "football"
@@ -1909,6 +2067,7 @@
    "unit": "feet",
    "min": 0,
    "max": 20,
+   "source": "NFL Record & Fact Book",
    "note": "Ten feet above the ground.",
    "tags": [
     "football"
@@ -1922,6 +2081,7 @@
    "unit": "feet",
    "min": 2.5,
    "max": 60,
+   "source": "NFL Record & Fact Book",
    "note": "18 feet 6 inches — college posts are wider.",
    "tags": [
     "football"
@@ -1934,6 +2094,7 @@
    "unit": "seconds",
    "min": 0,
    "max": 70,
+   "source": "NFL Record & Fact Book",
    "note": "40 seconds from the end of the previous play.",
    "tags": [
     "football"
@@ -1946,6 +2107,7 @@
    "unit": "minutes",
    "min": 4,
    "max": 40,
+   "source": "NFL Record & Fact Book",
    "note": "Fifteen, for 60 minutes of game clock.",
    "tags": [
     "football"
@@ -1958,6 +2120,7 @@
    "unit": "officials",
    "min": 0,
    "max": 20,
+   "source": "NFL Record & Fact Book",
    "note": "Seven, led by the referee.",
    "tags": [
     "football"
@@ -1970,6 +2133,7 @@
    "unit": "ounces",
    "min": 2,
    "max": 50,
+   "source": "NFL Record & Fact Book",
    "note": "The rulebook allows 14 to 15 ounces.",
    "tags": [
     "football"
@@ -1982,6 +2146,7 @@
    "unit": "teams",
    "min": 0,
    "max": 40,
+   "source": "NFL Record & Fact Book",
    "note": "Fourteen — seven from each conference.",
    "tags": [
     "football"
@@ -1994,6 +2159,7 @@
    "unit": "rounds",
    "min": 0,
    "max": 15,
+   "source": "NFL Record & Fact Book",
    "note": "Seven, down from 12 as recently as 1992.",
    "tags": [
     "football"
@@ -2006,6 +2172,7 @@
    "unit": "titles",
    "min": 0,
    "max": 20,
+   "source": "Pro Football Hall of Fame",
    "note": "Seven — more than any single franchise.",
    "tags": [
     "football"
@@ -2018,6 +2185,7 @@
    "unit": "yards",
    "min": 9000,
    "max": 250000,
+   "source": "Pro Football Hall of Fame",
    "note": "89,214 in the regular season, the all-time record.",
    "tags": [
     "football"
@@ -2030,6 +2198,7 @@
    "unit": "touchdowns",
    "min": 0,
    "max": 2000,
+   "source": "Pro Football Hall of Fame",
    "note": "649 in the regular season.",
    "tags": [
     "football"
@@ -2042,6 +2211,7 @@
    "unit": "awards",
    "min": 0,
    "max": 8,
+   "source": "Pro Football Hall of Fame",
    "note": "Five, the most by any player.",
    "tags": [
     "football"
@@ -2054,6 +2224,7 @@
    "unit": "titles",
    "min": 0,
    "max": 20,
+   "source": "NFL Record & Fact Book",
    "note": "Six, all with Brady and Belichick.",
    "tags": [
     "football"
@@ -2066,6 +2237,7 @@
    "unit": "titles",
    "min": 0,
    "max": 10,
+   "source": "NFL Record & Fact Book",
    "note": "Six, tied for the most in NFL history.",
    "tags": [
     "football"
@@ -2078,6 +2250,7 @@
    "unit": "titles",
    "min": 0,
    "max": 15,
+   "source": "NFL Record & Fact Book",
    "note": "Five, the last in the 1995 season.",
    "tags": [
     "football"
@@ -2090,6 +2263,7 @@
    "unit": "appearances",
    "min": 4,
    "max": 40,
+   "source": "NFL Record & Fact Book",
    "verify_by": "2027-03-01",
    "note": "Twelve — the most of any franchise, after losing Super Bowl LX in February 2026.",
    "tags": [
@@ -2103,6 +2277,7 @@
    "unit": "yards",
    "min": 3000,
    "max": 60000,
+   "source": "Pro Football Hall of Fame",
    "note": "18,355 — still the NFL record.",
    "tags": [
     "football"
@@ -2115,6 +2290,7 @@
    "unit": "touchdowns",
    "min": 40,
    "max": 500,
+   "source": "Pro Football Hall of Fame",
    "note": "164, the all-time record.",
    "tags": [
     "football"
@@ -2127,6 +2303,7 @@
    "unit": "yards",
    "min": 0,
    "max": 30000,
+   "source": "Pro Football Hall of Fame",
    "note": "22,895 — more than 5,400 clear of Larry Fitzgerald in second.",
    "tags": [
     "football"
@@ -2139,6 +2316,7 @@
    "unit": "catches",
    "min": 0,
    "max": 2500,
+   "source": "Pro Football Hall of Fame",
    "note": "1,549.",
    "tags": [
     "football"
@@ -2151,6 +2329,7 @@
    "unit": "touchdowns",
    "min": 0,
    "max": 300,
+   "source": "Pro Football Hall of Fame",
    "note": "197, and 208 touchdowns in total.",
    "tags": [
     "football"
@@ -2163,6 +2342,7 @@
    "unit": "sacks",
    "min": 0,
    "max": 400,
+   "source": "Pro Football Hall of Fame",
    "note": "200 exactly — the all-time record.",
    "tags": [
     "football"
@@ -2175,6 +2355,7 @@
    "unit": "points",
    "min": 0,
    "max": 4000,
+   "source": "Pro Football Hall of Fame",
    "note": "2,673 over 24 seasons.",
    "tags": [
     "football"
@@ -2187,6 +2368,7 @@
    "unit": "starts",
    "min": 100,
    "max": 800,
+   "source": "Pro Football Hall of Fame",
    "note": "297 — 321 including the playoffs.",
    "tags": [
     "football"
@@ -2199,6 +2381,7 @@
    "unit": "yards",
    "min": 0,
    "max": 8000,
+   "source": "Pro Football Hall of Fame",
    "note": "5,084 — a record that stood for 27 years.",
    "tags": [
     "football"
@@ -2211,6 +2394,7 @@
    "unit": "touchdowns",
    "min": 0,
    "max": 150,
+   "source": "Pro Football Hall of Fame",
    "note": "55, the single-season record.",
    "tags": [
     "football"
@@ -2223,6 +2407,7 @@
    "unit": "yards",
    "min": 500,
    "max": 6000,
+   "source": "Pro Football Hall of Fame",
    "note": "2,105, still the single-season record.",
    "tags": [
     "football"
@@ -2235,6 +2420,7 @@
    "unit": "yards",
    "min": 0,
    "max": 500,
+   "source": "Pro Football Hall of Fame",
    "note": "296 against the Chargers — the single-game record.",
    "tags": [
     "football"
@@ -2247,6 +2433,7 @@
    "unit": "yards",
    "min": 0.04,
    "max": 300,
+   "source": "NFL Record & Fact Book",
    "verify_by": "2027-03-01",
    "note": "68 yards, by Cam Little of Jacksonville in November 2025.",
    "tags": [
@@ -2260,6 +2447,7 @@
    "unit": "points",
    "min": 0,
    "max": 200,
+   "source": "NFL Record & Fact Book",
    "note": "72, by Washington against the Giants in 1966.",
    "tags": [
     "football"
@@ -2272,6 +2460,7 @@
    "unit": "minutes",
    "min": 0,
    "max": 150,
+   "source": "NFL Record & Fact Book",
    "note": "82 minutes 40 seconds — Dolphins beat Chiefs on Christmas Day 1971.",
    "tags": [
     "football"
@@ -2284,6 +2473,7 @@
    "unit": "wins",
    "min": 0,
    "max": 30,
+   "source": "NFL Record & Fact Book",
    "note": "17–0, the only perfect season in NFL history.",
    "tags": [
     "football"
@@ -2296,6 +2486,7 @@
    "unit": "wins",
    "min": 0,
    "max": 25,
+   "source": "NFL Record & Fact Book",
    "note": "15–1, losing only to Miami.",
    "tags": [
     "football"
@@ -2308,6 +2499,7 @@
    "unit": "inches",
    "min": 1,
    "max": 90,
+   "source": "NFL Record & Fact Book",
    "note": "22 inches of sterling silver, made by Tiffany & Co.",
    "tags": [
     "football"
@@ -2320,6 +2512,7 @@
    "unit": "pounds",
    "min": 0,
    "max": 15,
+   "source": "NFL Record & Fact Book",
    "note": "About seven pounds.",
    "tags": [
     "football"
@@ -2332,6 +2525,7 @@
    "unit": "",
    "min": 1830,
    "max": 1950,
+   "source": "NFL Record & Fact Book",
    "note": "1906, to make the game less lethal.",
    "tags": [
     "football"
@@ -2344,6 +2538,7 @@
    "unit": "seats",
    "min": 0,
    "max": 150000,
+   "source": "NFL Record & Fact Book",
    "note": "About 80,000, expandable past 100,000.",
    "tags": [
     "football"
@@ -2357,6 +2552,7 @@
    "unit": "seconds",
    "min": 1,
    "max": 15,
+   "source": "NFL Record & Fact Book",
    "verify_by": "2027-01-01",
    "note": "4.21 by Xavier Worthy in 2024.",
    "tags": [
@@ -2370,6 +2566,7 @@
    "unit": "million $",
    "min": 0,
    "max": 10,
+   "source": "NFL Record & Fact Book",
    "verify_by": "2027-01-01",
    "note": "About $7 million.",
    "tags": [
@@ -2383,6 +2580,7 @@
    "unit": "",
    "min": 1900,
    "max": 2000,
+   "source": "NFL Record & Fact Book",
    "note": "1935, to Jay Berwanger. It was called the DAC Trophy until Heisman died the following year.",
    "tags": [
     "football"
@@ -2395,6 +2593,7 @@
    "unit": "",
    "min": 1860,
    "max": 2020,
+   "source": "NFL Record & Fact Book",
    "note": "1902, making it the oldest bowl game.",
    "tags": [
     "football"
@@ -2407,6 +2606,7 @@
    "unit": "minutes",
    "min": 1.5,
    "max": 30,
+   "source": "NFL Record & Fact Book",
    "note": "Ten minutes, reduced from 15 in 2017.",
    "tags": [
     "football"
@@ -2419,6 +2619,7 @@
    "unit": "",
    "min": 1690,
    "max": 1840,
+   "source": "NRA Museums",
    "note": "1791, as part of the Bill of Rights.",
    "tags": [
     "guns"
@@ -2431,6 +2632,7 @@
    "unit": "words",
    "min": 0,
    "max": 40,
+   "source": "NRA Museums",
    "note": "27 words, and lawyers have argued about the commas ever since.",
    "tags": [
     "guns"
@@ -2443,6 +2645,7 @@
    "unit": "",
    "min": 1850,
    "max": 1980,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
    "note": "1934, taxing and registering machine guns and short-barrelled weapons.",
    "tags": [
     "guns"
@@ -2455,6 +2658,7 @@
    "unit": "",
    "min": 1890,
    "max": 2010,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
    "note": "1968.",
    "tags": [
     "guns"
@@ -2467,6 +2671,7 @@
    "unit": "",
    "min": 1960,
    "max": 2080,
+   "source": "Supreme Court of the United States",
    "note": "2008 — the Court's first ruling squarely on the individual right.",
    "tags": [
     "guns"
@@ -2479,6 +2684,7 @@
    "unit": "",
    "min": 1890,
    "max": 2040,
+   "source": "Pro Football Hall of Fame",
    "note": "February 1994, creating the waiting period that became NICS.",
    "tags": [
     "guns"
@@ -2491,6 +2697,7 @@
    "unit": "",
    "min": 1820,
    "max": 1970,
+   "source": "Pro Football Hall of Fame",
    "note": "1855 in Hartford, Connecticut.",
    "tags": [
     "guns"
@@ -2503,6 +2710,7 @@
    "unit": "",
    "min": 1820,
    "max": 1920,
+   "source": "NRA Museums",
    "note": "1856. An earlier 1852 partnership became Volcanic Repeating Arms.",
    "tags": [
     "guns"
@@ -2515,6 +2723,7 @@
    "unit": "",
    "min": 1740,
    "max": 1840,
+   "source": "NRA Museums",
    "note": "1816 — the oldest American gunmaker, though the business passed through bankruptcy in 2020.",
    "tags": [
     "guns"
@@ -2527,6 +2736,7 @@
    "unit": "",
    "min": 1830,
    "max": 1930,
+   "source": "NRA Museums",
    "note": "1866, out of the old New Haven Arms Company.",
    "tags": [
     "guns"
@@ -2539,6 +2749,7 @@
    "unit": "",
    "min": 1880,
    "max": 1990,
+   "source": "NRA Museums",
    "note": "1949, in a rented machine shop.",
    "tags": [
     "guns"
@@ -2551,6 +2762,7 @@
    "unit": "",
    "min": 1790,
    "max": 1920,
+   "source": "NRA Museums",
    "note": "1873 — 'the gun that won the West'.",
    "tags": [
     "guns"
@@ -2563,6 +2775,7 @@
    "unit": "revolvers",
    "min": 0,
    "max": 500000,
+   "source": "NRA Museums",
    "note": "357,859 between 1873 and 1940.",
    "tags": [
     "guns"
@@ -2575,6 +2788,7 @@
    "unit": "",
    "min": 1820,
    "max": 1980,
+   "source": "NRA Museums",
    "note": "1860. Confederates called it 'that damned Yankee rifle you load on Sunday and shoot all week'.",
    "tags": [
     "guns"
@@ -2587,6 +2801,7 @@
    "unit": "rounds",
    "min": 0,
    "max": 25,
+   "source": "NRA Museums",
    "note": "Fifteen in the magazine, sixteen with one in the chamber.",
    "tags": [
     "guns"
@@ -2599,6 +2814,7 @@
    "unit": "",
    "min": 1860,
    "max": 1960,
+   "source": "NRA Museums",
    "note": "1894, designed by John Browning.",
    "tags": [
     "guns"
@@ -2612,6 +2828,7 @@
    "unit": "",
    "min": 1960,
    "max": 2090,
+   "source": "NRA Museums",
    "note": "March 2006, when the New Haven plant closed after 112 years.",
    "tags": [
     "guns"
@@ -2624,6 +2841,7 @@
    "unit": "",
    "min": 1820,
    "max": 1940,
+   "source": "NRA Museums",
    "note": "1862, by Richard Gatling.",
    "tags": [
     "guns"
@@ -2636,6 +2854,7 @@
    "unit": "rpm",
    "min": 40,
    "max": 600,
+   "source": "NRA Museums",
    "note": "About 200 rounds per minute by hand crank.",
    "tags": [
     "guns"
@@ -2648,6 +2867,7 @@
    "unit": "",
    "min": 1830,
    "max": 1930,
+   "source": "NRA Museums",
    "note": "1903, and it stayed in service through the Second World War.",
    "tags": [
     "guns"
@@ -2660,6 +2880,7 @@
    "unit": "",
    "min": 1830,
    "max": 1960,
+   "source": "NRA Museums",
    "note": "1911, designed by John Browning.",
    "tags": [
     "guns"
@@ -2672,6 +2893,7 @@
    "unit": "rounds",
    "min": 1,
    "max": 30,
+   "source": "NRA Museums",
    "note": "Seven rounds of .45 ACP.",
    "tags": [
     "guns"
@@ -2684,6 +2906,7 @@
    "unit": "",
    "min": 1930,
    "max": 2070,
+   "source": "NRA Museums",
    "note": "1985.",
    "tags": [
     "guns"
@@ -2696,6 +2919,7 @@
    "unit": "rounds",
    "min": 0,
    "max": 25,
+   "source": "NRA Museums",
    "note": "Fifteen rounds of 9mm.",
    "tags": [
     "guns"
@@ -2708,6 +2932,7 @@
    "unit": "",
    "min": 1850,
    "max": 1960,
+   "source": "NRA Museums",
    "note": "1936. Patton called it 'the greatest battle implement ever devised'.",
    "tags": [
     "guns"
@@ -2720,6 +2945,7 @@
    "unit": "rounds",
    "min": 1,
    "max": 25,
+   "source": "NRA Museums",
    "note": "Eight — and the clip ejects with an audible ping.",
    "tags": [
     "guns"
@@ -2733,6 +2959,7 @@
    "unit": "pounds",
    "min": 3,
    "max": 30,
+   "source": "NRA Museums",
    "note": "About 9.5 pounds unloaded.",
    "tags": [
     "guns"
@@ -2746,6 +2973,7 @@
    "unit": "million",
    "min": 0,
    "max": 8,
+   "source": "NRA Museums",
    "note": "About 5,468,000 in total.",
    "tags": [
     "guns"
@@ -2758,6 +2986,7 @@
    "unit": "",
    "min": 1880,
    "max": 2000,
+   "source": "NRA Museums",
    "note": "1921. The Army bought it, but Prohibition made it famous.",
    "tags": [
     "guns"
@@ -2770,6 +2999,7 @@
    "unit": "rpm",
    "min": 30,
    "max": 2500,
+   "source": "NRA Museums",
    "note": "About 800 rounds per minute. Later M1928 and M1 variants were slowed to around 600.",
    "tags": [
     "guns"
@@ -2782,6 +3012,7 @@
    "unit": "",
    "min": 1880,
    "max": 2010,
+   "source": "NRA Museums",
    "note": "1933 — and it is still in front-line service.",
    "tags": [
     "guns"
@@ -2794,6 +3025,7 @@
    "unit": "pounds",
    "min": 20,
    "max": 400,
+   "source": "NRA Museums",
    "note": "84 pounds for the M2HB — the tripod adds another 44.",
    "tags": [
     "guns"
@@ -2806,6 +3038,7 @@
    "unit": "yards",
    "min": 90,
    "max": 6000,
+   "source": "NRA Museums",
    "note": "About 2,000 yards.",
    "tags": [
     "guns"
@@ -2818,6 +3051,7 @@
    "unit": "pounds",
    "min": 0,
    "max": 50,
+   "source": "NRA Museums",
    "note": "About 16 pounds — the reason BAR men were chosen for their size.",
    "tags": [
     "guns"
@@ -2830,6 +3064,7 @@
    "unit": "",
    "min": 1860,
    "max": 2000,
+   "source": "NRA Museums",
    "note": "1959. ArmaLite had developed the rifle from 1956.",
    "tags": [
     "guns"
@@ -2842,6 +3077,7 @@
    "unit": "",
    "min": 1940,
    "max": 2030,
+   "source": "NRA Museums",
    "note": "1967. The Air Force had adopted an earlier version in 1964.",
    "tags": [
     "guns"
@@ -2855,6 +3091,7 @@
    "unit": "pounds",
    "min": 0,
    "max": 15,
+   "source": "NRA Museums",
    "note": "7.78 pounds per the Army field manual; 8.79 pounds with a loaded 30-round magazine.",
    "tags": [
     "guns"
@@ -2867,6 +3104,7 @@
    "unit": "rounds",
    "min": 0,
    "max": 40,
+   "source": "NRA Museums",
    "note": "Thirty, though 20-round magazines came first.",
    "tags": [
     "guns"
@@ -2879,6 +3117,7 @@
    "unit": "fps",
    "min": 500,
    "max": 10000,
+   "source": "SAAMI published cartridge data",
    "note": "About 3,250 fps. From a 14.5-inch M4 barrel the same round drops to roughly 3,000.",
    "tags": [
     "guns"
@@ -2891,6 +3130,7 @@
    "unit": "fps",
    "min": 0,
    "max": 5000,
+   "source": "SAAMI published cartridge data",
    "note": "About 2,910 fps. Military M2 ball ran nearer 2,740 fps.",
    "tags": [
     "guns"
@@ -2903,6 +3143,7 @@
    "unit": "ft-lb",
    "min": 700,
    "max": 8000,
+   "source": "SAAMI published cartridge data",
    "note": "About 2,650 foot-pounds.",
    "tags": [
     "guns"
@@ -2915,6 +3156,7 @@
    "unit": "fps",
    "min": 0,
    "max": 4000,
+   "source": "SAAMI published cartridge data",
    "note": "Around 1,250 fps. Standard-velocity loads run closer to 1,120.",
    "tags": [
     "guns"
@@ -2927,6 +3169,7 @@
    "unit": "fps",
    "min": 0,
    "max": 5000,
+   "source": "SAAMI published cartridge data",
    "note": "About 2,900 fps.",
    "tags": [
     "guns"
@@ -2939,6 +3182,7 @@
    "unit": "",
    "min": 1850,
    "max": 2000,
+   "source": "NRA Museums",
    "note": "1949.",
    "tags": [
     "guns"
@@ -2951,6 +3195,7 @@
    "unit": "years old",
    "min": 25,
    "max": 300,
+   "source": "NRA Museums",
    "note": "94. Late in life he said he wished he had invented a lawnmower instead.",
    "tags": [
     "guns"
@@ -2963,6 +3208,7 @@
    "unit": "fps",
    "min": 0,
    "max": 4000,
+   "source": "SAAMI published cartridge data",
    "note": "About 2,350 fps.",
    "tags": [
     "guns"
@@ -2975,6 +3221,7 @@
    "unit": "",
    "min": 1920,
    "max": 2060,
+   "source": "NRA Museums",
    "note": "1982, when it won the Austrian army pistol contract.",
    "tags": [
     "guns"
@@ -2987,6 +3234,7 @@
    "unit": "rounds",
    "min": 0,
    "max": 30,
+   "source": "NRA Museums",
    "note": "Seventeen rounds of 9mm in the standard magazine.",
    "tags": [
     "guns"
@@ -2999,6 +3247,7 @@
    "unit": "",
    "min": 1940,
    "max": 2030,
+   "source": "NRA Museums",
    "note": "April 2009 — the best-selling shotgun ever made.",
    "tags": [
     "guns"
@@ -3011,7 +3260,6528 @@
    "unit": "",
    "min": 1900,
    "max": 2010,
+   "source": "NRA Museums",
    "note": "1964, and it has been in continuous production ever since.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "scotus-first",
+   "q": "In which year did the Supreme Court first sit?",
+   "a": 1790,
+   "unit": "",
+   "min": 1730,
+   "max": 1870,
+   "source": "Supreme Court of the United States",
+   "note": "February 1790, in New York City.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "scotus-original",
+   "q": "How many justices sat on the first Supreme Court?",
+   "a": 6,
+   "unit": "justices",
+   "min": 0,
+   "max": 9,
+   "source": "Supreme Court of the United States",
+   "note": "Six, under the Judiciary Act of 1789.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "marbury",
+   "q": "In which year was Marbury v. Madison decided?",
+   "a": 1803,
+   "unit": "",
+   "min": 1770,
+   "max": 1870,
+   "source": "Supreme Court of the United States",
+   "note": "1803, establishing judicial review.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "scotus-building",
+   "q": "In which year did the Supreme Court move into its own building?",
+   "a": 1935,
+   "unit": "",
+   "min": 1880,
+   "max": 2000,
+   "source": "Supreme Court of the United States",
+   "note": "1935. Before that it met inside the Capitol.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "articles",
+   "q": "How many articles are in the US Constitution?",
+   "a": 7,
+   "unit": "articles",
+   "min": 0,
+   "max": 15,
+   "source": "US National Archives",
+   "note": "Seven, before any amendments.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "constitution-pages",
+   "q": "How many pages is the original handwritten Constitution?",
+   "a": 4,
+   "unit": "pages",
+   "min": 0.7,
+   "max": 15,
+   "source": "US National Archives",
+   "note": "Four sheets of parchment.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "gettysburg-words",
+   "q": "How many words are in the Bliss copy of the Gettysburg Address?",
+   "a": 272,
+   "unit": "words",
+   "min": 0,
+   "max": 800,
+   "source": "White House Historical Association",
+   "note": "272 words, delivered in about two minutes.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "harrison-words",
+   "q": "How many words were in William Henry Harrison's inaugural address, the longest ever given?",
+   "a": 8445,
+   "unit": "words",
+   "min": 0,
+   "max": 40000,
+   "source": "Library of Congress",
+   "note": "8,445 words in the cold, and he died 31 days later.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "harrison-days",
+   "q": "How many days did William Henry Harrison serve as president?",
+   "a": 31,
+   "unit": "days",
+   "min": 8,
+   "max": 90,
+   "source": "White House Historical Association",
+   "note": "31 days — the shortest presidency.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "washington-second",
+   "q": "How many words were in Washington's second inaugural address, the shortest ever?",
+   "a": 135,
+   "unit": "words",
+   "min": 0,
+   "max": 200,
+   "source": "Library of Congress",
+   "note": "135 words.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "washington-ec",
+   "q": "How many electoral votes did George Washington receive in 1789?",
+   "a": 69,
+   "unit": "votes",
+   "min": 0,
+   "max": 90,
+   "source": "US National Archives",
+   "note": "All 69 — and he was elected unanimously again in 1792, the only president ever to manage it.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-veto",
+   "q": "In which year did a president first veto a bill?",
+   "a": 1792,
+   "unit": "",
+   "min": 1710,
+   "max": 1840,
+   "source": "US Senate Historical Office",
+   "note": "Washington, April 1792.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "washington-vetoes",
+   "q": "How many bills did George Washington veto?",
+   "a": 2,
+   "unit": "vetoes",
+   "min": 0,
+   "max": 3,
+   "source": "US Senate Historical Office",
+   "note": "Just two in eight years.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "bill-days",
+   "q": "How many days does a president have to sign or veto a bill?",
+   "a": 10,
+   "unit": "days",
+   "min": 0,
+   "max": 20,
+   "source": "US National Archives",
+   "note": "Ten days, Sundays excepted.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "age-president",
+   "q": "What is the minimum age to serve as US president?",
+   "a": 35,
+   "unit": "years old",
+   "min": 2,
+   "max": 150,
+   "source": "US National Archives",
+   "note": "Thirty-five, set by Article II.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "age-senator",
+   "q": "What is the minimum age to serve as a US senator?",
+   "a": 30,
+   "unit": "years old",
+   "min": 7,
+   "max": 90,
+   "source": "US National Archives",
+   "note": "Thirty.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "age-rep",
+   "q": "What is the minimum age to serve in the House of Representatives?",
+   "a": 25,
+   "unit": "years old",
+   "min": 0,
+   "max": 40,
+   "source": "US National Archives",
+   "note": "Twenty-five.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "residency-president",
+   "q": "How many years must a president have been a US resident?",
+   "a": 14,
+   "unit": "years",
+   "min": 0,
+   "max": 25,
+   "source": "US National Archives",
+   "note": "Fourteen years, alongside being natural-born.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "17th",
+   "q": "In which year did the 17th Amendment bring in direct election of senators?",
+   "a": 1913,
+   "unit": "",
+   "min": 1870,
+   "max": 1980,
+   "source": "US Senate Historical Office",
+   "note": "1913. Before that, state legislatures chose them.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "16th",
+   "q": "In which year did the 16th Amendment permit a federal income tax?",
+   "a": 1913,
+   "unit": "",
+   "min": 1810,
+   "max": 1960,
+   "source": "US National Archives",
+   "note": "February 1913.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "20th",
+   "q": "In which year was the 20th Amendment ratified?",
+   "a": 1933,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "source": "US National Archives",
+   "note": "January 1933. The first 20 January inauguration followed in 1937.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "emancipation",
+   "q": "In which year did the final Emancipation Proclamation take effect?",
+   "a": 1863,
+   "unit": "",
+   "min": 1820,
+   "max": 1980,
+   "source": "US National Archives",
+   "note": "1 January 1863. A preliminary proclamation had been issued in September 1862.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "flag-stripes",
+   "q": "How many stripes are on the US flag?",
+   "a": 13,
+   "unit": "stripes",
+   "min": 0,
+   "max": 20,
+   "source": "Smithsonian Institution",
+   "note": "Thirteen, for the original colonies.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "flag-50",
+   "q": "In which year was the 50-star flag adopted?",
+   "a": 1960,
+   "unit": "",
+   "min": 1910,
+   "max": 2040,
+   "source": "Smithsonian Institution",
+   "note": "4 July 1960, after Hawaii joined.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "25th",
+   "q": "In which year was the 25th Amendment on presidential succession ratified?",
+   "a": 1967,
+   "unit": "",
+   "min": 1900,
+   "max": 2010,
+   "source": "US National Archives",
+   "note": "1967, prompted by Kennedy's assassination.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "republicans-founded",
+   "q": "In which year was the Republican Party founded?",
+   "a": 1854,
+   "unit": "",
+   "min": 1810,
+   "max": 1970,
+   "source": "Library of Congress",
+   "note": "1854, in opposition to the Kansas-Nebraska Act.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "senators-expelled",
+   "q": "How many US senators have been expelled?",
+   "a": 15,
+   "unit": "senators",
+   "min": 0,
+   "max": 25,
+   "source": "US Senate Historical Office",
+   "note": "Fifteen, fourteen of them during the Civil War.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "watergate",
+   "q": "In which year was the Watergate break-in?",
+   "a": 1972,
+   "unit": "",
+   "min": 1930,
+   "max": 2090,
+   "source": "Library of Congress",
+   "note": "June 1972.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "nixon-resign",
+   "q": "In which year did Richard Nixon resign?",
+   "a": 1974,
+   "unit": "",
+   "min": 1880,
+   "max": 2020,
+   "source": "White House Historical Association",
+   "note": "9 August 1974 — the only president to resign.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "war-powers",
+   "q": "In which year was the War Powers Resolution passed?",
+   "a": 1973,
+   "unit": "",
+   "min": 1860,
+   "max": 2010,
+   "source": "US Senate Historical Office",
+   "note": "1973, over Nixon's veto.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "fbi-founded",
+   "q": "In which year was the FBI founded?",
+   "a": 1908,
+   "unit": "",
+   "min": 1840,
+   "max": 1930,
+   "source": "Federal Bureau of Investigation",
+   "note": "1908, as the Bureau of Investigation.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "cia-founded",
+   "q": "In which year was the CIA created?",
+   "a": 1947,
+   "unit": "",
+   "min": 1840,
+   "max": 2000,
+   "source": "Central Intelligence Agency",
+   "note": "1947, under the National Security Act.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "dhs-founded",
+   "q": "In which year was the Homeland Security Act signed into law?",
+   "a": 2002,
+   "unit": "",
+   "min": 1880,
+   "max": 2040,
+   "source": "Department of Homeland Security",
+   "note": "November 2002; the department itself stood up in March 2003.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "secret-service-potus",
+   "q": "In which year did the Secret Service begin full-time presidential protection?",
+   "a": 1902,
+   "unit": "",
+   "min": 1860,
+   "max": 2020,
+   "source": "United States Secret Service",
+   "note": "1902, when the Secret Service took on full-time presidential protection after McKinley's assassination.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-tv-debate",
+   "q": "In which year was the first televised presidential debate?",
+   "a": 1960,
+   "unit": "",
+   "min": 1880,
+   "max": 1980,
+   "source": "Library of Congress",
+   "note": "September 1960, Kennedy against Nixon.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "kennedy-nixon-debates",
+   "q": "How many televised debates did Kennedy and Nixon hold in 1960?",
+   "a": 4,
+   "unit": "debates",
+   "min": 0.1,
+   "max": 15,
+   "source": "Library of Congress",
+   "note": "Four, between September and October 1960.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "social-security",
+   "q": "In which year was the Social Security Act signed?",
+   "a": 1935,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "Social Security Administration",
+   "note": "August 1935.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "medicare-year",
+   "q": "In which year was Medicare created?",
+   "a": 1965,
+   "unit": "",
+   "min": 1920,
+   "max": 2080,
+   "source": "Centers for Medicare & Medicaid Services",
+   "note": "1965, signed by Lyndon Johnson.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "medicare-age",
+   "q": "At what age does Medicare eligibility normally begin?",
+   "a": 65,
+   "unit": "years old",
+   "min": 10,
+   "max": 200,
+   "source": "Centers for Medicare & Medicaid Services",
+   "note": "Sixty-five.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "min-wage-year",
+   "q": "In which year was a federal minimum wage first set?",
+   "a": 1938,
+   "unit": "",
+   "min": 1850,
+   "max": 1980,
+   "source": "US Department of Labor",
+   "note": "1938, under the Fair Labor Standards Act.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "min-wage-cents",
+   "q": "What was the first federal minimum wage, in cents per hour?",
+   "a": 25,
+   "unit": "cents",
+   "min": 0,
+   "max": 50,
+   "source": "US Department of Labor",
+   "note": "Twenty-five cents an hour.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wh-electricity",
+   "q": "In which year did the White House get electricity?",
+   "a": 1891,
+   "unit": "",
+   "min": 1810,
+   "max": 1910,
+   "source": "White House Historical Association",
+   "note": "1891, under Benjamin Harrison.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "oval-office",
+   "q": "In which year was the first Oval Office built?",
+   "a": 1909,
+   "unit": "",
+   "min": 1840,
+   "max": 1950,
+   "source": "White House Historical Association",
+   "note": "1909, for William Howard Taft. The current one dates from 1934.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "states-civil-war",
+   "q": "How many states were there in the United States when the Civil War began?",
+   "a": 34,
+   "unit": "states",
+   "min": 0,
+   "max": 60,
+   "source": "US National Archives",
+   "note": "Thirty-four; Kansas had joined in January 1861.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "under-god",
+   "q": "In which year was 'under God' added to the Pledge of Allegiance?",
+   "a": 1954,
+   "unit": "",
+   "min": 1880,
+   "max": 1990,
+   "source": "Library of Congress",
+   "note": "1954.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "national-motto",
+   "q": "In which year did 'In God We Trust' become the national motto?",
+   "a": 1956,
+   "unit": "",
+   "min": 1910,
+   "max": 2070,
+   "source": "Library of Congress",
+   "note": "1956.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "ford-unelected",
+   "q": "How many US presidents took office without being elected as president or vice president?",
+   "a": 1,
+   "unit": "president",
+   "min": 0,
+   "max": 1.5,
+   "source": "White House Historical Association",
+   "note": "One — Gerald Ford, appointed vice president in 1973.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "congress-members",
+   "q": "How many voting members are there in Congress altogether?",
+   "a": 535,
+   "unit": "members",
+   "min": 150,
+   "max": 1500,
+   "source": "US Senate Historical Office",
+   "note": "435 representatives and 100 senators.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "cloture",
+   "q": "How many Senate votes are needed to end a filibuster under cloture?",
+   "a": 60,
+   "unit": "votes",
+   "min": 15,
+   "max": 200,
+   "source": "US Senate Historical Office",
+   "note": "Sixty, since 1975.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "capitol-dome",
+   "q": "How tall is the US Capitol above the East Front Plaza, to the top of the Statue of Freedom, in feet?",
+   "a": 288,
+   "unit": "feet",
+   "min": 9,
+   "max": 900,
+   "source": "Architect of the Capitol",
+   "note": "288 feet. The dome measured from its own base is 217.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "thanksgiving-proclamation",
+   "q": "In which year did Lincoln proclaim a national Thanksgiving holiday?",
+   "a": 1863,
+   "unit": "passengers",
+   "min": 0,
+   "max": 4000,
+   "source": "Library of Congress",
+   "note": "1863, fixing it as the last Thursday in November.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "harvard",
+   "q": "In which year was Harvard founded?",
+   "a": 1636,
+   "unit": "",
+   "min": 1590,
+   "max": 1700,
+   "source": "Harvard University",
+   "note": "1636 — the oldest university in the United States.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "french-indian",
+   "q": "In which year did the French and Indian War end?",
+   "a": 1763,
+   "unit": "",
+   "min": 1720,
+   "max": 1880,
+   "source": "Library of Congress",
+   "note": "1763, with the Treaty of Paris.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "stamp-act",
+   "q": "In which year was the Stamp Act passed?",
+   "a": 1765,
+   "unit": "",
+   "min": 1710,
+   "max": 1850,
+   "source": "Library of Congress",
+   "note": "1765, and repealed the following year.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "boston-massacre",
+   "q": "In which year was the Boston Massacre?",
+   "a": 1770,
+   "unit": "",
+   "min": 1700,
+   "max": 1810,
+   "source": "US National Park Service",
+   "note": "March 1770. Five colonists died.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "lexington",
+   "q": "In which year were the battles of Lexington and Concord?",
+   "a": 1775,
+   "unit": "",
+   "min": 1720,
+   "max": 1850,
+   "source": "US National Park Service",
+   "note": "19 April 1775.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "constitution-convention",
+   "q": "How many delegates attended the Constitutional Convention?",
+   "a": 55,
+   "unit": "delegates",
+   "min": 0,
+   "max": 90,
+   "source": "US National Archives",
+   "note": "Fifty-five attended; thirty-nine signed.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "whiskey-rebellion",
+   "q": "In which year did Washington lead troops against the Whiskey Rebellion?",
+   "a": 1794,
+   "unit": "",
+   "min": 1670,
+   "max": 1830,
+   "source": "Library of Congress",
+   "note": "1794 — the only time a sitting president led an army in the field.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "lewis-clark-start",
+   "q": "In which year did the Lewis and Clark expedition set out?",
+   "a": 1804,
+   "unit": "",
+   "min": 1730,
+   "max": 1830,
+   "source": "US National Park Service",
+   "note": "May 1804, from near St Louis.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "war-1812-start",
+   "q": "In which year did the War of 1812 begin?",
+   "a": 1812,
+   "unit": "",
+   "min": 1750,
+   "max": 1890,
+   "source": "Library of Congress",
+   "note": "June 1812.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "white-house-burned",
+   "q": "In which year did British troops burn the White House?",
+   "a": 1814,
+   "unit": "",
+   "min": 1710,
+   "max": 1860,
+   "source": "White House Historical Association",
+   "note": "August 1814.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "monroe-doctrine",
+   "q": "In which year was the Monroe Doctrine declared?",
+   "a": 1823,
+   "unit": "",
+   "min": 1730,
+   "max": 1870,
+   "source": "Library of Congress",
+   "note": "December 1823.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alamo-year",
+   "q": "In which year was the Battle of the Alamo?",
+   "a": 1836,
+   "unit": "",
+   "min": 1800,
+   "max": 1910,
+   "source": "US National Park Service",
+   "note": "1836, during the Texas Revolution.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mexican-war-end",
+   "q": "In which year did the Mexican-American War end?",
+   "a": 1848,
+   "unit": "",
+   "min": 1820,
+   "max": 1910,
+   "source": "Library of Congress",
+   "note": "1848, with the Treaty of Guadalupe Hidalgo.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "pony-express-days",
+   "q": "How many days did the Pony Express take to cross the country?",
+   "a": 10,
+   "unit": "days",
+   "min": 0,
+   "max": 20,
+   "source": "US National Park Service",
+   "note": "About ten days from Missouri to California.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "homestead-acres",
+   "q": "How many acres did the Homestead Act offer a settler?",
+   "a": 160,
+   "unit": "acres",
+   "min": 0,
+   "max": 250,
+   "source": "US National Park Service",
+   "note": "160 acres to anyone who farmed it for five years.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "homestead-year",
+   "q": "In which year was the Homestead Act signed?",
+   "a": 1862,
+   "unit": "",
+   "min": 1820,
+   "max": 1930,
+   "source": "US National Park Service",
+   "note": "1862.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "lincoln-assassinated",
+   "q": "In which year was Abraham Lincoln assassinated?",
+   "a": 1865,
+   "unit": "",
+   "min": 1790,
+   "max": 1890,
+   "source": "US National Park Service",
+   "note": "April 1865, five days after Lee surrendered at Appomattox.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "hoover-start",
+   "q": "In which year did construction begin on the Hoover Dam?",
+   "a": 1931,
+   "unit": "tons",
+   "min": 250,
+   "max": 6000,
+   "source": "US Bureau of Reclamation",
+   "note": "1931, in the depths of the Depression.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "brooklyn-length",
+   "q": "How long is the Brooklyn Bridge's main span, in feet?",
+   "a": 1595,
+   "unit": "feet",
+   "min": 0,
+   "max": 2500,
+   "source": "Historic American Engineering Record",
+   "note": "1,595 feet — half again longer than anything before it.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "chicago-fire",
+   "q": "In which year was the Great Chicago Fire?",
+   "a": 1871,
+   "unit": "",
+   "min": 1790,
+   "max": 1890,
+   "source": "Chicago History Museum",
+   "note": "October 1871.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "telephone-patent",
+   "q": "In which year did Alexander Graham Bell patent the telephone?",
+   "a": 1876,
+   "unit": "",
+   "min": 1770,
+   "max": 1920,
+   "source": "Smithsonian Institution",
+   "note": "1876.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "edison-bulb",
+   "q": "In which year did Edison demonstrate his practical light bulb?",
+   "a": 1879,
+   "unit": "",
+   "min": 1830,
+   "max": 1950,
+   "source": "Smithsonian Institution",
+   "note": "1879, at Menlo Park.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "brooklyn-workers",
+   "q": "How many years did it take to build the Brooklyn Bridge?",
+   "a": 14,
+   "unit": "years",
+   "min": 5,
+   "max": 40,
+   "source": "Historic American Engineering Record",
+   "note": "Fourteen years, from 1869 to 1883.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "san-francisco-quake",
+   "q": "In which year was the San Francisco earthquake?",
+   "a": 1906,
+   "unit": "",
+   "min": 1830,
+   "max": 1930,
+   "source": "US Geological Survey",
+   "note": "April 1906.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "ww1-entry",
+   "q": "In which year did the United States enter the First World War?",
+   "a": 1917,
+   "unit": "",
+   "min": 1870,
+   "max": 1990,
+   "source": "Library of Congress",
+   "note": "April 1917.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "spanish-flu",
+   "q": "In which year did the Spanish flu pandemic reach the United States?",
+   "a": 1918,
+   "unit": "",
+   "min": 1870,
+   "max": 1990,
+   "source": "Centers for Disease Control and Prevention",
+   "note": "1918.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "lindbergh",
+   "q": "In which year did Lindbergh fly the Atlantic solo?",
+   "a": 1927,
+   "unit": "",
+   "min": 1820,
+   "max": 1970,
+   "source": "Smithsonian Institution",
+   "note": "May 1927, in 33 and a half hours.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "rushmore-start",
+   "q": "In which year did carving begin on Mount Rushmore?",
+   "a": 1927,
+   "unit": "",
+   "min": 1900,
+   "max": 1990,
+   "source": "US National Park Service",
+   "note": "1927. It took fourteen years.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "rushmore-faces",
+   "q": "How tall are the faces on Mount Rushmore, in feet?",
+   "a": 60,
+   "unit": "feet",
+   "min": 20,
+   "max": 200,
+   "source": "US National Park Service",
+   "note": "Sixty feet from chin to forehead.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "dust-bowl",
+   "q": "In which year did the Dust Bowl's 'Black Sunday' storm strike?",
+   "a": 1935,
+   "unit": "",
+   "min": 1850,
+   "max": 1980,
+   "source": "Library of Congress",
+   "note": "14 April 1935.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "golden-gate-height",
+   "q": "How tall are the Golden Gate Bridge towers, in feet?",
+   "a": 746,
+   "unit": "feet",
+   "min": 0,
+   "max": 1500,
+   "source": "Golden Gate Bridge District",
+   "note": "746 feet above the water.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "hoover-height",
+   "q": "How tall is the Hoover Dam, in feet?",
+   "a": 726,
+   "unit": "feet",
+   "min": 0,
+   "max": 1500,
+   "source": "US Bureau of Reclamation",
+   "note": "726 feet from foundation to crest.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "empire-days",
+   "q": "How many days did it take to build the Empire State Building?",
+   "a": 410,
+   "unit": "days",
+   "min": 100,
+   "max": 1500,
+   "source": "Empire State Realty Trust",
+   "note": "410 days, at up to four and a half storeys a week.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "gi-bill",
+   "q": "In which year was the GI Bill signed?",
+   "a": 1944,
+   "unit": "",
+   "min": 1900,
+   "max": 2020,
+   "source": "Department of Veterans Affairs",
+   "note": "June 1944.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "levittown",
+   "q": "In which year were the first Levittown houses occupied?",
+   "a": 1947,
+   "unit": "",
+   "min": 1920,
+   "max": 2010,
+   "source": "Hofstra University Special Collections",
+   "note": "October 1947 — as rentals at first; sales came later.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "interstate-year",
+   "q": "In which year was the Interstate Highway Act signed?",
+   "a": 1956,
+   "unit": "",
+   "min": 1860,
+   "max": 2000,
+   "source": "Federal Highway Administration",
+   "note": "1956.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "nasa-founded",
+   "q": "In which year was NASA founded?",
+   "a": 1958,
+   "unit": "",
+   "min": 1880,
+   "max": 1980,
+   "source": "NASA",
+   "note": "1958, a year after Sputnik.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "pacific-states",
+   "q": "How many US states have a Pacific coastline?",
+   "a": 5,
+   "unit": "states",
+   "min": 1,
+   "max": 20,
+   "source": "US Census Bureau",
+   "note": "Alaska, Washington, Oregon, California and Hawaii.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mlk-march",
+   "q": "In which year was the March on Washington?",
+   "a": 1963,
+   "unit": "",
+   "min": 1930,
+   "max": 2020,
+   "source": "Library of Congress",
+   "note": "August 1963.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "apollo11-hours",
+   "q": "How many hours did Apollo 11 spend on the lunar surface, from landing to lift-off?",
+   "a": 22,
+   "unit": "hours",
+   "min": 0,
+   "max": 30,
+   "source": "NASA",
+   "note": "About 21 hours 36 minutes, of which two and a half were spent outside.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "first-us-spacewalk",
+   "q": "In which year did an American first walk in space?",
+   "a": 1965,
+   "unit": "",
+   "min": 1850,
+   "max": 2010,
+   "source": "NASA",
+   "note": "June 1965, Ed White on Gemini 4.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "apollo17",
+   "q": "In which year did the Apollo programme make its final Moon landing?",
+   "a": 1972,
+   "unit": "",
+   "min": 1890,
+   "max": 1990,
+   "source": "NASA",
+   "note": "December 1972, Apollo 17.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "bicentennial",
+   "q": "In which year did the United States celebrate its bicentennial?",
+   "a": 1976,
+   "unit": "",
+   "min": 1930,
+   "max": 2090,
+   "source": "Library of Congress",
+   "note": "1976.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "st-helens",
+   "q": "In which year did Mount St Helens erupt?",
+   "a": 1980,
+   "unit": "",
+   "min": 1900,
+   "max": 2030,
+   "source": "US Geological Survey",
+   "note": "18 May 1980.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "challenger",
+   "q": "In which year was the Challenger disaster?",
+   "a": 1986,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "source": "NASA",
+   "note": "January 1986.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "gateway-arch",
+   "q": "How tall is the Gateway Arch in St Louis, in feet?",
+   "a": 630,
+   "unit": "feet",
+   "min": 0,
+   "max": 1500,
+   "source": "US National Park Service",
+   "note": "630 feet, and exactly as wide as it is tall.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "liberty-bell-crack",
+   "q": "How long is the crack in the Liberty Bell, in feet?",
+   "a": 2,
+   "unit": "feet",
+   "min": 0.2,
+   "max": 6,
+   "source": "US National Park Service",
+   "note": "About two feet.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "route66-states",
+   "q": "How many states did Route 66 pass through?",
+   "a": 8,
+   "unit": "states",
+   "min": 0,
+   "max": 30,
+   "source": "Federal Highway Administration",
+   "note": "Eight, from Illinois to California.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "nyc-subway",
+   "q": "In which year did the New York City subway open?",
+   "a": 1904,
+   "unit": "",
+   "min": 1840,
+   "max": 1980,
+   "source": "New York Transit Museum",
+   "note": "October 1904.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "bunker-hill",
+   "q": "In which year was the Battle of Bunker Hill?",
+   "a": 1775,
+   "unit": "",
+   "min": 1700,
+   "max": 1820,
+   "source": "US National Park Service",
+   "note": "June 1775.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "saratoga",
+   "q": "In which year was the Battle of Saratoga?",
+   "a": 1777,
+   "unit": "",
+   "min": 1730,
+   "max": 1860,
+   "source": "US National Park Service",
+   "note": "1777 — the turning point that brought France in.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "trenton",
+   "q": "In which year did Washington cross the Delaware to attack Trenton?",
+   "a": 1776,
+   "unit": "",
+   "min": 1730,
+   "max": 1840,
+   "source": "US National Park Service",
+   "note": "Christmas night, 1776.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "continental-army-year",
+   "q": "In which year was the Continental Army established?",
+   "a": 1775,
+   "unit": "",
+   "min": 1660,
+   "max": 1820,
+   "source": "US Army Center of Military History",
+   "note": "June 1775, with Washington appointed commander-in-chief.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "fort-sumter-hours",
+   "q": "How many hours did the bombardment of Fort Sumter last?",
+   "a": 34,
+   "unit": "hours",
+   "min": 10,
+   "max": 90,
+   "source": "US National Park Service",
+   "note": "34 hours, and nobody was killed in the exchange.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "shiloh",
+   "q": "In which year was the Battle of Shiloh?",
+   "a": 1862,
+   "unit": "",
+   "min": 1740,
+   "max": 1900,
+   "source": "US National Park Service",
+   "note": "April 1862.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "vicksburg-days",
+   "q": "How many days did the siege of Vicksburg last?",
+   "a": 47,
+   "unit": "days",
+   "min": 0,
+   "max": 150,
+   "source": "US National Park Service",
+   "note": "47 days, ending 4 July 1863.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "appomattox",
+   "q": "In which year did Lee surrender at Appomattox?",
+   "a": 1865,
+   "unit": "",
+   "min": 1780,
+   "max": 1910,
+   "source": "US National Park Service",
+   "note": "9 April 1865.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "civil-war-soldiers",
+   "q": "How many men served in the Union Army during the Civil War?",
+   "a": 2100000,
+   "unit": "men",
+   "min": 300000,
+   "max": 6000000,
+   "source": "US Army Center of Military History",
+   "note": "About 2.1 million.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "spanish-american",
+   "q": "In which year was the Spanish-American War?",
+   "a": 1898,
+   "unit": "",
+   "min": 1800,
+   "max": 1940,
+   "source": "Naval History and Heritage Command",
+   "note": "1898. Fighting ran from April to the August armistice — about sixteen weeks.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "maine-dead",
+   "q": "How many died when the USS Maine exploded in Havana harbour?",
+   "a": 266,
+   "unit": "men",
+   "min": 0,
+   "max": 500,
+   "source": "Naval History and Heritage Command",
+   "note": "266 of the 355 aboard.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "great-white-fleet",
+   "q": "In which year did the Great White Fleet set out around the world?",
+   "a": 1907,
+   "unit": "",
+   "min": 1870,
+   "max": 2020,
+   "source": "Naval History and Heritage Command",
+   "note": "December 1907.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ww1-us-troops",
+   "q": "How many American troops served in Europe in the First World War?",
+   "a": 2000000,
+   "unit": "troops",
+   "min": 15000,
+   "max": 6000000,
+   "source": "US Army Center of Military History",
+   "note": "About two million in the American Expeditionary Forces.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "argonne-days",
+   "q": "How many days did the Meuse-Argonne offensive last?",
+   "a": 47,
+   "unit": "days",
+   "min": 10,
+   "max": 200,
+   "source": "US Army Center of Military History",
+   "note": "47 days — the largest US battle of the First World War.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "doolittle-planes",
+   "q": "How many B-25s took part in the Doolittle Raid?",
+   "a": 16,
+   "unit": "aircraft",
+   "min": 5,
+   "max": 50,
+   "source": "Naval History and Heritage Command",
+   "note": "Sixteen, launched from the USS Hornet in 1942.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "doolittle-year",
+   "q": "In which year was the Doolittle Raid on Tokyo?",
+   "a": 1942,
+   "unit": "",
+   "min": 1880,
+   "max": 2020,
+   "source": "Naval History and Heritage Command",
+   "note": "April 1942.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "coral-sea",
+   "q": "In which year was the Battle of the Coral Sea?",
+   "a": 1942,
+   "unit": "",
+   "min": 1820,
+   "max": 1980,
+   "source": "Naval History and Heritage Command",
+   "note": "May 1942 — the first carrier battle where the ships never sighted each other.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "guadalcanal-days",
+   "q": "How many days did the Guadalcanal campaign last?",
+   "a": 187,
+   "unit": "days",
+   "min": 0,
+   "max": 300,
+   "source": "Naval History and Heritage Command",
+   "note": "About six months, from August 1942 to February 1943.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "normandy-ships",
+   "q": "About how many naval vessels took part in the D-Day landings?",
+   "a": 7000,
+   "unit": "vessels",
+   "min": 1000,
+   "max": 20000,
+   "source": "National WWII Museum",
+   "note": "Over 7,000 vessels, including about 4,000 landing craft and 1,200 warships.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "yalta",
+   "q": "In which year was the Yalta Conference?",
+   "a": 1945,
+   "unit": "",
+   "min": 1830,
+   "max": 1990,
+   "source": "US Department of State",
+   "note": "February 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "leyte-gulf",
+   "q": "In which year was the Battle of Leyte Gulf, the largest naval battle of the war?",
+   "a": 1944,
+   "unit": "",
+   "min": 1910,
+   "max": 2010,
+   "source": "Naval History and Heritage Command",
+   "note": "October 1944.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "okinawa-days",
+   "q": "How many days did the Battle of Okinawa last?",
+   "a": 82,
+   "unit": "days",
+   "min": 0,
+   "max": 200,
+   "source": "Naval History and Heritage Command",
+   "note": "82 days, from April to June 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ve-day",
+   "q": "In which year was VE Day?",
+   "a": 1945,
+   "unit": "",
+   "min": 1910,
+   "max": 2010,
+   "source": "US Army Center of Military History",
+   "note": "8 May 1945.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "enola-gay-altitude",
+   "q": "From what altitude was the Hiroshima bomb dropped, in feet?",
+   "a": 31000,
+   "unit": "feet",
+   "min": 10000,
+   "max": 90000,
+   "source": "US Air Force fact sheet",
+   "note": "About 31,000 feet.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nagasaki-yield",
+   "q": "What was the yield of the Nagasaki bomb, in kilotons?",
+   "a": 21,
+   "unit": "kilotons",
+   "min": 0,
+   "max": 40,
+   "source": "Department of Energy",
+   "note": "About 21 kilotons — larger than Hiroshima's.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "marshall-plan",
+   "q": "In which year did George Marshall propose the Marshall Plan in his Harvard speech?",
+   "a": 1947,
+   "unit": "",
+   "min": 1900,
+   "max": 2020,
+   "source": "US Department of State",
+   "note": "June 1947. Aid began flowing the following April.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nato-founded",
+   "q": "In which year was NATO founded?",
+   "a": 1949,
+   "unit": "",
+   "min": 1910,
+   "max": 2010,
+   "source": "NATO",
+   "note": "April 1949.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "inchon",
+   "q": "In which year was the Inchon landing?",
+   "a": 1950,
+   "unit": "",
+   "min": 1850,
+   "max": 2000,
+   "source": "Naval History and Heritage Command",
+   "note": "September 1950.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "chosin-days",
+   "q": "How many days did the Battle of Chosin Reservoir last?",
+   "a": 17,
+   "unit": "days",
+   "min": 2.5,
+   "max": 50,
+   "source": "US Army Center of Military History",
+   "note": "Seventeen days in −30°C, November to December 1950.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "korea-start",
+   "q": "In which year did the Korean War begin?",
+   "a": 1950,
+   "unit": "",
+   "min": 1880,
+   "max": 1990,
+   "source": "US Army Center of Military History",
+   "note": "June 1950.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "u2-shootdown",
+   "q": "In which year was Gary Powers's U-2 shot down over the Soviet Union?",
+   "a": 1960,
+   "unit": "",
+   "min": 1880,
+   "max": 1980,
+   "source": "US Air Force fact sheet",
+   "note": "May 1960.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "cuban-missile-days",
+   "q": "How many days did the Cuban Missile Crisis last?",
+   "a": 13,
+   "unit": "days",
+   "min": 3,
+   "max": 40,
+   "source": "John F. Kennedy Presidential Library",
+   "note": "Thirteen days in October 1962.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "gulf-tonkin",
+   "q": "In which year was the Gulf of Tonkin incident?",
+   "a": 1964,
+   "unit": "",
+   "min": 1910,
+   "max": 2040,
+   "source": "Naval History and Heritage Command",
+   "note": "August 1964.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "tet",
+   "q": "In which year was the Tet Offensive?",
+   "a": 1968,
+   "unit": "",
+   "min": 1860,
+   "max": 2020,
+   "source": "US Army Center of Military History",
+   "note": "January 1968.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "khe-sanh-days",
+   "q": "How many days did the siege of Khe Sanh last?",
+   "a": 77,
+   "unit": "days",
+   "min": 0,
+   "max": 150,
+   "source": "US Army Center of Military History",
+   "note": "77 days in 1968.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "huey-built",
+   "q": "How many Bell UH-1 Huey helicopters were built?",
+   "a": 16000,
+   "unit": "helicopters",
+   "min": 0,
+   "max": 50000,
+   "source": "US Army",
+   "note": "More than 16,000 — the most-produced Western military helicopter.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "saigon-fall",
+   "q": "In which year did Saigon fall?",
+   "a": 1975,
+   "unit": "",
+   "min": 1900,
+   "max": 1990,
+   "source": "US Army Center of Military History",
+   "note": "April 1975.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "desert-storm-air-days",
+   "q": "How many days did the Desert Storm air campaign last before the ground war?",
+   "a": 38,
+   "unit": "days",
+   "min": 0,
+   "max": 100,
+   "source": "US Air Force fact sheet",
+   "note": "38 days of bombing before the 100-hour ground offensive.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "patriot-missiles",
+   "q": "In which year did the US military adopt the Patriot missile system?",
+   "a": 1984,
+   "unit": "",
+   "min": 1870,
+   "max": 2030,
+   "source": "US Army",
+   "note": "1984.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "f22-service",
+   "q": "In which year did the F-22 Raptor enter service?",
+   "a": 2005,
+   "unit": "",
+   "min": 1970,
+   "max": 2070,
+   "source": "US Air Force fact sheet",
+   "note": "December 2005.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "f22-built",
+   "q": "How many production F-22 Raptors were built?",
+   "a": 187,
+   "unit": "aircraft",
+   "min": 0,
+   "max": 400,
+   "source": "US Air Force fact sheet",
+   "note": "187 production aircraft, plus eight test airframes.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "f35-service",
+   "q": "In which year did the F-35A enter service with the US Air Force?",
+   "a": 2016,
+   "unit": "",
+   "min": 1980,
+   "max": 2090,
+   "source": "US Air Force fact sheet",
+   "note": "August 2016.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "c130-service",
+   "q": "In which year did the C-130 Hercules enter service?",
+   "a": 1956,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "US Air Force fact sheet",
+   "note": "1956, and still in production.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "a10-service",
+   "q": "According to the US Air Force, in which year was the A-10 first deployed?",
+   "a": 1976,
+   "unit": "",
+   "min": 1930,
+   "max": 2090,
+   "source": "US Air Force fact sheet",
+   "note": "March 1976; the first operational squadron stood up the following year.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "a10-gun-rpm",
+   "q": "What is the rate of fire of the A-10's GAU-8 cannon, in rounds per minute?",
+   "a": 3900,
+   "unit": "rpm",
+   "min": 0,
+   "max": 6000,
+   "source": "US Air Force fact sheet",
+   "note": "3,900 rounds a minute of 30mm.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ohio-sub-length",
+   "q": "How long is an Ohio-class submarine, in feet?",
+   "a": 560,
+   "unit": "feet",
+   "min": 0,
+   "max": 900,
+   "source": "Naval History and Heritage Command",
+   "note": "560 feet.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ohio-missiles",
+   "q": "How many missile tubes does an Ohio-class ballistic missile submarine have?",
+   "a": 24,
+   "unit": "tubes",
+   "min": 0,
+   "max": 40,
+   "source": "Naval History and Heritage Command",
+   "note": "Twenty-four, though not all have been loaded under arms-control limits.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "west-point-cadets",
+   "q": "About how many cadets are at West Point at any time?",
+   "a": 4400,
+   "unit": "cadets",
+   "min": 0,
+   "max": 6000,
+   "source": "United States Military Academy",
+   "note": "About 4,400.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "arlington-acres",
+   "q": "How many acres is Arlington National Cemetery?",
+   "a": 639,
+   "unit": "acres",
+   "min": 0,
+   "max": 900,
+   "source": "Arlington National Cemetery",
+   "note": "639 acres.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "medal-honor-total",
+   "q": "How many Medals of Honor have been awarded in total?",
+   "a": 3555,
+   "unit": "medals",
+   "min": 0,
+   "max": 5000,
+   "source": "Congressional Medal of Honor Society",
+   "verify_by": "2028-01-01",
+   "note": "3,555 medals to 3,536 recipients since 1863.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "end-zone-depth",
+   "q": "How deep is an NFL end zone, in yards?",
+   "a": 10,
+   "unit": "yards",
+   "min": 0.8,
+   "max": 30,
+   "source": "NFL Record & Fact Book",
+   "note": "Ten yards.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "hash-marks",
+   "q": "How far apart are the hash marks on an NFL field, in feet?",
+   "a": 18.5,
+   "dp": 1,
+   "unit": "feet",
+   "min": 0,
+   "max": 30,
+   "source": "NFL Record & Fact Book",
+   "note": "18 feet 6 inches — the same width as the goalposts.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "ball-length",
+   "q": "How long is an NFL football, in inches?",
+   "a": 11,
+   "unit": "inches",
+   "min": 0.3,
+   "max": 40,
+   "source": "NFL Record & Fact Book",
+   "note": "About 11 inches point to point.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "ball-psi-min",
+   "q": "What is the minimum legal inflation of an NFL football, in psi?",
+   "a": 12.5,
+   "dp": 1,
+   "unit": "psi",
+   "min": 0,
+   "max": 25,
+   "source": "NFL Record & Fact Book",
+   "note": "12.5 psi — the number at the centre of the 2015 'Deflategate' affair.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "kickoff-yard",
+   "q": "From which yard line does an NFL kickoff take place?",
+   "a": 35,
+   "unit": "yard line",
+   "min": 0,
+   "max": 90,
+   "source": "NFL Record & Fact Book",
+   "note": "The 35, moved up from the 30 in 2011.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "two-minute",
+   "q": "How many minutes remain when the two-minute warning is called in each half?",
+   "a": 2,
+   "unit": "minutes",
+   "min": 0,
+   "max": 3,
+   "source": "NFL Record & Fact Book",
+   "note": "Two — a stoppage unique to American football.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "timeouts",
+   "q": "How many timeouts does an NFL team get per half?",
+   "a": 3,
+   "unit": "timeouts",
+   "min": 0.3,
+   "max": 9,
+   "source": "NFL Record & Fact Book",
+   "note": "Three per half.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "roster-gameday",
+   "q": "What is the standard game-day active limit for an NFL team?",
+   "a": 47,
+   "unit": "players",
+   "min": 10,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "47, rising to 48 if the team dresses at least eight offensive linemen.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "preseason-games",
+   "q": "How many preseason games does an NFL team play?",
+   "a": 3,
+   "unit": "games",
+   "min": 0,
+   "max": 9,
+   "source": "NFL Record & Fact Book",
+   "note": "Three, reduced from four when the season went to 17 games.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "bye-weeks",
+   "q": "How many bye weeks does each NFL team get in a season?",
+   "a": 1,
+   "unit": "week",
+   "min": 0,
+   "max": 3,
+   "source": "NFL Record & Fact Book",
+   "note": "One.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "pro-bowl-first",
+   "q": "In which year was the first Pro Bowl played?",
+   "a": 1939,
+   "unit": "",
+   "min": 1860,
+   "max": 1980,
+   "source": "Pro Football Hall of Fame",
+   "note": "January 1939, at Wrigley Field in Los Angeles. The modern conference format began in 1951.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "hof-founded",
+   "q": "In which year did the Pro Football Hall of Fame open?",
+   "a": 1963,
+   "unit": "",
+   "min": 1890,
+   "max": 1990,
+   "source": "Pro Football Hall of Fame",
+   "note": "1963, in Canton, Ohio.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "hof-members",
+   "q": "How many members are in the Pro Football Hall of Fame?",
+   "a": 387,
+   "unit": "members",
+   "min": 0,
+   "max": 700,
+   "source": "Pro Football Hall of Fame",
+   "verify_by": "2027-09-01",
+   "note": "387 after the Class of 2026.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "packers-titles",
+   "q": "How many NFL championships have the Green Bay Packers won, counting pre-Super Bowl titles?",
+   "a": 13,
+   "unit": "titles",
+   "min": 0,
+   "max": 20,
+   "source": "Pro Football Hall of Fame",
+   "note": "Thirteen — more than any other franchise.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "lambeau-capacity",
+   "q": "What is the seating capacity of Lambeau Field?",
+   "a": 81441,
+   "unit": "seats",
+   "min": 0,
+   "max": 250000,
+   "source": "Green Bay Packers",
+   "verify_by": "2028-03-01",
+   "note": "81,441.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "superbowl-first-price",
+   "q": "What did a ticket to the first Super Bowl cost, in dollars?",
+   "a": 12,
+   "unit": "$",
+   "min": 3,
+   "max": 40,
+   "source": "Pro Football Hall of Fame",
+   "note": "$12 — and the game did not sell out.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "superbowl-first-attendance",
+   "q": "How many people attended the first Super Bowl?",
+   "a": 61946,
+   "unit": "people",
+   "min": 15000,
+   "max": 200000,
+   "source": "Pro Football Hall of Fame",
+   "note": "61,946 in a stadium holding over 90,000.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rice-seasons",
+   "q": "How many NFL seasons did Jerry Rice play?",
+   "a": 20,
+   "unit": "seasons",
+   "min": 2.5,
+   "max": 60,
+   "source": "Pro Football Hall of Fame",
+   "note": "Twenty.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-seasons",
+   "q": "How many NFL seasons did Tom Brady play?",
+   "a": 23,
+   "unit": "seasons",
+   "min": 0,
+   "max": 40,
+   "source": "Pro Football Hall of Fame",
+   "note": "Twenty-three.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-draft-pick",
+   "q": "At which overall pick was Tom Brady drafted?",
+   "a": 199,
+   "unit": "pick",
+   "min": 30,
+   "max": 600,
+   "source": "NFL Record & Fact Book",
+   "note": "199th, in the sixth round of 2000.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "manning-passing-yards",
+   "q": "How many regular-season passing yards did Peyton Manning finish with?",
+   "a": 71940,
+   "unit": "yards",
+   "min": 0,
+   "max": 200000,
+   "source": "Pro Football Hall of Fame",
+   "note": "71,940.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brees-yards",
+   "q": "How many regular-season passing yards did Drew Brees finish with?",
+   "a": 80358,
+   "unit": "yards",
+   "min": 0,
+   "max": 150000,
+   "source": "Pro Football Hall of Fame",
+   "note": "80,358.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "favre-yards",
+   "q": "How many regular-season passing yards did Brett Favre finish with?",
+   "a": 71838,
+   "unit": "yards",
+   "min": 0,
+   "max": 200000,
+   "source": "Pro Football Hall of Fame",
+   "note": "71,838.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "payton-yards",
+   "q": "How many regular-season rushing yards did Walter Payton finish with?",
+   "a": 16726,
+   "unit": "yards",
+   "min": 0,
+   "max": 25000,
+   "source": "Pro Football Hall of Fame",
+   "note": "16,726.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sanders-yards",
+   "q": "How many regular-season rushing yards did Barry Sanders finish with?",
+   "a": 15269,
+   "unit": "yards",
+   "min": 2500,
+   "max": 50000,
+   "source": "Pro Football Hall of Fame",
+   "note": "15,269, and he walked away at 31.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "smith-seasons",
+   "q": "How many NFL seasons did Emmitt Smith play?",
+   "a": 15,
+   "unit": "seasons",
+   "min": 0,
+   "max": 50,
+   "source": "Pro Football Hall of Fame",
+   "note": "Fifteen.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "moss-tds",
+   "q": "How many regular-season receiving touchdowns did Randy Moss score?",
+   "a": 156,
+   "unit": "touchdowns",
+   "min": 25,
+   "max": 500,
+   "source": "Pro Football Hall of Fame",
+   "note": "156.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "moss-rookie-tds",
+   "q": "How many touchdown catches did Randy Moss make as a rookie in 1998?",
+   "a": 17,
+   "unit": "touchdowns",
+   "min": 1.5,
+   "max": 70,
+   "source": "NFL Record & Fact Book",
+   "note": "Seventeen — a rookie record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rice-1995",
+   "q": "How many receiving yards did Jerry Rice gain in 1995?",
+   "a": 1848,
+   "unit": "yards",
+   "min": 100,
+   "max": 6000,
+   "source": "NFL Record & Fact Book",
+   "note": "1,848 in a 16-game season.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "dickerson-seasons",
+   "q": "How many NFL seasons did Eric Dickerson play?",
+   "a": 11,
+   "unit": "seasons",
+   "min": 0,
+   "max": 15,
+   "source": "Pro Football Hall of Fame",
+   "note": "Eleven.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "lt-sacks",
+   "q": "How many official NFL sacks did Lawrence Taylor record from 1982 onwards?",
+   "a": 132.5,
+   "dp": 1,
+   "unit": "sacks",
+   "min": 0,
+   "max": 400,
+   "source": "Pro Football Hall of Fame",
+   "note": "132.5 official sacks. Counting his unofficial 1981 season, some tallies reach 142.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "reggie-white-sacks",
+   "q": "How many regular-season sacks did Reggie White record?",
+   "a": 198,
+   "unit": "sacks",
+   "min": 0,
+   "max": 400,
+   "source": "Pro Football Hall of Fame",
+   "note": "198, second only to Bruce Smith.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-punt",
+   "q": "How long is the longest punt in NFL history, in yards?",
+   "a": 98,
+   "unit": "yards",
+   "min": 30,
+   "max": 300,
+   "source": "NFL Record & Fact Book",
+   "note": "98 yards, by Steve O'Neal in 1969.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-run",
+   "q": "How long is the longest run from scrimmage in NFL history, in yards?",
+   "a": 99,
+   "unit": "yards",
+   "min": 10,
+   "max": 300,
+   "source": "NFL Record & Fact Book",
+   "note": "99 yards — achieved several times, and it cannot be beaten.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-fg-college",
+   "q": "What is the longest field goal in NCAA history, in yards?",
+   "a": 67,
+   "unit": "yards",
+   "min": 7,
+   "max": 250,
+   "source": "NCAA",
+   "note": "67 yards, achieved three times in 1976-77 with the help of a kicking tee.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "perfect-passer",
+   "q": "What is the maximum possible NFL passer rating?",
+   "a": 158.3,
+   "dp": 1,
+   "unit": "rating",
+   "min": 50,
+   "max": 500,
+   "source": "NFL Record & Fact Book",
+   "note": "158.3 — the formula caps there.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "safety-points",
+   "q": "How many points is a safety worth?",
+   "a": 2,
+   "unit": "points",
+   "min": 0,
+   "max": 6,
+   "source": "NFL Record & Fact Book",
+   "note": "Two, and the scoring team receives the ball.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "field-goal-points",
+   "q": "How many points is a field goal worth?",
+   "a": 3,
+   "unit": "points",
+   "min": 0,
+   "max": 15,
+   "source": "NFL Record & Fact Book",
+   "note": "Three.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-first-draft",
+   "q": "In which year was the first NFL draft held?",
+   "a": 1936,
+   "unit": "",
+   "min": 1860,
+   "max": 1980,
+   "source": "Pro Football Hall of Fame",
+   "note": "1936.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "salary-cap",
+   "q": "In which year did the NFL introduce the salary cap?",
+   "a": 1994,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "source": "NFL Record & Fact Book",
+   "note": "1994.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "halftime-superbowl",
+   "q": "How many minutes long is the Super Bowl halftime?",
+   "a": 30,
+   "unit": "minutes",
+   "min": 0,
+   "max": 80,
+   "source": "NFL Record & Fact Book",
+   "note": "About 30 minutes, against 13 and a half in a normal game.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "instant-replay",
+   "q": "In which year did the NFL introduce instant replay review?",
+   "a": 1986,
+   "unit": "",
+   "min": 1920,
+   "max": 2020,
+   "source": "NFL Record & Fact Book",
+   "note": "1986, though it was dropped and reinstated.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "overtime-playoff",
+   "q": "How many minutes long is an NFL playoff overtime period?",
+   "a": 15,
+   "unit": "minutes",
+   "min": 0,
+   "max": 25,
+   "source": "NFL Record & Fact Book",
+   "note": "Fifteen, unlike the ten in the regular season.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rams-return",
+   "q": "In which year did the Rams return to Los Angeles?",
+   "a": 2016,
+   "unit": "",
+   "min": 1980,
+   "max": 2130,
+   "source": "NFL Record & Fact Book",
+   "note": "2016, after two decades in St Louis.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-teams-1970",
+   "q": "How many teams were in the NFL after the 1970 merger?",
+   "a": 26,
+   "unit": "teams",
+   "min": 0,
+   "max": 40,
+   "source": "Pro Football Hall of Fame",
+   "note": "Twenty-six.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "thanksgiving-lions",
+   "q": "In which year did the Detroit Lions start their Thanksgiving tradition?",
+   "a": 1934,
+   "unit": "",
+   "min": 1820,
+   "max": 1980,
+   "source": "Pro Football Hall of Fame",
+   "note": "1934.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "monday-night",
+   "q": "In which year did Monday Night Football begin?",
+   "a": 1970,
+   "unit": "",
+   "min": 1900,
+   "max": 1990,
+   "source": "Pro Football Hall of Fame",
+   "note": "1970.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "superbowl-trophy-maker",
+   "q": "How many Super Bowls had been played before the trophy was named after Lombardi?",
+   "a": 4,
+   "unit": "games",
+   "min": 0,
+   "max": 7,
+   "source": "Pro Football Hall of Fame",
+   "note": "Four; it was renamed in 1970 after Lombardi's death.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-attendance-record",
+   "q": "What is the record attendance for an NFL regular-season game?",
+   "a": 105121,
+   "unit": "people",
+   "min": 25000,
+   "max": 300000,
+   "source": "NFL Record & Fact Book",
+   "note": "105,121 for Cowboys against Giants at Cowboys Stadium in September 2009.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "qb-kneel",
+   "q": "How many seconds does a quarterback kneel typically run off the clock?",
+   "a": 40,
+   "unit": "seconds",
+   "min": 0,
+   "max": 60,
+   "source": "NFL Record & Fact Book",
+   "note": "Up to 40, the length of the play clock.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "springfield-armory",
+   "q": "In which year did Springfield Armory begin producing muskets?",
+   "a": 1795,
+   "unit": "",
+   "min": 1760,
+   "max": 1870,
+   "source": "US National Park Service",
+   "note": "1795 — the first US national armoury.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "whitney-contract",
+   "q": "In which year did Eli Whitney win his first US government musket contract?",
+   "a": 1798,
+   "unit": "",
+   "min": 1740,
+   "max": 1840,
+   "source": "Smithsonian Institution",
+   "note": "1798 — an early experiment in interchangeable parts.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "colt-paterson",
+   "q": "In which year did Samuel Colt patent his revolving firearm?",
+   "a": 1836,
+   "unit": "",
+   "min": 1760,
+   "max": 1860,
+   "source": "Smithsonian Institution",
+   "note": "1836 — the patent that founded the company.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "colt-walker",
+   "q": "How many Colt Walker revolvers were made in 1847?",
+   "a": 1100,
+   "unit": "revolvers",
+   "min": 0,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1,100, of which 1,000 went to the army.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "spencer-capacity",
+   "q": "How many rounds did the Civil War Spencer repeating rifle hold?",
+   "a": 7,
+   "unit": "rounds",
+   "min": 0,
+   "max": 10,
+   "source": "Smithsonian Institution",
+   "note": "Seven in a tube through the buttstock.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "springfield-trapdoor",
+   "q": "In which year was the Springfield Model 1873 'Trapdoor' adopted?",
+   "a": 1873,
+   "unit": "",
+   "min": 1770,
+   "max": 1920,
+   "source": "Smithsonian Institution",
+   "note": "1873, the army's first standard breech-loader.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "krag",
+   "q": "In which year did the US Army adopt the Krag-Jorgensen rifle?",
+   "a": 1892,
+   "unit": "",
+   "min": 1770,
+   "max": 1930,
+   "source": "Smithsonian Institution",
+   "note": "1892 — the army's first bolt-action repeater.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "1903-capacity",
+   "q": "How many rounds does a Springfield M1903 magazine hold?",
+   "a": 5,
+   "unit": "rounds",
+   "min": 0,
+   "max": 15,
+   "source": "Smithsonian Institution",
+   "note": "Five, loaded by stripper clip.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "browning-patents",
+   "q": "About how many firearms patents did John Browning hold?",
+   "a": 128,
+   "unit": "patents",
+   "min": 15,
+   "max": 400,
+   "source": "NRA Museums",
+   "note": "128 — the most prolific gun designer in history.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "bar-capacity",
+   "q": "How many rounds did the Browning Automatic Rifle's magazine hold?",
+   "a": 20,
+   "unit": "rounds",
+   "min": 0,
+   "max": 50,
+   "source": "Smithsonian Institution",
+   "note": "Twenty.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "1911-weight",
+   "q": "How much does an M1911 pistol weigh unloaded, in ounces?",
+   "a": 39,
+   "unit": "ounces",
+   "min": 0,
+   "max": 60,
+   "source": "Smithsonian Institution",
+   "note": "About 39 ounces — two and a half pounds of steel.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "thompson-drum",
+   "q": "How many rounds did the Thompson's L-type drum magazine hold?",
+   "a": 50,
+   "unit": "rounds",
+   "min": 0,
+   "max": 70,
+   "source": "Smithsonian Institution",
+   "note": "Fifty. A 100-round C drum also existed but was rarely used.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "thompson-price",
+   "q": "What did a Thompson submachine gun cost in 1921, in dollars?",
+   "a": 200,
+   "unit": "$",
+   "min": 60,
+   "max": 600,
+   "source": "NRA Museums",
+   "note": "$200 — around two-thirds the price of a new Ford Model T.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "garand-length",
+   "q": "How long is an M1 Garand, in inches?",
+   "a": 43.5,
+   "dp": 1,
+   "unit": "inches",
+   "min": 1.5,
+   "max": 200,
+   "source": "Smithsonian Institution",
+   "note": "43.5 inches.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "carbine-m1-made",
+   "q": "How many M1 Carbines were produced in the Second World War?",
+   "a": 6000000,
+   "unit": "carbines",
+   "min": 0,
+   "max": 10000000,
+   "source": "Smithsonian Institution",
+   "note": "Over six million — more than any other US small arm of the war.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "bazooka-year",
+   "q": "In which year did the bazooka enter US service?",
+   "a": 1942,
+   "unit": "",
+   "min": 1840,
+   "max": 1990,
+   "source": "US Army",
+   "note": "1942.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m14-year",
+   "q": "In which year was the M14 rifle adopted?",
+   "a": 1957,
+   "unit": "",
+   "min": 1910,
+   "max": 2070,
+   "source": "US Army",
+   "note": "1957, replacing the Garand.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m14-capacity",
+   "q": "How many rounds does an M14 magazine hold?",
+   "a": 20,
+   "unit": "rounds",
+   "min": 0,
+   "max": 40,
+   "source": "US Army",
+   "note": "Twenty of 7.62mm NATO.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m60-rpm",
+   "q": "What is the rate of fire of the M60 machine gun, in rounds per minute?",
+   "a": 550,
+   "unit": "rpm",
+   "min": 0,
+   "max": 800,
+   "source": "US Army",
+   "note": "About 550.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m4-barrel",
+   "q": "How long is the barrel of an M4 carbine, in inches?",
+   "a": 14.5,
+   "dp": 1,
+   "unit": "inches",
+   "min": 2.5,
+   "max": 40,
+   "source": "US Army",
+   "note": "14.5 inches, against the M16's 20.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m249-year",
+   "q": "In which year did the US military adopt the M249 SAW?",
+   "a": 1984,
+   "unit": "",
+   "min": 1940,
+   "max": 2070,
+   "source": "US Army",
+   "note": "1984.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m240-weight",
+   "q": "How much does an M240B machine gun weigh, in pounds?",
+   "a": 27.6,
+   "dp": 1,
+   "unit": "pounds",
+   "min": 0.3,
+   "max": 150,
+   "source": "US Army",
+   "note": "27.6 pounds. Lighter variants run to about 22.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mosin-made",
+   "q": "How many Mosin-Nagant rifles were produced in total, in millions?",
+   "a": 37,
+   "unit": "million",
+   "min": 6,
+   "max": 150,
+   "source": "NRA Museums",
+   "note": "About 37 million — one of the most-produced rifles ever.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "sks-year",
+   "q": "In which year was the SKS carbine adopted by the Soviet Union?",
+   "a": 1949,
+   "unit": "",
+   "min": 1840,
+   "max": 1990,
+   "source": "NRA Museums",
+   "note": "1949.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "uzi-year",
+   "q": "In which year was the Uzi officially adopted by the Israeli military?",
+   "a": 1951,
+   "unit": "",
+   "min": 1910,
+   "max": 2020,
+   "source": "NRA Museums",
+   "note": "1951, though general issue came a few years later.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mp5-year",
+   "q": "In which year was the Heckler & Koch MP5 introduced?",
+   "a": 1966,
+   "unit": "",
+   "min": 1910,
+   "max": 2040,
+   "source": "NRA Museums",
+   "note": "1966.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "remington-700-year",
+   "q": "In which year was the Remington Model 700 introduced?",
+   "a": 1962,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "source": "NRA Museums",
+   "note": "1962. The military M24 is built on it.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "remington-ilion",
+   "q": "In which year did Remington's Ilion, New York factory open?",
+   "a": 1828,
+   "unit": "",
+   "min": 1730,
+   "max": 1880,
+   "source": "NRA Museums",
+   "note": "1828, and it ran for nearly two centuries.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mossberg-500-made",
+   "q": "In which year did Mossberg build its 10 millionth Model 500 shotgun?",
+   "a": 2013,
+   "unit": "",
+   "min": 1970,
+   "max": 2120,
+   "source": "O.F. Mossberg & Sons",
+   "note": "April 2013.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "shotgun-12-bore",
+   "q": "How many lead balls of 12-bore diameter make a pound — the origin of the gauge system?",
+   "a": 12,
+   "unit": "balls",
+   "min": 0,
+   "max": 20,
+   "source": "NRA Museums",
+   "note": "Twelve, which is exactly what '12 gauge' means.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "model12-year",
+   "q": "In which year was the Winchester Model 12 shotgun introduced?",
+   "a": 1912,
+   "unit": "",
+   "min": 1870,
+   "max": 2020,
+   "source": "NRA Museums",
+   "note": "1912, and it stayed in production for six decades.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "buckshot-pellets",
+   "q": "How many pellets are in a standard 12-gauge 00 buckshot shell?",
+   "a": 9,
+   "unit": "pellets",
+   "min": 0,
+   "max": 15,
+   "source": "NRA Museums",
+   "note": "Nine.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "22lr-year",
+   "q": "In which year was the .22 Long Rifle cartridge introduced?",
+   "a": 1887,
+   "unit": "",
+   "min": 1840,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1887 — still the best-selling cartridge in the world.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "45-70-year",
+   "q": "In which year was the .45-70 Government cartridge adopted?",
+   "a": 1873,
+   "unit": "",
+   "min": 1800,
+   "max": 1920,
+   "source": "Smithsonian Institution",
+   "note": "1873, alongside the Trapdoor Springfield.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "30-06-year",
+   "q": "In which year was the .30-06 Springfield cartridge adopted?",
+   "a": 1906,
+   "unit": "",
+   "min": 1870,
+   "max": 2010,
+   "source": "Smithsonian Institution",
+   "note": "1906 — the '06' in the name is the year.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "9mm-year",
+   "q": "In which year was the 9x19mm Parabellum cartridge introduced?",
+   "a": 1902,
+   "unit": "",
+   "min": 1840,
+   "max": 1930,
+   "source": "NRA Museums",
+   "note": "1902, by Georg Luger.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "308-year",
+   "q": "In which year was the .308 Winchester introduced commercially?",
+   "a": 1952,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1952, two years before the military 7.62mm NATO.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "50bmg-year",
+   "q": "In which year was the .50 BMG cartridge developed?",
+   "a": 1918,
+   "unit": "",
+   "min": 1840,
+   "max": 1960,
+   "source": "Smithsonian Institution",
+   "note": "1918, for John Browning's heavy machine gun.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "magnum-357",
+   "q": "In which year was the .357 Magnum introduced?",
+   "a": 1935,
+   "unit": "",
+   "min": 1850,
+   "max": 1980,
+   "source": "NRA Museums",
+   "note": "1935.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "44-magnum",
+   "q": "In which year was the .44 Magnum introduced?",
+   "a": 1955,
+   "unit": "",
+   "min": 1910,
+   "max": 2070,
+   "source": "NRA Museums",
+   "note": "1955 — made famous by Dirty Harry sixteen years later.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mini14-year",
+   "q": "In which year was the Ruger Mini-14 introduced?",
+   "a": 1974,
+   "unit": "",
+   "min": 1930,
+   "max": 2040,
+   "source": "NRA Museums",
+   "note": "1974.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "sig-p320-year",
+   "q": "In which year did the US Army adopt the SIG Sauer M17?",
+   "a": 2017,
+   "unit": "",
+   "min": 1950,
+   "max": 2060,
+   "source": "US Army",
+   "note": "2017, replacing the Beretta M9.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m17-capacity",
+   "q": "How many rounds does the standard M17 magazine hold?",
+   "a": 17,
+   "unit": "rounds",
+   "min": 5,
+   "max": 50,
+   "source": "US Army",
+   "note": "Seventeen.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "nfa-tax",
+   "q": "What is the National Firearms Act transfer tax for a machine gun, in dollars?",
+   "a": 200,
+   "unit": "$",
+   "min": 0,
+   "max": 400,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+   "verify_by": "2028-01-01",
+   "note": "$200, unchanged since 1934. From January 2026 the tax on suppressors and short-barrelled weapons dropped to zero.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "fopa-year",
+   "q": "In which year was the Firearm Owners Protection Act passed?",
+   "a": 1986,
+   "unit": "",
+   "min": 1930,
+   "max": 2070,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+   "note": "1986.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mcdonald-year",
+   "q": "In which year was McDonald v. City of Chicago decided?",
+   "a": 2010,
+   "unit": "",
+   "min": 1960,
+   "max": 2080,
+   "source": "Supreme Court of the United States",
+   "note": "2010, applying the Second Amendment to the states.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "bruen-year",
+   "q": "In which year was New York State Rifle & Pistol Association v. Bruen decided?",
+   "a": 2022,
+   "unit": "",
+   "min": 1960,
+   "max": 2100,
+   "source": "Supreme Court of the United States",
+   "note": "2022.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ffl-count",
+   "q": "According to the ATF, how many federal firearms licences were there in 2025, in thousands?",
+   "a": 127,
+   "unit": "thousand",
+   "min": 20,
+   "max": 400,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+   "verify_by": "2028-01-01",
+   "note": "127,407 licensees in the 2025 financial year.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-73-made",
+   "q": "How many Winchester Model 1873 rifles were produced?",
+   "a": 720000,
+   "unit": "rifles",
+   "min": 0,
+   "max": 1500000,
+   "source": "NRA Museums",
+   "note": "About 720,000 — 'the gun that won the West'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ak-mag-capacity",
+   "q": "How many rounds does an AK-47 magazine hold as standard?",
+   "a": 30,
+   "unit": "rounds",
+   "min": 0,
+   "max": 50,
+   "source": "NRA Museums",
+   "note": "Thirty.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "dc-capital",
+   "q": "In which year did Washington DC become the seat of government?",
+   "a": 1800,
+   "unit": "",
+   "min": 1760,
+   "max": 1870,
+   "source": "Library of Congress",
+   "note": "1800, moving from Philadelphia.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-census",
+   "q": "In which year was the first US census taken?",
+   "a": 1790,
+   "unit": "",
+   "min": 1740,
+   "max": 1900,
+   "source": "US Census Bureau",
+   "note": "1790.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-census-pop",
+   "q": "What was the US population at the first census, in millions?",
+   "a": 3.9,
+   "dp": 1,
+   "unit": "million",
+   "min": 0.08,
+   "max": 15,
+   "source": "US Census Bureau",
+   "note": "About 3.9 million.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "judiciary-act",
+   "q": "In which year was the Judiciary Act that created the federal courts passed?",
+   "a": 1789,
+   "unit": "",
+   "min": 1710,
+   "max": 1810,
+   "source": "Supreme Court of the United States",
+   "note": "1789.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "circuits",
+   "q": "How many federal judicial circuits are there?",
+   "a": 13,
+   "unit": "circuits",
+   "min": 0,
+   "max": 40,
+   "source": "Administrative Office of the US Courts",
+   "note": "Thirteen, including the Federal Circuit.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "district-courts",
+   "q": "How many federal district courts are there?",
+   "a": 94,
+   "unit": "courts",
+   "min": 0,
+   "max": 150,
+   "source": "Administrative Office of the US Courts",
+   "note": "Ninety-four.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "house-term",
+   "q": "How many years is a term in the House of Representatives?",
+   "a": 2,
+   "unit": "years",
+   "min": 0,
+   "max": 3,
+   "source": "US National Archives",
+   "note": "Two — the shortest federal term.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "apportionment-act",
+   "q": "In which year did the Permanent Apportionment Act fix the House at 435?",
+   "a": 1929,
+   "unit": "",
+   "min": 1820,
+   "max": 1970,
+   "source": "Library of Congress",
+   "note": "1929.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "12th",
+   "q": "In which year was the 12th Amendment on separate votes for president and vice president ratified?",
+   "a": 1804,
+   "unit": "",
+   "min": 1730,
+   "max": 1840,
+   "source": "US National Archives",
+   "note": "1804, after the deadlock of 1800.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "27th",
+   "q": "In which year was the 27th Amendment ratified?",
+   "a": 1992,
+   "unit": "",
+   "min": 1920,
+   "max": 2040,
+   "source": "US National Archives",
+   "note": "1992.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "27th-years",
+   "q": "How many years passed between the 27th Amendment being proposed and ratified?",
+   "a": 202,
+   "unit": "years",
+   "min": 25,
+   "max": 800,
+   "source": "US National Archives",
+   "note": "Proposed September 1789, ratified May 1992 — 202 years and seven months.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "missouri-compromise",
+   "q": "In which year was the Missouri Compromise?",
+   "a": 1820,
+   "unit": "",
+   "min": 1780,
+   "max": 1890,
+   "source": "Library of Congress",
+   "note": "1820.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "dred-scott",
+   "q": "In which year was the Dred Scott decision handed down?",
+   "a": 1857,
+   "unit": "",
+   "min": 1790,
+   "max": 1900,
+   "source": "Supreme Court of the United States",
+   "note": "1857.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "plessy",
+   "q": "In which year was Plessy v. Ferguson decided?",
+   "a": 1896,
+   "unit": "",
+   "min": 1850,
+   "max": 2010,
+   "source": "Supreme Court of the United States",
+   "note": "1896.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "brown-board",
+   "q": "In which year was Brown v. Board of Education decided?",
+   "a": 1954,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "Supreme Court of the United States",
+   "note": "1954.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "bush-gore",
+   "q": "In which year was Bush v. Gore decided?",
+   "a": 2000,
+   "unit": "",
+   "min": 1960,
+   "max": 2070,
+   "source": "Supreme Court of the United States",
+   "note": "December 2000.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "florida-2000",
+   "q": "By how many votes was the certified Florida margin in the 2000 presidential election?",
+   "a": 537,
+   "unit": "votes",
+   "min": 0,
+   "max": 1500,
+   "source": "Florida Division of Elections",
+   "note": "537 votes out of nearly six million cast.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "citizens-united",
+   "q": "In which year was Citizens United v. FEC decided?",
+   "a": 2010,
+   "unit": "",
+   "min": 1940,
+   "max": 2040,
+   "source": "Supreme Court of the United States",
+   "note": "2010.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-woman-congress",
+   "q": "In which year was the first woman elected to Congress?",
+   "a": 1916,
+   "unit": "",
+   "min": 1870,
+   "max": 1990,
+   "source": "US House of Representatives",
+   "note": "1916 — Jeannette Rankin of Montana.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-woman-scotus",
+   "q": "In which year was the first woman appointed to the Supreme Court?",
+   "a": 1981,
+   "unit": "",
+   "min": 1900,
+   "max": 2000,
+   "source": "Supreme Court of the United States",
+   "note": "1981 — Sandra Day O'Connor.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "peace-corps",
+   "q": "In which year was the Peace Corps created?",
+   "a": 1961,
+   "unit": "",
+   "min": 1910,
+   "max": 2040,
+   "source": "Peace Corps",
+   "note": "1961.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "epa",
+   "q": "In which year was the Environmental Protection Agency created?",
+   "a": 1970,
+   "unit": "",
+   "min": 1930,
+   "max": 2030,
+   "source": "Environmental Protection Agency",
+   "note": "1970.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "dept-education",
+   "q": "In which year was the act creating the Department of Education signed?",
+   "a": 1979,
+   "unit": "",
+   "min": 1940,
+   "max": 2060,
+   "source": "US Department of Education",
+   "note": "October 1979; it began operating the following May.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "va-cabinet",
+   "q": "In which year was the act signed that made Veterans Affairs a Cabinet department?",
+   "a": 1988,
+   "unit": "",
+   "min": 1950,
+   "max": 2110,
+   "source": "Department of Veterans Affairs",
+   "note": "October 1988; the department stood up in March 1989.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "foia",
+   "q": "In which year was the Freedom of Information Act signed?",
+   "a": 1966,
+   "unit": "",
+   "min": 1900,
+   "max": 2010,
+   "source": "US National Archives",
+   "note": "1966.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "pentagon-papers",
+   "q": "In which year were the Pentagon Papers published?",
+   "a": 1971,
+   "unit": "",
+   "min": 1930,
+   "max": 2090,
+   "source": "Library of Congress",
+   "note": "1971.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "era-congress",
+   "q": "In which year did Congress pass the Equal Rights Amendment?",
+   "a": 1972,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "source": "US National Archives",
+   "note": "1972; it fell short of ratification.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "nps-created",
+   "q": "In which year was the National Park Service created?",
+   "a": 1916,
+   "unit": "",
+   "min": 1870,
+   "max": 2030,
+   "source": "US National Park Service",
+   "note": "1916.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "popular-vote-losers",
+   "q": "How many presidents have taken office after losing the popular vote?",
+   "a": 5,
+   "unit": "presidents",
+   "min": 0,
+   "max": 7,
+   "source": "US National Archives",
+   "note": "Five.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wh-rebuilt",
+   "q": "In which year was the White House reoccupied after the British burned it?",
+   "a": 1817,
+   "unit": "",
+   "min": 1750,
+   "max": 1840,
+   "source": "White House Historical Association",
+   "note": "1817, under James Monroe.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "camp-david",
+   "q": "In which year were the Camp David Accords signed?",
+   "a": 1978,
+   "unit": "",
+   "min": 1920,
+   "max": 2060,
+   "source": "US Department of State",
+   "note": "September 1978.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "iran-hostage-days",
+   "q": "How many days did the Iran hostage crisis last?",
+   "a": 444,
+   "unit": "days",
+   "min": 10,
+   "max": 2000,
+   "source": "US Department of State",
+   "note": "444 days, ending in January 1981.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "capitol-cornerstone",
+   "q": "In which year was the US Capitol cornerstone laid?",
+   "a": 1793,
+   "unit": "",
+   "min": 1700,
+   "max": 1840,
+   "source": "Architect of the Capitol",
+   "note": "1793, by Washington.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "loc-founded",
+   "q": "In which year was the Library of Congress founded?",
+   "a": 1800,
+   "unit": "",
+   "min": 1740,
+   "max": 1880,
+   "source": "Library of Congress",
+   "note": "1800.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "washington-monument-done",
+   "q": "In which year was the Washington Monument completed?",
+   "a": 1884,
+   "unit": "",
+   "min": 1790,
+   "max": 1930,
+   "source": "US National Park Service",
+   "note": "1884. Work stopped in 1854 and Congress only resumed funding in 1876.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "presidents-virginia",
+   "q": "How many US presidents were born in Virginia?",
+   "a": 8,
+   "unit": "presidents",
+   "min": 0,
+   "max": 15,
+   "source": "White House Historical Association",
+   "note": "Eight — more than any other state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "congress-dc",
+   "q": "In which year did Congress first meet in Washington DC?",
+   "a": 1800,
+   "unit": "",
+   "min": 1770,
+   "max": 1860,
+   "source": "Architect of the Capitol",
+   "note": "November 1800.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "senate-treaty",
+   "q": "How many Senate votes approve a treaty when all 100 senators vote?",
+   "a": 67,
+   "unit": "votes",
+   "min": 8,
+   "max": 250,
+   "source": "US Senate Historical Office",
+   "note": "Two thirds of those present — 67 when the full Senate votes. The Senate consents; the president ratifies.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "house-impeach",
+   "q": "How many House votes are needed to impeach a president?",
+   "a": 218,
+   "unit": "votes",
+   "min": 70,
+   "max": 600,
+   "source": "US House of Representatives",
+   "note": "A simple majority of those voting — 218 when every seat is filled and every member votes.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "electoral-tie",
+   "q": "How many votes does each state delegation get if the House decides a presidential election?",
+   "a": 1,
+   "unit": "vote",
+   "min": 0.03,
+   "max": 3,
+   "source": "US National Archives",
+   "note": "One vote per state delegation, however large the state.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "nixon-pardon",
+   "q": "In which year did Gerald Ford pardon Richard Nixon?",
+   "a": 1974,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "White House Historical Association",
+   "note": "September 1974.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "21st-amendment",
+   "q": "How many state conventions were needed to repeal Prohibition?",
+   "a": 36,
+   "unit": "states",
+   "min": 3,
+   "max": 150,
+   "source": "US National Archives",
+   "note": "Thirty-six — the only amendment ratified by state conventions.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "first-primary",
+   "q": "In which year did New Hampshire hold its first presidential primary?",
+   "a": 1916,
+   "unit": "",
+   "min": 1840,
+   "max": 1940,
+   "source": "Library of Congress",
+   "note": "1916.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "voting-age-before",
+   "q": "In most states, what was the voting age before the 26th Amendment?",
+   "a": 21,
+   "unit": "years old",
+   "min": 0,
+   "max": 40,
+   "source": "US National Archives",
+   "note": "Twenty-one in most states.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "gerrymander-origin",
+   "q": "In which year did the word 'gerrymander' first appear?",
+   "a": 1812,
+   "unit": "",
+   "min": 1730,
+   "max": 1860,
+   "source": "Library of Congress",
+   "note": "1812, after a Massachusetts district shaped like a salamander.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "succession-act",
+   "q": "In which year was the Presidential Succession Act that sets the current order passed?",
+   "a": 1947,
+   "unit": "",
+   "min": 1900,
+   "max": 2030,
+   "source": "US National Archives",
+   "note": "1947, putting the Speaker after the vice president.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "state-of-union-first",
+   "q": "In which year did a president first deliver a State of the Union address in person to Congress?",
+   "a": 1790,
+   "unit": "",
+   "min": 1750,
+   "max": 1910,
+   "source": "Library of Congress",
+   "note": "1790 — Washington. Jefferson then sent it in writing for a century.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "wilson-sotu",
+   "q": "In which year did presidents resume delivering the State of the Union in person?",
+   "a": 1913,
+   "unit": "",
+   "min": 1850,
+   "max": 1990,
+   "source": "Library of Congress",
+   "note": "1913, under Woodrow Wilson.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "term-limit-fdr",
+   "q": "How many years did Franklin Roosevelt serve as president?",
+   "a": 12,
+   "unit": "years",
+   "min": 0,
+   "max": 25,
+   "source": "White House Historical Association",
+   "note": "Twelve years and 39 days.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "cabinet-first",
+   "q": "How many members were in Washington's first Cabinet?",
+   "a": 4,
+   "unit": "members",
+   "min": 0,
+   "max": 6,
+   "source": "US National Archives",
+   "note": "Four: State, Treasury, War and the Attorney General. Only three of them headed departments.",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": "vermont-state",
+   "q": "In which year did Vermont become the 14th state?",
+   "a": 1791,
+   "unit": "",
+   "min": 1730,
+   "max": 1820,
+   "source": "Library of Congress",
+   "note": "1791 — the first after the original thirteen.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "cotton-gin",
+   "q": "In which year did Eli Whitney patent the cotton gin?",
+   "a": 1794,
+   "unit": "",
+   "min": 1760,
+   "max": 1860,
+   "source": "Smithsonian Institution",
+   "note": "1794.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "first-railroad",
+   "q": "In which year was the Baltimore & Ohio Railroad chartered?",
+   "a": 1827,
+   "unit": "",
+   "min": 1720,
+   "max": 1870,
+   "source": "Smithsonian Institution",
+   "note": "1827. The first stretch of track opened three years later.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "telegraph",
+   "q": "In which year did Samuel Morse send his first long-distance telegraph message?",
+   "a": 1844,
+   "unit": "",
+   "min": 1790,
+   "max": 1920,
+   "source": "Smithsonian Institution",
+   "note": "1844 — 'What hath God wrought'.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "oregon-treaty",
+   "q": "In which year was the Oregon Treaty signed with Britain?",
+   "a": 1846,
+   "unit": "",
+   "min": 1800,
+   "max": 1950,
+   "source": "US Department of State",
+   "note": "1846, fixing the border at the 49th parallel.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "chicago-worlds-fair",
+   "q": "In which year was the Chicago World's Columbian Exposition?",
+   "a": 1893,
+   "unit": "",
+   "min": 1820,
+   "max": 1930,
+   "source": "Chicago History Museum",
+   "note": "1893.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "ferris-wheel-height",
+   "q": "How tall was the original Ferris wheel of 1893, in feet?",
+   "a": 264,
+   "unit": "feet",
+   "min": 0,
+   "max": 500,
+   "source": "Smithsonian Institution",
+   "note": "264 feet, built to rival the Eiffel Tower.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "scopes",
+   "q": "In which year was the Scopes 'Monkey' Trial?",
+   "a": 1925,
+   "unit": "",
+   "min": 1860,
+   "max": 1970,
+   "source": "Library of Congress",
+   "note": "1925, in Dayton, Tennessee.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "un-founded",
+   "q": "In which year was the United Nations founded?",
+   "a": 1945,
+   "unit": "",
+   "min": 1880,
+   "max": 1970,
+   "source": "United Nations",
+   "note": "October 1945, with its headquarters later built in New York.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "disneyland",
+   "q": "In which year did Disneyland open?",
+   "a": 1955,
+   "unit": "",
+   "min": 1880,
+   "max": 1980,
+   "source": "Library of Congress",
+   "note": "July 1955.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "kroc-mcdonalds",
+   "q": "In which year did Ray Kroc open his first McDonald's franchise?",
+   "a": 1955,
+   "unit": "",
+   "min": 1870,
+   "max": 2000,
+   "source": "Library of Congress",
+   "note": "1955, in Des Plaines, Illinois.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "sears-tower",
+   "q": "In which year did the Sears Tower open?",
+   "a": 1973,
+   "unit": "",
+   "min": 1920,
+   "max": 2050,
+   "source": "Skyscraper Museum",
+   "note": "1973, though finishing work ran into 1974.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "sears-height",
+   "q": "How tall is the Willis Tower to its roof, in feet?",
+   "a": 1451,
+   "unit": "feet",
+   "min": 400,
+   "max": 4000,
+   "source": "Council on Tall Buildings and Urban Habitat",
+   "note": "1,451 feet to the roof by the CTBUH measure; the antennas take it higher.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "wtc-completed",
+   "q": "In which year was the original World Trade Center officially dedicated?",
+   "a": 1973,
+   "unit": "",
+   "min": 1910,
+   "max": 2050,
+   "source": "Skyscraper Museum",
+   "note": "April 1973. The North Tower had been occupied since 1972.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "owtc-height",
+   "q": "How tall is One World Trade Center to the top of its spire, in feet?",
+   "a": 1776,
+   "unit": "feet",
+   "min": 0,
+   "max": 3000,
+   "source": "Skyscraper Museum",
+   "note": "1,776 feet — chosen deliberately. The roof is 1,368.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "owtc-open",
+   "q": "In which year did One World Trade Center open?",
+   "a": 2014,
+   "unit": "",
+   "min": 1970,
+   "max": 2090,
+   "source": "Skyscraper Museum",
+   "note": "November 2014.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "hollywood-sign",
+   "q": "In which year was the Hollywood sign erected?",
+   "a": 1923,
+   "unit": "",
+   "min": 1840,
+   "max": 1970,
+   "source": "Library of Congress",
+   "note": "1923, and it originally read HOLLYWOODLAND.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "yellowstone",
+   "q": "In which year did Yellowstone become the first national park?",
+   "a": 1872,
+   "unit": "",
+   "min": 1800,
+   "max": 1890,
+   "source": "US National Park Service",
+   "note": "1872.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "yellowstone-acres",
+   "q": "How many million acres is Yellowstone National Park?",
+   "a": 2.2,
+   "dp": 1,
+   "unit": "million acres",
+   "min": 0,
+   "max": 7,
+   "source": "US National Park Service",
+   "note": "About 2.2 million acres across three states.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "grand-canyon-park",
+   "q": "In which year did the Grand Canyon become a national park?",
+   "a": 1919,
+   "unit": "",
+   "min": 1880,
+   "max": 2020,
+   "source": "US National Park Service",
+   "note": "1919.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "grand-canyon-depth",
+   "q": "How deep is the Grand Canyon at its deepest, in feet?",
+   "a": 6000,
+   "unit": "feet",
+   "min": 0,
+   "max": 8000,
+   "source": "US National Park Service",
+   "note": "About 6,000 feet at its deepest; nearer 5,000 at Grand Canyon Village.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "appalachian-completed",
+   "q": "In which year was the Appalachian Trail completed?",
+   "a": 1937,
+   "unit": "",
+   "min": 1870,
+   "max": 2020,
+   "source": "US National Park Service",
+   "note": "1937.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "appalachian-miles",
+   "q": "How long is the Appalachian Trail, in miles?",
+   "a": 2198,
+   "unit": "miles",
+   "min": 0,
+   "max": 3000,
+   "source": "US National Park Service",
+   "verify_by": "2028-01-01",
+   "note": "About 2,198 miles as of 2026. The figure shifts each year as the trail is rerouted.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "panama-handover",
+   "q": "In which year did the United States hand the Panama Canal to Panama?",
+   "a": 1999,
+   "unit": "",
+   "min": 1950,
+   "max": 2070,
+   "source": "US Department of State",
+   "note": "31 December 1999.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "hindenburg",
+   "q": "In which year did the Hindenburg burn at Lakehurst?",
+   "a": 1937,
+   "unit": "",
+   "min": 1910,
+   "max": 2000,
+   "source": "Library of Congress",
+   "note": "May 1937.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "empire-plane",
+   "q": "In which year did a B-25 crash into the Empire State Building?",
+   "a": 1945,
+   "unit": "",
+   "min": 1860,
+   "max": 1990,
+   "source": "Library of Congress",
+   "note": "July 1945, in fog.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "space-needle",
+   "q": "In which year was the Space Needle built?",
+   "a": 1962,
+   "unit": "",
+   "min": 1920,
+   "max": 2070,
+   "source": "Space Needle",
+   "note": "1962, for the Seattle World's Fair.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "space-needle-height",
+   "q": "How tall is the Space Needle, in feet?",
+   "a": 605,
+   "unit": "feet",
+   "min": 150,
+   "max": 2000,
+   "source": "Space Needle",
+   "note": "605 feet.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "gateway-completed",
+   "q": "In which year was the Gateway Arch completed?",
+   "a": 1965,
+   "unit": "",
+   "min": 1920,
+   "max": 2080,
+   "source": "US National Park Service",
+   "note": "October 1965.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alaska-quake",
+   "q": "In which year was the Great Alaska earthquake?",
+   "a": 1964,
+   "unit": "",
+   "min": 1860,
+   "max": 2010,
+   "source": "US Geological Survey",
+   "note": "March 1964.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alaska-quake-mag",
+   "q": "What was the magnitude of the 1964 Alaska earthquake?",
+   "a": 9.2,
+   "dp": 1,
+   "unit": "magnitude",
+   "min": 0,
+   "max": 15,
+   "source": "US Geological Survey",
+   "note": "9.2 — the strongest ever recorded in North America.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "woodstock",
+   "q": "In which year was the Woodstock festival?",
+   "a": 1969,
+   "unit": "",
+   "min": 1860,
+   "max": 2010,
+   "source": "Library of Congress",
+   "note": "August 1969.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "alaska-highway",
+   "q": "In which year was the Alaska Highway built?",
+   "a": 1942,
+   "unit": "",
+   "min": 1840,
+   "max": 1980,
+   "source": "US Army Corps of Engineers",
+   "note": "1942, in eight months during the war.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mount-whitney",
+   "q": "How tall is Mount Whitney, the highest point in the lower 48, in feet?",
+   "a": 14505,
+   "unit": "feet",
+   "min": 4000,
+   "max": 40000,
+   "source": "US Geological Survey",
+   "note": "14,505 feet.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "denali-height",
+   "q": "How tall is Denali, the highest peak in North America, in feet?",
+   "a": 20310,
+   "unit": "feet",
+   "min": 0,
+   "max": 30000,
+   "source": "US Geological Survey",
+   "note": "20,310 feet, remeasured in 2015.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "death-valley-low",
+   "q": "How far below sea level is Badwater Basin in Death Valley, in feet?",
+   "a": 282,
+   "unit": "feet",
+   "min": 0,
+   "max": 400,
+   "source": "US National Park Service",
+   "note": "282 feet below sea level.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "mississippi-length",
+   "q": "According to the US Geological Survey, how long is the Mississippi River, in miles?",
+   "a": 2340,
+   "unit": "miles",
+   "min": 200,
+   "max": 7000,
+   "source": "US Geological Survey",
+   "note": "2,340 miles by the USGS measure; other agencies give 2,300 to 2,350.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "great-lakes-percent",
+   "q": "What percentage of the world's surface fresh water is in the Great Lakes?",
+   "a": 21,
+   "unit": "%",
+   "min": 0,
+   "max": 100,
+   "source": "Environmental Protection Agency",
+   "note": "About 21%.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "crater-lake-depth",
+   "q": "How deep is Crater Lake at its deepest point, in feet?",
+   "a": 1943,
+   "unit": "feet",
+   "min": 0,
+   "max": 3000,
+   "source": "US National Park Service",
+   "note": "1,943 feet. The average depth is closer to 1,150.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "liberty-heel-head",
+   "q": "How tall is the Statue of Liberty from heel to the top of her head, in feet?",
+   "a": 111,
+   "unit": "feet",
+   "min": 0,
+   "max": 150,
+   "source": "US National Park Service",
+   "note": "111 feet 1 inch — the pedestal accounts for the rest.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "old-faithful",
+   "q": "About how many minutes apart does Old Faithful erupt on average?",
+   "a": 90,
+   "unit": "minutes",
+   "min": 0,
+   "max": 150,
+   "source": "US National Park Service",
+   "note": "Roughly every 90 minutes, varying with the length of the previous eruption.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "statue-liberty-tablet",
+   "q": "What date is inscribed on the Statue of Liberty's tablet — which year?",
+   "a": 1776,
+   "unit": "",
+   "min": 1680,
+   "max": 1820,
+   "source": "US National Park Service",
+   "note": "July IV MDCCLXXVI — 4 July 1776.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "smithsonian-founded",
+   "q": "In which year was the Smithsonian Institution founded?",
+   "a": 1846,
+   "unit": "",
+   "min": 1770,
+   "max": 1870,
+   "source": "Smithsonian Institution",
+   "note": "1846.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "transcontinental-call",
+   "q": "In which year was the first transcontinental telephone call made?",
+   "a": 1915,
+   "unit": "",
+   "min": 1870,
+   "max": 1990,
+   "source": "Smithsonian Institution",
+   "note": "January 1915, from New York to San Francisco.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "statue-arrival",
+   "q": "In which year did the Statue of Liberty arrive in New York in crates?",
+   "a": 1885,
+   "unit": "",
+   "min": 1850,
+   "max": 1950,
+   "source": "US National Park Service",
+   "note": "June 1885, in 214 crates.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "bald-eagle-symbol",
+   "q": "In which year was the bald eagle adopted for the Great Seal?",
+   "a": 1782,
+   "unit": "",
+   "min": 1680,
+   "max": 1830,
+   "source": "US National Archives",
+   "note": "1782.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "first-skyscraper",
+   "q": "In which year was the Home Insurance Building, often called the first skyscraper, completed?",
+   "a": 1885,
+   "unit": "",
+   "min": 1840,
+   "max": 1960,
+   "source": "Skyscraper Museum",
+   "note": "1885, in Chicago.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "times-square-ball",
+   "q": "In which year did the Times Square New Year ball first drop?",
+   "a": 1907,
+   "unit": "",
+   "min": 1860,
+   "max": 1970,
+   "source": "Library of Congress",
+   "note": "1907.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "coca-cola",
+   "q": "In which year was Coca-Cola invented?",
+   "a": 1886,
+   "unit": "",
+   "min": 1840,
+   "max": 1960,
+   "source": "Library of Congress",
+   "note": "1886, in Atlanta.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "first-us-patent",
+   "q": "In which year was the first US patent granted?",
+   "a": 1790,
+   "unit": "",
+   "min": 1730,
+   "max": 1870,
+   "source": "US Patent and Trademark Office",
+   "note": "1790, signed by Washington.",
+   "tags": [
+    "history"
+   ]
+  },
+  {
+   "id": "barbary",
+   "q": "In which year did the First Barbary War begin?",
+   "a": 1801,
+   "unit": "",
+   "min": 1730,
+   "max": 1840,
+   "source": "Naval History and Heritage Command",
+   "note": "1801.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "old-ironsides",
+   "q": "In which year did USS Constitution earn the name 'Old Ironsides'?",
+   "a": 1812,
+   "unit": "",
+   "min": 1770,
+   "max": 1890,
+   "source": "Naval History and Heritage Command",
+   "note": "1812, when shot bounced off her hull.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "new-orleans",
+   "q": "In which year was the Battle of New Orleans?",
+   "a": 1815,
+   "unit": "",
+   "min": 1750,
+   "max": 1860,
+   "source": "US National Park Service",
+   "note": "January 1815 — after the peace treaty had been signed.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "mexican-war-start",
+   "q": "In which year did the Mexican-American War begin?",
+   "a": 1846,
+   "unit": "",
+   "min": 1750,
+   "max": 1890,
+   "source": "US Army Center of Military History",
+   "note": "1846.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "bull-run",
+   "q": "In which year was the First Battle of Bull Run?",
+   "a": 1861,
+   "unit": "",
+   "min": 1790,
+   "max": 1900,
+   "source": "US National Park Service",
+   "note": "July 1861.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "monitor-merrimack",
+   "q": "In which year did the Monitor fight the Virginia at Hampton Roads?",
+   "a": 1862,
+   "unit": "",
+   "min": 1830,
+   "max": 1920,
+   "source": "Naval History and Heritage Command",
+   "note": "March 1862 — the first battle between ironclads.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "march-to-sea",
+   "q": "In which year did Sherman march to the sea?",
+   "a": 1864,
+   "unit": "",
+   "min": 1780,
+   "max": 1880,
+   "source": "US Army Center of Military History",
+   "note": "November to December 1864.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "san-juan-hill",
+   "q": "In which year did the Rough Riders charge San Juan Hill?",
+   "a": 1898,
+   "unit": "",
+   "min": 1830,
+   "max": 1920,
+   "source": "US Army Center of Military History",
+   "note": "July 1898.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "philippine-war",
+   "q": "In which year did the Philippine-American War begin?",
+   "a": 1899,
+   "unit": "",
+   "min": 1820,
+   "max": 1920,
+   "source": "US Army Center of Military History",
+   "note": "1899.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "armistice",
+   "q": "In which year was the Armistice that ended the First World War?",
+   "a": 1918,
+   "unit": "",
+   "min": 1850,
+   "max": 1960,
+   "source": "US Army Center of Military History",
+   "note": "11 November 1918.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ww2-aircraft-built",
+   "q": "How many aircraft did the United States build during the Second World War?",
+   "a": 300000,
+   "unit": "aircraft",
+   "min": 4000,
+   "max": 1500000,
+   "source": "National WWII Museum",
+   "note": "About 300,000. The Army Air Forces' own digest counts 295,959.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "langley",
+   "q": "In which year was USS Langley, the US Navy's first aircraft carrier, commissioned?",
+   "a": 1922,
+   "unit": "",
+   "min": 1870,
+   "max": 2000,
+   "source": "Naval History and Heritage Command",
+   "note": "March 1922, converted from a collier.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "ww2-jeeps",
+   "q": "How many Jeeps were built during the Second World War?",
+   "a": 640000,
+   "unit": "vehicles",
+   "min": 200000,
+   "max": 2000000,
+   "source": "National WWII Museum",
+   "note": "About 640,000.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "trinity-year",
+   "q": "In which year was the Trinity nuclear test?",
+   "a": 1945,
+   "unit": "",
+   "min": 1870,
+   "max": 1970,
+   "source": "Department of Energy",
+   "note": "16 July 1945, in New Mexico.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "first-h-bomb",
+   "q": "In which year did the United States test its first hydrogen bomb?",
+   "a": 1952,
+   "unit": "",
+   "min": 1920,
+   "max": 2010,
+   "source": "Department of Energy",
+   "note": "November 1952, at Enewetak.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "air-force-separate",
+   "q": "In which year did the US Air Force become a separate service?",
+   "a": 1947,
+   "unit": "",
+   "min": 1900,
+   "max": 2030,
+   "source": "US Air Force fact sheet",
+   "note": "September 1947.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "berlin-wall-built",
+   "q": "In which year was the Berlin Wall built?",
+   "a": 1961,
+   "unit": "",
+   "min": 1910,
+   "max": 2030,
+   "source": "US Department of State",
+   "note": "August 1961.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "bay-of-pigs",
+   "q": "In which year was the Bay of Pigs invasion?",
+   "a": 1961,
+   "unit": "",
+   "min": 1920,
+   "max": 2070,
+   "source": "John F. Kennedy Presidential Library",
+   "note": "April 1961.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "vietnam-combat-troops",
+   "q": "In which year did the first US combat troops land in Vietnam?",
+   "a": 1965,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "source": "US Army Center of Military History",
+   "note": "March 1965, at Da Nang.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "my-lai",
+   "q": "In which year was the My Lai massacre?",
+   "a": 1968,
+   "unit": "",
+   "min": 1900,
+   "max": 2020,
+   "source": "US Army Center of Military History",
+   "note": "March 1968.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "paris-accords",
+   "q": "In which year were the Paris Peace Accords signed?",
+   "a": 1973,
+   "unit": "",
+   "min": 1860,
+   "max": 2020,
+   "source": "US Department of State",
+   "note": "January 1973.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "eagle-claw",
+   "q": "In which year was Operation Eagle Claw, the Iran hostage rescue attempt?",
+   "a": 1980,
+   "unit": "",
+   "min": 1930,
+   "max": 2050,
+   "source": "US Army Center of Military History",
+   "note": "April 1980.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "beirut-barracks",
+   "q": "In which year was the Beirut barracks bombing?",
+   "a": 1983,
+   "unit": "",
+   "min": 1920,
+   "max": 2030,
+   "source": "US Marine Corps",
+   "note": "October 1983.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "beirut-dead",
+   "q": "How many US service members died in the Beirut barracks bombing?",
+   "a": 241,
+   "unit": "killed",
+   "min": 20,
+   "max": 900,
+   "source": "US Marine Corps",
+   "note": "241, most of them Marines.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "grenada",
+   "q": "In which year did US forces invade Grenada?",
+   "a": 1983,
+   "unit": "",
+   "min": 1940,
+   "max": 2050,
+   "source": "US Army Center of Military History",
+   "note": "October 1983.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "panama-invasion",
+   "q": "In which year did US forces invade Panama?",
+   "a": 1989,
+   "unit": "",
+   "min": 1960,
+   "max": 2050,
+   "source": "US Army Center of Military History",
+   "note": "December 1989.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "mogadishu",
+   "q": "In which year was the Battle of Mogadishu?",
+   "a": 1993,
+   "unit": "",
+   "min": 1890,
+   "max": 2040,
+   "source": "US Army Center of Military History",
+   "note": "October 1993.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "kosovo",
+   "q": "In which year was the NATO air campaign over Kosovo?",
+   "a": 1999,
+   "unit": "",
+   "min": 1920,
+   "max": 2050,
+   "source": "US Air Force fact sheet",
+   "note": "1999.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "afghanistan-invasion",
+   "q": "In which year did US forces enter Afghanistan?",
+   "a": 2001,
+   "unit": "",
+   "min": 1970,
+   "max": 2060,
+   "source": "US Army Center of Military History",
+   "note": "October 2001.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "iraq-invasion",
+   "q": "In which year did the invasion of Iraq begin?",
+   "a": 2003,
+   "unit": "",
+   "min": 1920,
+   "max": 2050,
+   "source": "US Army Center of Military History",
+   "note": "March 2003.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "bin-laden",
+   "q": "In which year was Osama bin Laden killed?",
+   "a": 2011,
+   "unit": "",
+   "min": 1980,
+   "max": 2080,
+   "source": "US Department of Defense",
+   "note": "May 2011.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "afghanistan-withdrawal",
+   "q": "In which year did the last US troops leave Afghanistan?",
+   "a": 2021,
+   "unit": "",
+   "min": 1980,
+   "max": 2130,
+   "source": "US Department of Defense",
+   "note": "August 2021.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nimitz-catapults",
+   "q": "How many catapults does a Nimitz-class carrier have?",
+   "a": 4,
+   "unit": "catapults",
+   "min": 0,
+   "max": 6,
+   "source": "US Navy fact file",
+   "note": "Four steam catapults.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "enterprise-retired",
+   "q": "In which year was USS Enterprise, the first nuclear-powered carrier, decommissioned?",
+   "a": 2017,
+   "unit": "",
+   "min": 1940,
+   "max": 2060,
+   "source": "Naval History and Heritage Command",
+   "note": "2017, after 55 years of service.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nautilus",
+   "q": "In which year was USS Nautilus, the first nuclear submarine, launched?",
+   "a": 1954,
+   "unit": "",
+   "min": 1890,
+   "max": 2000,
+   "source": "Naval History and Heritage Command",
+   "note": "January 1954.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "enterprise-reactors",
+   "q": "How many nuclear reactors did USS Enterprise, CVN-65, have?",
+   "a": 8,
+   "unit": "reactors",
+   "min": 0,
+   "max": 15,
+   "source": "Naval History and Heritage Command",
+   "note": "Eight — more than any warship since.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "enterprise-commissioned",
+   "q": "In which year was USS Enterprise, CVN-65, commissioned?",
+   "a": 1961,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "source": "Naval History and Heritage Command",
+   "note": "November 1961.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "tomahawk-service",
+   "q": "In which year did the Tomahawk cruise missile enter service?",
+   "a": 1983,
+   "unit": "",
+   "min": 1940,
+   "max": 2050,
+   "source": "US Navy fact file",
+   "note": "1983.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "tomahawk-speed",
+   "q": "What is the cruising speed of a Tomahawk missile, in mph?",
+   "a": 550,
+   "unit": "mph",
+   "min": 100,
+   "max": 2500,
+   "source": "US Navy fact file",
+   "note": "About 550 mph — subsonic, and it hugs the terrain.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "abrams-service",
+   "q": "In which year did the M1 Abrams enter service?",
+   "a": 1980,
+   "unit": "",
+   "min": 1940,
+   "max": 2090,
+   "source": "US Army",
+   "note": "1980.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "bradley-service",
+   "q": "In which year did the M2 Bradley enter service?",
+   "a": 1981,
+   "unit": "",
+   "min": 1910,
+   "max": 2010,
+   "source": "US Army",
+   "note": "1981.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "apache-service",
+   "q": "In which year did the US Army accept its first production AH-64 Apache?",
+   "a": 1984,
+   "unit": "",
+   "min": 1940,
+   "max": 2100,
+   "source": "US Army",
+   "note": "January 1984; the first operational unit followed in 1986.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "blackhawk-service",
+   "q": "In which year did the UH-60 Black Hawk enter service?",
+   "a": 1979,
+   "unit": "",
+   "min": 1950,
+   "max": 2040,
+   "source": "US Army",
+   "note": "1979.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "stinger-service",
+   "q": "In which year did the Stinger missile enter service?",
+   "a": 1981,
+   "unit": "",
+   "min": 1950,
+   "max": 2090,
+   "source": "US Army",
+   "note": "1981.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "javelin-service",
+   "q": "In which year did the Javelin anti-tank missile enter service?",
+   "a": 1996,
+   "unit": "",
+   "min": 1880,
+   "max": 2040,
+   "source": "US Army",
+   "note": "1996.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "b1-service",
+   "q": "In which year did the B-1B Lancer enter service?",
+   "a": 1986,
+   "unit": "",
+   "min": 1910,
+   "max": 2010,
+   "source": "US Air Force fact sheet",
+   "note": "1986.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "kc135-service",
+   "q": "In which year did the KC-135 Stratotanker enter service?",
+   "a": 1957,
+   "unit": "",
+   "min": 1870,
+   "max": 1970,
+   "source": "US Air Force fact sheet",
+   "note": "1957, and it is still flying.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "minuteman-service",
+   "q": "In which year did the Minuteman missile enter service?",
+   "a": 1962,
+   "unit": "",
+   "min": 1910,
+   "max": 2030,
+   "source": "US Air Force fact sheet",
+   "note": "1962.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "nato-members-1949",
+   "q": "How many countries founded NATO in 1949?",
+   "a": 12,
+   "unit": "countries",
+   "min": 0.3,
+   "max": 40,
+   "source": "NATO",
+   "note": "Twelve.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "dday-airborne",
+   "q": "How many American paratroopers dropped into Normandy on D-Day?",
+   "a": 13000,
+   "unit": "paratroopers",
+   "min": 0,
+   "max": 20000,
+   "source": "National WWII Museum",
+   "note": "About 13,000 Americans. Counting British and Canadian airborne and glider troops, the Allied total was around 23,400.",
+   "tags": [
+    "military"
+   ]
+  },
+  {
+   "id": "afl-founded",
+   "q": "In which year was the American Football League founded?",
+   "a": 1959,
+   "unit": "",
+   "min": 1900,
+   "max": 2000,
+   "source": "Pro Football Hall of Fame",
+   "note": "1959, when Lamar Hunt formed it. Play began the following year.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "afl-teams",
+   "q": "How many teams did the AFL start with?",
+   "a": 8,
+   "unit": "teams",
+   "min": 0,
+   "max": 20,
+   "source": "Pro Football Hall of Fame",
+   "note": "Eight.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "aafc-merger",
+   "q": "In which year did three AAFC teams join the NFL?",
+   "a": 1950,
+   "unit": "",
+   "min": 1910,
+   "max": 2070,
+   "source": "Pro Football Hall of Fame",
+   "note": "1950 — Cleveland, San Francisco and Baltimore.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-32-teams",
+   "q": "In which year did the NFL expand to 32 teams?",
+   "a": 2002,
+   "unit": "",
+   "min": 1930,
+   "max": 2050,
+   "source": "Pro Football Hall of Fame",
+   "note": "2002, with the Houston Texans.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "texans-founded",
+   "q": "In which year did the Houston Texans play their first season?",
+   "a": 2002,
+   "unit": "",
+   "min": 1930,
+   "max": 2050,
+   "source": "Pro Football Hall of Fame",
+   "note": "2002 — the newest franchise.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "packers-founded",
+   "q": "In which year were the Green Bay Packers founded?",
+   "a": 1919,
+   "unit": "",
+   "min": 1850,
+   "max": 1940,
+   "source": "Pro Football Hall of Fame",
+   "note": "1919.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "browns-move",
+   "q": "In which year did the original Cleveland Browns move to Baltimore?",
+   "a": 1996,
+   "unit": "",
+   "min": 1920,
+   "max": 2020,
+   "source": "Pro Football Hall of Fame",
+   "note": "1996, becoming the Ravens.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "two-point",
+   "q": "In which year did the NFL introduce the two-point conversion?",
+   "a": 1994,
+   "unit": "",
+   "min": 1900,
+   "max": 2040,
+   "source": "NFL Record & Fact Book",
+   "note": "1994.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "xp-moved",
+   "q": "In which year did the NFL move the extra-point kick back to the 15-yard line?",
+   "a": 2015,
+   "unit": "",
+   "min": 1980,
+   "max": 2130,
+   "source": "NFL Record & Fact Book",
+   "note": "2015, making it a 33-yard attempt.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "xp-distance",
+   "q": "How long is an NFL extra-point kick, in yards?",
+   "a": 33,
+   "unit": "yards",
+   "min": 4,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "33 yards since the 2015 change.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "ot-regular",
+   "q": "In which year did the NFL introduce regular-season overtime?",
+   "a": 1974,
+   "unit": "",
+   "min": 1940,
+   "max": 2080,
+   "source": "NFL Record & Fact Book",
+   "note": "1974.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "wild-card",
+   "q": "In which year did the NFL introduce the wild card?",
+   "a": 1970,
+   "unit": "",
+   "min": 1850,
+   "max": 2010,
+   "source": "NFL Record & Fact Book",
+   "note": "1970.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "free-agency",
+   "q": "In which year did unrestricted free agency begin in the NFL?",
+   "a": 1993,
+   "unit": "",
+   "min": 1970,
+   "max": 2060,
+   "source": "NFL Record & Fact Book",
+   "note": "1993.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "rookie-wage",
+   "q": "In which year did the NFL introduce the rookie wage scale?",
+   "a": 2011,
+   "unit": "",
+   "min": 1980,
+   "max": 2070,
+   "source": "NFL Record & Fact Book",
+   "note": "2011.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "season-weeks",
+   "q": "How many weeks long is the NFL regular season?",
+   "a": 18,
+   "unit": "weeks",
+   "min": 0,
+   "max": 25,
+   "source": "NFL Record & Fact Book",
+   "verify_by": "2027-03-01",
+   "note": "Eighteen weeks for seventeen games.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "combine-began",
+   "q": "In which year was the first NFL scouting camp, the forerunner of the Combine, held?",
+   "a": 1982,
+   "unit": "",
+   "min": 1920,
+   "max": 2010,
+   "source": "NFL Record & Fact Book",
+   "note": "1982, in Tampa. The event took the Combine name in 1985.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "draft-televised",
+   "q": "In which year was the NFL Draft first televised?",
+   "a": 1980,
+   "unit": "",
+   "min": 1870,
+   "max": 2020,
+   "source": "NFL Record & Fact Book",
+   "note": "1980, on ESPN.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "monday-night-first",
+   "q": "In which year did Monday Night Football first air?",
+   "a": 1970,
+   "unit": "",
+   "min": 1920,
+   "max": 2050,
+   "source": "Pro Football Hall of Fame",
+   "note": "September 1970.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-most-points",
+   "q": "What is the most points scored by one team in a Super Bowl?",
+   "a": 55,
+   "unit": "points",
+   "min": 0,
+   "max": 100,
+   "source": "NFL Record & Fact Book",
+   "note": "55, by San Francisco in Super Bowl XXIV.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-biggest-margin",
+   "q": "What is the largest margin of victory in a Super Bowl?",
+   "a": 45,
+   "unit": "points",
+   "min": 10,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "45 — San Francisco 55, Denver 10.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-passing-yards",
+   "q": "What is the most passing yards in a Super Bowl by one player?",
+   "a": 505,
+   "unit": "yards",
+   "min": 0,
+   "max": 800,
+   "source": "NFL Record & Fact Book",
+   "note": "505, by Tom Brady in Super Bowl LII — in a losing effort.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-rushing-yards",
+   "q": "What is the most rushing yards in a Super Bowl by one player?",
+   "a": 204,
+   "unit": "yards",
+   "min": 70,
+   "max": 600,
+   "source": "NFL Record & Fact Book",
+   "note": "204, by Timmy Smith in Super Bowl XXII.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-receiving-yards",
+   "q": "What is the most receiving yards in a Super Bowl by one player?",
+   "a": 215,
+   "unit": "yards",
+   "min": 40,
+   "max": 800,
+   "source": "NFL Record & Fact Book",
+   "note": "215, by Jerry Rice in Super Bowl XXIII.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brady-playoff-wins",
+   "q": "How many playoff games did Tom Brady win?",
+   "a": 35,
+   "unit": "wins",
+   "min": 4,
+   "max": 150,
+   "source": "Pro-Football-Reference",
+   "note": "35 — more than any other quarterback.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-win-streak",
+   "q": "What is the longest winning streak in NFL history, including playoffs?",
+   "a": 21,
+   "unit": "games",
+   "min": 0,
+   "max": 60,
+   "source": "NFL Record & Fact Book",
+   "note": "21, by New England across 2003 and 2004.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "brees-td-streak",
+   "q": "How many consecutive games did Drew Brees throw a touchdown pass?",
+   "a": 54,
+   "unit": "games",
+   "min": 0,
+   "max": 80,
+   "source": "NFL Record & Fact Book",
+   "note": "54 — a record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "most-td-game",
+   "q": "What is the most touchdown passes thrown in a single NFL game?",
+   "a": 7,
+   "unit": "touchdowns",
+   "min": 0,
+   "max": 10,
+   "source": "NFL Record & Fact Book",
+   "note": "Seven, achieved by several quarterbacks.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nevers-points",
+   "q": "How many points did Ernie Nevers score in a single game in 1929?",
+   "a": 40,
+   "unit": "points",
+   "min": 0,
+   "max": 70,
+   "source": "Pro Football Hall of Fame",
+   "note": "40 — still the record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nevers-tds",
+   "q": "How many rushing touchdowns did Ernie Nevers score in that 1929 game?",
+   "a": 6,
+   "unit": "touchdowns",
+   "min": 0,
+   "max": 9,
+   "source": "Pro Football Hall of Fame",
+   "note": "Six.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "thomas-sacks",
+   "q": "How many sacks did Derrick Thomas record in one game?",
+   "a": 7,
+   "unit": "sacks",
+   "min": 0,
+   "max": 20,
+   "source": "Pro Football Hall of Fame",
+   "note": "Seven, in 1990.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "goalpost-uprights-height",
+   "q": "How tall are NFL goalpost uprights above the crossbar, in feet?",
+   "a": 35,
+   "unit": "feet",
+   "min": 2,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "Thirty-five feet.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "hof-max-class",
+   "q": "What is the maximum number of people the Pro Football Hall of Fame may enshrine in a normal class?",
+   "a": 8,
+   "unit": "people",
+   "min": 0,
+   "max": 15,
+   "source": "Pro Football Hall of Fame",
+   "note": "Eight.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "lineman-weight",
+   "q": "About how much does an average NFL offensive lineman weigh, in pounds?",
+   "a": 315,
+   "unit": "pounds",
+   "min": 0,
+   "max": 500,
+   "source": "NFL Record & Fact Book",
+   "verify_by": "2028-03-01",
+   "note": "Around 315 pounds.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "sb-name-year",
+   "q": "In which year was the name 'Super Bowl' first used officially?",
+   "a": 1969,
+   "unit": "",
+   "min": 1870,
+   "max": 2010,
+   "source": "Pro Football Hall of Fame",
+   "note": "1969, for the third game.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-first-game",
+   "q": "In which year did the NFL play its first season?",
+   "a": 1920,
+   "unit": "",
+   "min": 1870,
+   "max": 2030,
+   "source": "Pro Football Hall of Fame",
+   "note": "1920, as the American Professional Football Association.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "cardinals-oldest",
+   "q": "In which year were the Arizona Cardinals founded, making them the NFL's oldest continuously run club?",
+   "a": 1898,
+   "unit": "",
+   "min": 1810,
+   "max": 1950,
+   "source": "Pro Football Hall of Fame",
+   "note": "1898, as the Morgan Athletic Club in Chicago.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-completion",
+   "q": "How long is the longest completed pass in NFL history, in yards?",
+   "a": 99,
+   "unit": "yards",
+   "min": 0,
+   "max": 200,
+   "source": "NFL Record & Fact Book",
+   "note": "99 yards — done more than a dozen times, and it cannot be beaten.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-kick-return",
+   "q": "How long is the longest kickoff return in NFL history, in yards?",
+   "a": 109,
+   "unit": "yards",
+   "min": 15,
+   "max": 400,
+   "source": "NFL Record & Fact Book",
+   "note": "109 yards, by Cordarrelle Patterson in 2013.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "shortest-player",
+   "q": "How tall was Jack Shapiro, the shortest player in NFL history, in inches?",
+   "a": 61,
+   "unit": "inches",
+   "min": 15,
+   "max": 250,
+   "source": "Pro Football Hall of Fame",
+   "note": "Just over five feet — sources give 5'0½\" to 5'1\".",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "longest-punt-return",
+   "q": "How long is the longest punt return in NFL history, in yards?",
+   "a": 103,
+   "unit": "yards",
+   "min": 0,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "103 yards, by Robert Bailey in 1994.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "oldest-player",
+   "q": "How old was George Blanda when he played his final NFL game?",
+   "a": 48,
+   "unit": "years old",
+   "min": 0,
+   "max": 90,
+   "source": "Pro Football Hall of Fame",
+   "note": "48 — the oldest ever.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "blanda-seasons",
+   "q": "How many NFL seasons did George Blanda play?",
+   "a": 26,
+   "unit": "seasons",
+   "min": 0,
+   "max": 40,
+   "source": "Pro Football Hall of Fame",
+   "note": "Twenty-six — a record.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "super-bowl-lx",
+   "q": "In which year was Super Bowl LX played?",
+   "a": 2026,
+   "unit": "",
+   "min": 1950,
+   "max": 2050,
+   "source": "NFL Record & Fact Book",
+   "note": "February 2026.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-playoff-teams-1990",
+   "q": "How many teams made the NFL playoffs before the 2020 expansion?",
+   "a": 12,
+   "unit": "teams",
+   "min": 0,
+   "max": 20,
+   "source": "NFL Record & Fact Book",
+   "note": "Twelve, from 1990 to 2019.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "field-goal-record-season",
+   "q": "How many field goals did the NFL single-season record holder make?",
+   "a": 44,
+   "unit": "field goals",
+   "min": 8,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "verify_by": "2028-03-01",
+   "note": "44, by David Akers in 2011 and matched by Ka'imi Fairbairn in 2025.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "replay-permanent",
+   "q": "In which year did instant replay become a permanent part of the NFL rules?",
+   "a": 2007,
+   "unit": "",
+   "min": 1970,
+   "max": 2080,
+   "source": "NFL Record & Fact Book",
+   "note": "2007. It was reinstated in 1999 but re-voted annually until then.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "touchdown-plus-kick",
+   "q": "How many points is a touchdown plus a successful extra-point kick worth?",
+   "a": 7,
+   "unit": "points",
+   "min": 0,
+   "max": 15,
+   "source": "NFL Record & Fact Book",
+   "note": "Seven.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-ball-circumference",
+   "q": "What is the minimum long circumference of an NFL football, in inches?",
+   "a": 28,
+   "unit": "inches",
+   "min": 4,
+   "max": 150,
+   "source": "NFL Record & Fact Book",
+   "note": "28 inches; the rulebook allows up to 28½.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "chain-gang",
+   "q": "How many yards must a team gain for a first down?",
+   "a": 10,
+   "unit": "yards",
+   "min": 0,
+   "max": 20,
+   "source": "NFL Record & Fact Book",
+   "note": "Ten — measured by the chain crew.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "nfl-franchise-tag",
+   "q": "In which year did the NFL introduce the franchise tag?",
+   "a": 1993,
+   "unit": "",
+   "min": 1910,
+   "max": 2020,
+   "source": "NFL Record & Fact Book",
+   "note": "1993, alongside free agency.",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "colt-died",
+   "q": "In which year did Samuel Colt die?",
+   "a": 1862,
+   "unit": "",
+   "min": 1790,
+   "max": 1910,
+   "source": "Smithsonian Institution",
+   "note": "1862, aged 47, one of the richest men in America.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-1866",
+   "q": "In which year was the Winchester Model 1866 introduced?",
+   "a": 1866,
+   "unit": "",
+   "min": 1800,
+   "max": 1940,
+   "source": "NRA Museums",
+   "note": "1866 — the 'Yellow Boy'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "smokeless-powder",
+   "q": "In which year was smokeless powder invented?",
+   "a": 1884,
+   "unit": "",
+   "min": 1840,
+   "max": 1960,
+   "source": "Smithsonian Institution",
+   "note": "1884, by Paul Vieille in France.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "maxim-gun",
+   "q": "In which year did Hiram Maxim demonstrate the first fully automatic machine gun?",
+   "a": 1884,
+   "unit": "",
+   "min": 1820,
+   "max": 1930,
+   "source": "Smithsonian Institution",
+   "note": "1884. His British patents on it date from the year before.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "maxim-rpm",
+   "q": "What was the rate of fire of Maxim's original 1884 machine gun, in rounds per minute?",
+   "a": 600,
+   "unit": "rpm",
+   "min": 200,
+   "max": 2000,
+   "source": "Royal Armouries",
+   "note": "About 600. Production Maxims such as the Vickers ran nearer 450 to 500.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mauser-98",
+   "q": "In which year was the Mauser Gewehr 98 adopted?",
+   "a": 1898,
+   "unit": "",
+   "min": 1820,
+   "max": 1920,
+   "source": "NRA Museums",
+   "note": "1898.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "lee-enfield",
+   "q": "In which year was the Lee-Enfield adopted by Britain?",
+   "a": 1895,
+   "unit": "",
+   "min": 1870,
+   "max": 1960,
+   "source": "NRA Museums",
+   "note": "1895.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "lee-enfield-capacity",
+   "q": "How many rounds does a Lee-Enfield magazine hold?",
+   "a": 10,
+   "unit": "rounds",
+   "min": 0,
+   "max": 20,
+   "source": "NRA Museums",
+   "note": "Ten — double most rifles of its day.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "luger-adopted",
+   "q": "In which year did the German Army adopt the Luger as the P08?",
+   "a": 1908,
+   "unit": "",
+   "min": 1830,
+   "max": 1930,
+   "source": "NRA Museums",
+   "note": "1908. The German Navy had adopted an earlier version in 1904.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1917-enfield",
+   "q": "In which year was the M1917 Enfield adopted by the US Army?",
+   "a": 1917,
+   "unit": "",
+   "min": 1810,
+   "max": 1960,
+   "source": "Smithsonian Institution",
+   "note": "1917 — most American troops in France carried it, not the Springfield.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m3-grease-gun",
+   "q": "In which year was the M3 'Grease Gun' adopted?",
+   "a": 1942,
+   "unit": "",
+   "min": 1830,
+   "max": 1990,
+   "source": "Smithsonian Institution",
+   "note": "1942, as a cheap replacement for the Thompson.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m3-rpm",
+   "q": "What is the rate of fire of the M3 Grease Gun, in rounds per minute?",
+   "a": 450,
+   "unit": "rpm",
+   "min": 90,
+   "max": 1500,
+   "source": "US Army technical manual",
+   "note": "About 450 — slow enough to control.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1-carbine-capacity",
+   "q": "How many rounds does a standard M1 Carbine magazine hold?",
+   "a": 15,
+   "unit": "rounds",
+   "min": 0.03,
+   "max": 60,
+   "source": "Smithsonian Institution",
+   "note": "Fifteen.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1-carbine-weight",
+   "q": "How much does an M1 Carbine weigh, in pounds?",
+   "a": 5.2,
+   "dp": 1,
+   "unit": "pounds",
+   "min": 0.05,
+   "max": 15,
+   "source": "Smithsonian Institution",
+   "note": "About 5.2 pounds — half the weight of a Garand.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "fn-fal",
+   "q": "In which year was the FN FAL introduced?",
+   "a": 1953,
+   "unit": "",
+   "min": 1920,
+   "max": 2010,
+   "source": "NRA Museums",
+   "note": "1953 — 'the right arm of the free world'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "g3-adopted",
+   "q": "In which year did West Germany adopt the H&K G3?",
+   "a": 1959,
+   "unit": "",
+   "min": 1920,
+   "max": 2030,
+   "source": "NRA Museums",
+   "note": "1959.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "steyr-aug",
+   "q": "In which year was the Steyr AUG adopted by Austria?",
+   "a": 1977,
+   "unit": "",
+   "min": 1900,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1977 — hence its Austrian designation StG 77.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "p90",
+   "q": "In which year was the FN P90 introduced?",
+   "a": 1990,
+   "unit": "",
+   "min": 1920,
+   "max": 2030,
+   "source": "NRA Museums",
+   "note": "1990.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "barrett-intro",
+   "q": "In which year was the Barrett M82 introduced?",
+   "a": 1982,
+   "unit": "",
+   "min": 1910,
+   "max": 2030,
+   "source": "NRA Museums",
+   "note": "1982.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "barrett-adopted",
+   "q": "In which year did the US military adopt the Barrett as the M107?",
+   "a": 2002,
+   "unit": "",
+   "min": 1970,
+   "max": 2070,
+   "source": "US Army",
+   "note": "2002.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m40-adopted",
+   "q": "In which year was the M40 sniper rifle adopted by the Marines?",
+   "a": 1966,
+   "unit": "",
+   "min": 1850,
+   "max": 2010,
+   "source": "US Marine Corps",
+   "note": "1966.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m24-adopted",
+   "q": "In which year was the M24 sniper rifle adopted by the Army?",
+   "a": 1988,
+   "unit": "",
+   "min": 1890,
+   "max": 2030,
+   "source": "US Army",
+   "note": "1988.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mk19",
+   "q": "In which year did the Mk 19 Mod 3 grenade launcher enter US Army service?",
+   "a": 1983,
+   "unit": "",
+   "min": 1950,
+   "max": 2050,
+   "source": "US Army",
+   "note": "1983. Earlier variants had seen use in Vietnam from 1968.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m203",
+   "q": "In which year did the M203 grenade launcher enter service?",
+   "a": 1969,
+   "unit": "",
+   "min": 1940,
+   "max": 2030,
+   "source": "US Army",
+   "note": "1969.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "colt-python",
+   "q": "In which year was the Colt Python introduced?",
+   "a": 1955,
+   "unit": "",
+   "min": 1850,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1955.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "model-29",
+   "q": "In which year did Smith & Wesson produce its first .44 Magnum revolver?",
+   "a": 1955,
+   "unit": "",
+   "min": 1870,
+   "max": 1970,
+   "source": "NRA Museums",
+   "note": "December 1955. The 'Model 29' name only arrived in 1957.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "blackhawk-intro",
+   "q": "In which year was the Ruger Blackhawk introduced?",
+   "a": 1955,
+   "unit": "",
+   "min": 1850,
+   "max": 2000,
+   "source": "NRA Museums",
+   "note": "1955.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "marlin-336",
+   "q": "In which year was the Marlin Model 336 introduced?",
+   "a": 1948,
+   "unit": "",
+   "min": 1910,
+   "max": 2060,
+   "source": "NRA Museums",
+   "note": "1948.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "savage-99",
+   "q": "In which year was the Savage Model 99 introduced?",
+   "a": 1899,
+   "unit": "",
+   "min": 1860,
+   "max": 2020,
+   "source": "NRA Museums",
+   "note": "1899, with a rotary magazine.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "auto-5",
+   "q": "In which year did the first Browning Auto-5 shotgun ship?",
+   "a": 1903,
+   "unit": "",
+   "min": 1820,
+   "max": 1950,
+   "source": "NRA Museums",
+   "note": "September 1903, though the manufacturing contract dates from 1902.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-1897",
+   "q": "In which year was the Winchester Model 1897 shotgun introduced?",
+   "a": 1897,
+   "unit": "",
+   "min": 1860,
+   "max": 1970,
+   "source": "NRA Museums",
+   "note": "1897. In the trenches it was called the trench gun.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "ithaca-37",
+   "q": "In which year was the Ithaca 37 introduced?",
+   "a": 1937,
+   "unit": "",
+   "min": 1870,
+   "max": 1960,
+   "source": "NRA Museums",
+   "note": "1937.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "benelli-m4",
+   "q": "In which year did the US Marine Corps adopt the Benelli M4?",
+   "a": 1999,
+   "unit": "",
+   "min": 1920,
+   "max": 2020,
+   "source": "US Marine Corps",
+   "note": "1999, as the M1014.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "mosin-capacity",
+   "q": "How many rounds does a Mosin-Nagant magazine hold?",
+   "a": 5,
+   "unit": "rounds",
+   "min": 0,
+   "max": 8,
+   "source": "NRA Museums",
+   "note": "Five.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "223-remington",
+   "q": "In which year was the .223 Remington announced commercially?",
+   "a": 1963,
+   "unit": "",
+   "min": 1890,
+   "max": 2010,
+   "source": "NRA Museums",
+   "note": "December 1963, in the Remington Model 760.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "300-win-mag",
+   "q": "In which year was the .300 Winchester Magnum introduced?",
+   "a": 1963,
+   "unit": "",
+   "min": 1930,
+   "max": 2030,
+   "source": "NRA Museums",
+   "note": "1963.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "65-creedmoor",
+   "q": "In which year was the 6.5 Creedmoor introduced?",
+   "a": 2007,
+   "unit": "",
+   "min": 1960,
+   "max": 2080,
+   "source": "Hornady",
+   "note": "2007.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "57x28",
+   "q": "In which year was the 5.7x28mm cartridge introduced?",
+   "a": 1990,
+   "unit": "",
+   "min": 1940,
+   "max": 2070,
+   "source": "FN Herstal",
+   "note": "1990, for the FN P90.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "glock19",
+   "q": "In which year was the Glock 19 introduced?",
+   "a": 1988,
+   "unit": "",
+   "min": 1940,
+   "max": 2100,
+   "source": "NRA Museums",
+   "note": "1988.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "hughes-amendment",
+   "q": "In which year did the Hughes Amendment close the machine gun registry to civilians?",
+   "a": 1986,
+   "unit": "",
+   "min": 1940,
+   "max": 2090,
+   "source": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+   "note": "1986.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "m1-carbine-velocity",
+   "q": "What is the muzzle velocity of an M1 Carbine round, in feet per second?",
+   "a": 1990,
+   "unit": "fps",
+   "min": 0,
+   "max": 3000,
+   "source": "US Army technical manual",
+   "note": "About 1,990 fps.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "colt-saa-price",
+   "q": "What did a Colt Single Action Army cost at civilian retail in 1873, in dollars?",
+   "a": 16,
+   "unit": "$",
+   "min": 6,
+   "max": 50,
+   "source": "NRA Museums",
+   "note": "About $16 retail; army contract guns went for $13.30.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-1866-made",
+   "q": "How many Winchester Model 1866 rifles were produced?",
+   "a": 160000,
+   "unit": "rifles",
+   "min": 0,
+   "max": 500000,
+   "source": "Winchester Arms Collectors Association",
+   "note": "Nearly 160,000. The highest serial number is misleading because it continued the Henry range.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "sw-model-10",
+   "q": "In which year did Smith & Wesson introduce the revolver that became the Model 10?",
+   "a": 1899,
+   "unit": "",
+   "min": 1840,
+   "max": 1970,
+   "source": "NRA Museums",
+   "note": "1899 — the most-produced revolver in history.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "gatling-barrels",
+   "q": "How many barrels did the original Gatling gun have?",
+   "a": 6,
+   "unit": "barrels",
+   "min": 0.9,
+   "max": 25,
+   "source": "Smithsonian Institution",
+   "note": "Six.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "puckle-gun",
+   "q": "In which year was the Puckle gun, an early repeating firearm, patented?",
+   "a": 1718,
+   "unit": "",
+   "min": 1640,
+   "max": 1740,
+   "source": "Smithsonian Institution",
+   "note": "1718, in London.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "percussion-cap",
+   "q": "In which year was the percussion cap patented?",
+   "a": 1822,
+   "unit": "",
+   "min": 1780,
+   "max": 1900,
+   "source": "Smithsonian Institution",
+   "note": "1822, replacing the flintlock.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "minie-ball",
+   "q": "In which year was the Minié ball developed?",
+   "a": 1849,
+   "unit": "",
+   "min": 1800,
+   "max": 1920,
+   "source": "Smithsonian Institution",
+   "note": "1849 — it made rifled muskets practical and the Civil War far bloodier.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "winchester-1873-year",
+   "q": "In which year was the Winchester Model 1873 introduced?",
+   "a": 1873,
+   "unit": "",
+   "min": 1830,
+   "max": 1990,
+   "source": "NRA Museums",
+   "note": "1873 — 'the gun that won the West'.",
+   "tags": [
+    "guns"
+   ]
+  },
+  {
+   "id": "nics-year",
+   "q": "In which year did the NICS background check system begin operating?",
+   "a": 1998,
+   "unit": "",
+   "min": 1890,
+   "max": 2040,
+   "source": "Federal Bureau of Investigation",
+   "note": "November 1998.",
    "tags": [
     "guns"
    ]
